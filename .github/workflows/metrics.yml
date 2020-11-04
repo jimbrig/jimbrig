@@ -1,2 +1,7 @@
-- name: GitHub metrics as SVG image
-  uses: lowlighter/metrics@latest
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub metrics as SVG image
+        uses: lowlighter/metrics@latest
+
