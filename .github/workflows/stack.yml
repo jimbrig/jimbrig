@@ -1,0 +1,13 @@
+- name: profile_stack
+  # You may pin to the exact commit or the version.
+  # uses: Matt-Gleich/profile_stack@61813eef424b78870ba1c564f0982803c43d63d2
+  uses: Matt-Gleich/profile_stack@v1.4.1
+  with:
+    # File path for the config file
+    path: # optional, default is stack.yml
+    # Badges or plain text in the table
+    badges: # optional, default is true
+    # The emoji for the technology column
+    technology_emoji: # optional, default is 💻
+    # The emoji for the projects column
+    project_emoji: # optional, default is 🚀
