@@ -2,7 +2,7 @@
 name: GitHub metrics as SVG image
 on:
   schedule: [{cron: "0 * * * *"}]
-  push: {branches: "master"}
+  push: {branches: "main"}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
