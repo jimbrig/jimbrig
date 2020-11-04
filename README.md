@@ -7,11 +7,9 @@
 ## 🎖 Contribution Streak
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark"/>
-  </a>
-  <br>
- 
+  <a href="https://gh-contribution-stats.herokuapp.com/?user=jimbrig">
+    <img src="https://gh-contribution-stats.herokuapp.com/?user=jimbrig&theme=dark"/>
+  </a> 
 </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimbr" alt="jimbr" /></a> </p> -->
