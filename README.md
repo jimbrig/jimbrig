@@ -12,6 +12,17 @@
   </a> 
 </p>
 
+### 🗣 My activity:
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
+
+---
+
+<p align="center">
+  Last refresh: 
+  <b><!--TIMESTAMP--></b>
+</p>
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimbr" alt="jimbr" /></a> </p> -->
 
 ## <img align="left" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> GitHub
