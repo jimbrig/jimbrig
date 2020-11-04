@@ -1,24 +1,2 @@
-# Visit https://github.com/lowlighter/metrics for full reference
-name: GitHub metrics as SVG image
-on:
-  schedule: [{cron: "0 * * * *"}]
-  push: {branches: "main"}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # Setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
-          # You can also setup a bot token for commits
-          # committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-
-          # Options
-          user: jimbrig
-          template: classic
-          base: header, activity, community, repositories, metadata
-          plugin_pagespeed: yes
-          plugin_languages: yes
-          plugin_followup: yes
-          plugin_isocalendar: yes
+- name: GitHub metrics as SVG image
+  uses: lowlighter/metrics@latest
