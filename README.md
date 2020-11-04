@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jimmy Briggs</h1>
 <h3 align="center">A developer from Atlanta, GA.</h3>
 
-<!-- badges: start -->
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jimbrig2011/r-development)
-
-<!-- badges: end -->
+[Starred Repos](https://jimbrig.github.io/awesome-stars/) ⭐
 
 ## 🎖 Contribution Streak
 
@@ -14,6 +10,8 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark"/>
   </a>
+  <br>
+ 
 </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimbr" alt="jimbr" /></a> </p> -->
@@ -25,6 +23,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbrig&show_icons=true&locale=en" alt="jimbrig" /></p>
 
 ## 🧬 About Me
+
+<!-- badges: start -->
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jimbrig2011/r-development)
+
+<!-- badges: end -->
 
 - 💻 I am a full stack web developer and software engineer with focus on **R**.
 
