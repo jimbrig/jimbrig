@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Jimmy Briggs</h1>
 <h3 align="center">A developer from Atlanta, GA.</h3>
 
-<p align="center"><a href="https://github.com/jimbrig/jimsghstars">Starred Repos ⭐</a></p>
+<p align="center"><a href="https://jimbrig.github.io/awesome-stars/">Starred Repos ⭐</a></p>
 
 ## <img align="left" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> Stats
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, December 9th 2020, 5:16:03</b>
+  <b>Wednesday, December 9th 2020, 11:40:44</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -24,10 +24,10 @@
 <h3  align="left">💼 Activity</h3>
 
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/shiny-cloudrun-demo
+* ⬆️ Pushed 1 commit to jimbrig/shiny-cloudrun-demo
+* ⬆️ Pushed 1 commit to jimbrig/shiny-cloudrun-demo
+* 🍴 Forked jimbrig/PlacesToPostYourStartup from mmccaff/PlacesToPostYourStartup
 
 ---
 
