@@ -1,4 +1,5 @@
 jobs:
+  on: Push
   publish:
     runs-on: ubuntu-latest
     steps:
