@@ -1,4 +1,7 @@
 jobs:
+  on:	  publish:
+  schedule: 	
+  - cron: "0 2 * *"     
   publish:
     runs-on: ubuntu-latest
     steps:
