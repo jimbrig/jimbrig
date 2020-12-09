@@ -6,8 +6,6 @@
 
 ## <img align="left" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> Stats
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
-
 <h3  align="center">🎖 Contribution Streak</h3>
 
 <p align="center">
@@ -17,6 +15,10 @@
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbrig&show_icons=true&locale=en" alt="jimbrig" /></p>
+
+<h3  align="center">💼 Activity</h3>
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 <p align="center">
   Last refresh: 
