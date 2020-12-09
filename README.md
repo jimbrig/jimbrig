@@ -6,6 +6,8 @@
 
 ## <img align="left" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> Stats
 
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+
 <h3  align="center">🎖 Contribution Streak</h3>
 
 <p align="center">
@@ -18,7 +20,7 @@
 
 <p align="center">
   Last refresh: 
-  <b><!--TIMESTAMP--></b>
+  <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}--></b>
 </p>
 
 ---
