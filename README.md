@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Jimmy Briggs</h1>
 <h3 align="center">A developer from Atlanta, GA.</h3>
 
-[Starred Repos](https://jimbrig.github.io/awesome-stars/) ⭐
+<p align="center"><a href="https://jimbrig.github.io/awesome-stars/">Starred Repos ⭐</a></p>
 
-## <img align="left" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> GitHub
+## <img align="left" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> Stats
 
-### 🎖 Contribution Streak
+<h3  align="center">🎖 Contribution Streak</h3>
 
 <p align="center">
   <a href="https://gh-contribution-stats.herokuapp.com/?user=jimbrig">
@@ -14,7 +14,7 @@
   </a> 
 </p>
 
-### 🗣 My activity:
+<h3  align="center">🗣 My activity:</h3>
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
@@ -25,11 +25,11 @@
   <b><!--TIMESTAMP--></b>
 </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimbr" alt="jimbr" /></a> </p> -->
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimbr" alt="jimbr" /></a> </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&layout=compact" alt="jimbrig" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&layout=compact" alt="jimbrig" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbrig&show_icons=true&locale=en" alt="jimbrig" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbrig&show_icons=true&locale=en" alt="jimbrig" /></p>
 
 ## 🧬 About Me
 
@@ -63,8 +63,14 @@
 ***
 
 
-### 📃 Blogs posts
+### 📃 Blogs
 <!-- BLOG-POST-LIST:START -->
+
+- [Tychobra Blog](https//tychobra.com/posts/)
+- [The R Dispatch](https://therdispatch.jimbrig.com/)
+- [The R Dispatch Feed](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FqOVW62nvaI7U3Fp6BLtRqKnY)
+- [JimsDocs](https://jimbrig.github.io/jimsdocs/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ***
