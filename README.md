@@ -6,7 +6,11 @@
 
 ## <img align="left" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> Stats
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+⬆️ Pushed 1 commit to jimbrig/jimbrig
+⬆️ Pushed 1 commit to jimbrig/jimbrig
+⬆️ Pushed 0 commit to jimbrig/jimbrig
+⬆️ Pushed 1 commit to jimbrig/jimbrig
+⬆️ Pushed 1 commit to jimbrig/jimbrig
 
 <h3  align="center">🎖 Contribution Streak</h3>
 
@@ -20,7 +24,7 @@
 
 <p align="center">
   Last refresh: 
-  <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}--></b>
+  <b>Wednesday, December 9th 2020, 5:08:17</b>
 </p>
 
 ---
