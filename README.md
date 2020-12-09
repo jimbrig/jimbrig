@@ -6,12 +6,6 @@
 
 ## <img align="left" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> Stats
 
-⬆️ Pushed 1 commit to jimbrig/jimbrig
-⬆️ Pushed 1 commit to jimbrig/jimbrig
-⬆️ Pushed 0 commit to jimbrig/jimbrig
-⬆️ Pushed 1 commit to jimbrig/jimbrig
-⬆️ Pushed 1 commit to jimbrig/jimbrig
-
 <h3  align="center">🎖 Contribution Streak</h3>
 
 <p align="center">
@@ -22,9 +16,17 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbrig&show_icons=true&locale=en" alt="jimbrig" /></p>
 
+<h3  align="center">💼 Activity</h3>
+
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 0 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+
 <p align="center">
   Last refresh: 
-  <b>Wednesday, December 9th 2020, 5:08:17</b>
+  <b>Wednesday, December 9th 2020, 5:10:38</b>
 </p>
 
 ---
