@@ -64,6 +64,9 @@
 ***
 
 ### 📃 Blogs
+
+<!--FEED:{"rows": 5, "select": ["feed"], "raw": true, "title": true }-->
+
 <!-- BLOG-POST-LIST:START -->
 
 - [Tychobra Blog](https//tychobra.com/posts/)
