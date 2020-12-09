@@ -8,7 +8,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, December 9th 2020, 5:11:50</b>
+  <b>Wednesday, December 9th 2020, 5:14:31</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -27,7 +27,7 @@
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 0 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
 
 ---
 
@@ -68,6 +68,9 @@
 ***
 
 ### 📃 Blogs
+
+<!--FEED:{"rows": 5, "select": ["feed"], "raw": true, "title": true }-->
+
 <!-- BLOG-POST-LIST:START -->
 
 - [Tychobra Blog](https//tychobra.com/posts/)
