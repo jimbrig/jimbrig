@@ -1,5 +1,5 @@
+name: main
 on:
-  workflow_dispatch:
   schedule:
   - cron: "0 2 * * 1-7"
 jobs:
