@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Jimmy Briggs</h1>
 <h3 align="center">A developer from Atlanta, GA.</h3>
 
-<p align="center"><a href="https://github.com/jimbrig/jimsghstars/">Starred Repos ⭐</a></p>
+<p align="center"><a href="https://jimbrig.github.io/awesome-stars/">Starred Repos ⭐</a></p>
 
 ## <img align="left" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> Stats
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, December 10th 2020, 6:26:06</b>
+  <b>Wednesday, December 9th 2020, 11:40:44</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -19,15 +19,15 @@
   </a> 
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbrig&show_icons=true&locale=en" alt="jimbrig" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbrig&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="jimbrig" /></p>
 
 <h3  align="left">💼 Activity</h3>
 
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/shiny-cloudrun-demo
 * ⬆️ Pushed 1 commit to jimbrig/shiny-cloudrun-demo
+* ⬆️ Pushed 1 commit to jimbrig/shiny-cloudrun-demo
+* 🍴 Forked jimbrig/PlacesToPostYourStartup from mmccaff/PlacesToPostYourStartup
 
 ---
 
@@ -63,7 +63,7 @@
 
 ***
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&layout=compact" alt="jimbrig" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html&layout=compact" alt="jimbrig" /></p>
 
 ***
 
@@ -92,6 +92,10 @@
 <a href="/https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2ffeedly.com%2ff%2fqovw62nvai7u3fp6bltrqkny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2ffeedly.com%2ff%2fqovw62nvai7u3fp6bltrqkny" height="30" width="40" /></a>
 </p>
 
+***
 
+## 📌 Pinned Repos
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?organization=tychobra&polished)](https://github.com/tychobra/polished) -->
 
 
