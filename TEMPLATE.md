@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Jimmy Briggs</h1>
 <h3 align="center">A developer from Atlanta, GA.</h3>
 
-<p align="center"><a href="https://jimbrig.github.io/awesome-stars/">Starred Repos ⭐</a></p>
+<p align="center"><a href="https://github.com/jimbrig/jimsghstars/">Starred Repos ⭐</a></p>
 
 ## <img align="left" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> Stats
 
 <p align="center">
   Last refresh: 
-  <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}--></b>
+  <b>Thursday, December 10th 2020, 6:26:06</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -23,7 +23,11 @@
 
 <h3  align="left">💼 Activity</h3>
 
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/shiny-cloudrun-demo
+* ⬆️ Pushed 1 commit to jimbrig/shiny-cloudrun-demo
 
 ---
 
