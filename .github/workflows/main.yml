@@ -1,7 +1,14 @@
+name: README Stats
 
-on: [push]
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
+
 jobs:
-  publish:
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
