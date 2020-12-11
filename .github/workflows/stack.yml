@@ -1,5 +1,10 @@
 name: profile_stack
-on: [push]
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
 
 jobs:
   profile_stack:
