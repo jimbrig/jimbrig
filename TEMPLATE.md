@@ -29,7 +29,11 @@
 * ⬆️ Pushed 1 commit to jimbrig/shiny-cloudrun-demo
 * 🍴 Forked jimbrig/PlacesToPostYourStartup from mmccaff/PlacesToPostYourStartup
 
----
+***
+
+![GitHub metrics](https://metrics.lecoq.io/jimbrig?base.repositories=0&languages=1&followup=1&isocalendar=1&gists=1)
+
+***
 
 ## 🧬 About Me
 
