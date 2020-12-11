@@ -28,7 +28,11 @@
 
 ***
 
-![GitHub metrics](https://metrics.lecoq.io/jimbrig?base.repositories=0&languages=1&followup=1&isocalendar=1&gists=1)
+<p align="center">
+  <a href="https://metrics.lecoq.io/">
+    <img src="https://metrics.lecoq.io/jimbrig?base.repositories=0&languages=1&followup=1&isocalendar=1&gists=1"/>
+  </a> 
+</p>
 
 ***
 
