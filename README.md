@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jimmy Briggs</h1>
 <h3 align="center">A developer from Atlanta, GA.</h3>
 
-<p align="center"><a href="https://jimbrig.github.io/awesome-stars/">Starred Repos ⭐</a></p>
+<p align="center"><a href="https://jimbrig.github.io/awesome-stars/">Starred Repos ⭐</a> | <a=href="https://github.com/jimbrig/winsetup/">Windows Setup (WIP) 💻</p>
 
 ## <img align="center" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> Stats
 
