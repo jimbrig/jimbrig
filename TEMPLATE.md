@@ -23,7 +23,7 @@
 
 <h3  align="left">💼 Activity</h3>
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 
 ***
