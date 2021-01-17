@@ -5,6 +5,7 @@ on:
   schedule:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
+  push:
       
 jobs:
   update-readme:
