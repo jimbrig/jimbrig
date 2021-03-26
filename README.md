@@ -32,6 +32,8 @@
 
 ***
 
+![Metrics](https://metrics.lecoq.io/jimbrig?template=classic&config.timezone=America%2FNew_York)
+
 <p align="center">
   <a href="https://metrics.lecoq.io/">
     <img src="https://metrics.lecoq.io/jimbrig?base.repositories=0&languages=1&followup=1&isocalendar=1&gists=1"/>
