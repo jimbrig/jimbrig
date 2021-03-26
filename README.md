@@ -118,6 +118,6 @@
 
 ## 📌 Pinned Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?organization=tychobra&polished)](https://github.com/tychobra/polished)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?organization=tychobra&repository=polished)](https://github.com/tychobra/polished)
 
 
