@@ -32,7 +32,7 @@
 
 ***
 
-![Metrics](https://metrics.lecoq.io/jimbrig?template=classic&config.timezone=America%2FNew_York)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
 
 <p align="center">
   <a href="https://metrics.lecoq.io/">
