@@ -2,6 +2,9 @@
 <h3 align="center">A developer from Atlanta, GA.</h3>
 
 <p align="center"><a href="https://jimbrig.github.io/awesome-stars/">Starred Repos ⭐</a></p>
+<p align="center"><a href="https://dev.to/jimbrig">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jimmy Briggs's DEV Community Profile" height="30" width="30">
+</a></p>
 
 ## 🧬 About Me
 - 💻 I am a full stack web developer and software engineer with focus on **R**.
