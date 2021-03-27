@@ -68,7 +68,7 @@
     - https://github.com/jimbrig/shiny-server
     - https://github.com/tychobra/polished
 - name: Azure
-  logo: azure
+  logo: microsoft%20azure
   url: 'https://azure.microsoft.com/en-us/'
   color: '0089D6'
   projects:
@@ -93,7 +93,7 @@
   projects:
     - https://github.com/powwater/landing_page
 - name: Dotfiles
-  logo: terminal
+  logo: windows%20terminal
   url: https://docs.microsoft.com/en-us/windows/dev-environment/overview
   color: '4D4D4D'
   projects:
@@ -125,7 +125,7 @@
   projects:
     - https://github.com/jimbrig/gatsby-cloud-test-site
 - name: Excel-VBA
-  logo: excel
+  logo: microsoft%20excel
   url: excel.com
   color: '217346'
   projects:
