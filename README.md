@@ -96,9 +96,10 @@
  </a>
 </p>
 
-## 🛠 Languages and Tools <a href="https://stackshare.io/jimbrig2011/r-development"><img align="right" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"/></a>
+<h2 align="center">🛠 Languages and Tools</h2>
+<a href="https://stackshare.io/jimbrig2011/r-development"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html" alt="jimbrig" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html,javascript" alt="jimbrig" /></p>
 
 <h2 align="center">📢 Connect</h2>
 
