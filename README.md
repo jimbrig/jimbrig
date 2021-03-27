@@ -62,10 +62,8 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🏁 **Projects** |
 |-|-|
-| [R](https://www.r-project.org/) | [Polished](https://github.com/tychobra/polished) - [shinydashboardPlus](https://github.com/rinterface/shinydashboardplus) - [Containerit](https://github.com/obj/containerit) - [Jimstools](https://github.com/jimbrig/jimstools) - [JimsTemplates](https://github.com/jimbrig/jimstemplates) |
-| [Google Cloud](https://cloud.google.com/) | [Polished](https://github.com/tychobra/polished) and [Polished Hosted](https://polished.tech) |
-| Docker and Kubernetes | [Containerit](https://github.com/obj/containerit) - [BuildTools](https://github.com/jimbrig/buildtools) |
-| PostgreSQL | *Various* |
+| [R](https://www.r-project.org/) | [polished](https://github.com/tychobra/polished) [jimstools](https://github.com/jimbrig/jimstools) [jimstemplates](https://github.com/jimbrig/jimstemplates) |
+| [Google Cloud](https://cloud.google.com/) | [polished](https://github.com/tychobra/polished) [polished.tech](https://polished.tech) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 ### 📃 Blogs
