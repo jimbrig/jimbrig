@@ -25,7 +25,7 @@
 <h3  align="center">🎖 Contribution Streak</h3>
 
 <p align="center">
-  <a href="https://gh-contribution-stats.herokuapp.com/?user=jimbrig">
+  <a href="https://gh-contribution-stats.herokuapp.com/?user=jimbrig&theme=dark">
     <img src="https://gh-contribution-stats.herokuapp.com/?user=jimbrig&theme=dark"/>
   </a> 
 </p>
