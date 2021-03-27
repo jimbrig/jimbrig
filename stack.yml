@@ -33,12 +33,32 @@
     - https://github.com/jimbrig/cookiecutter-R-package
     - https://github.com/jimbrig/LDARcode
     - https://github.com/jimbrig/consultthat
+- name: Docker
+  logo: docker
+  url: https://www.docker.com/
+  color: 4FA1EF
+  projects:
+    - https://github.com/tychobra/polished
+    - https://github.com/o2r-project/containerit
+    - https://github.com/jimbrig/shiny-cloudrun-demo
+    - https://github.com/jimbrig/shiny-server
+    - https://github.com/jimbrig/Shiny_app_Azure
+    - https://github.com/powwater/powpolished
+    - https://github.com/powwater/vendor_dashboard
+- name: PostgreSQL
+  logo: postgresql
+  url: https://postgres.org
+  color: '336791'
+  projects:
+    - https://github.com/powwater/powpolished
+    - https://github.com/powwater/vendor_dashboard
 - name: React Native
   logo: reactnative
   url: https://reactnative.com/
   color: 52C0F2
   projects:
     - https://github.com/jimbrig/nativeapp
+    - https://github.com/powwater/flutterwave-react-native
 - name: Google Cloud
   logo: googlecloud
   url: https://cloud.google.com/
@@ -63,31 +83,33 @@
   color:
   projects:
     - https://github.com/jimbrig/jimsessentials
-    
+    - https://github.com/powwater/powdocs
+- name: HTML
+  projects:
+    - https://github.com/powwater/landing_page
 - name: Dotfiles
   logo:
   url:
   color:
   projects:
     - https://github.com/jimbrig/jimsdots
+    - https://github.com/jimbrig/rsconfig
     - https://github.com/jimbrig/dotfiles-windows
+    - https://github.com/jimbrig/winsetup
     - https://github.com/jimbrig/.github
     - https://github.com/jimbrig/r-bucket
     - https://github.com/jimbrig/dotfiles-new
-    
 - name: Git
   projects:
     - https://github.com/jimbrig/git-training
-
 - name: MkDocs
   projects:
     - https://github.com/jimbrig/jimsdocs
     - https://github.com/powwater/powdocs
-  
+    - https://github.com/jimbrig/git-training
  - name: GatsbyJS
    projects:
      - https://github.com/jimbrig/gatsby-cloud-test-site
-
 - name: Excel and VBA
   projects:
     - https://github.com/jimbrig/xl-macros
