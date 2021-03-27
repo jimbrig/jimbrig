@@ -101,7 +101,9 @@
 <a href="/https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2ffeedly.com%2ff%2fqovw62nvai7u3fp6bltrqkny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2ffeedly.com%2ff%2fqovw62nvai7u3fp6bltrqkny" height="30" width="40" /></a>
 </p>
 
-<details><summary><h2>Github Metrics</h2></summary>
+## Github Metrics
+
+<details><summary><h2>Click to Expand</h2></summary>
 <p align="center"><a href="#" target="blank"><img align="center" src="github-metrics.svg" /></a></p>
 </details>
 
