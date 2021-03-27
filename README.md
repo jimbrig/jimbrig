@@ -30,8 +30,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbrig&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="jimbrig" /></p>
 
-***
-
 <h3 align="center">🏁 Projects</h3>
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
@@ -53,9 +51,7 @@
 | [![Excel-VBA](https://img.shields.io/static/v1?label=&message=Excel-VBA&color=217346&logo=microsoft%20excel&logoColor=white)](excel.com) | [![xl-macros](https://img.shields.io/static/v1?label=&message=xl-macros&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/jimbrig/xl-macros) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-***
-
-💼 Activity
+## 💼 Activity
 
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
@@ -63,7 +59,7 @@
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 
-✔ Todoist Stats
+## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
 🏆  20,568 Karma Points           
@@ -72,16 +68,6 @@
 ✅  Completed 6,467 tasks so far           
 ⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
-
-### 🛠 Languages and Tools:
-
-<!-- badges: start -->
- <a href="https://stackshare.io/jimbrig2011/r-development">
-   <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"/>
- </a>
-<!-- badges: end -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html" alt="jimbrig" />
 
 ## 📃 Blogs
 
@@ -109,6 +95,10 @@
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimbrig&repo=jimstools">
  </a>
 </p>
+
+## 🛠 Languages and Tools <a href="https://stackshare.io/jimbrig2011/r-development"><img align="right" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"/></a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html" alt="jimbrig" />
 
 <h2 align="center">📢 Connect</h2>
 
