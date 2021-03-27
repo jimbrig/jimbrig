@@ -52,14 +52,14 @@
   projects:
     - https://github.com/powwater/powpolished
     - https://github.com/powwater/vendor_dashboard
-- name: React Native
+- name: ReactNative
   logo: react
   url: 'https://reactnative.com/'
   color: '52C0F2'
   projects:
     - https://github.com/jimbrig/nativeapp
     - https://github.com/powwater/flutterwave-react-native
-- name: Google Cloud
+- name: GoogleCloud
   logo: googlecloud
   url: 'https://cloud.google.com/'
   color: '52C0F2'
@@ -79,7 +79,7 @@
   color: '52C0F2'
   projects:
     - https://github.com/jimbrig/winsetup
-- name: Javascript
+- name: JavaScript
   logo: javascript
   url: https://javascript.com
   color: '52C0F2'
@@ -92,7 +92,7 @@
   color: '52C0F2'
   projects:
     - https://github.com/powwater/landing_page
-- name: Windows Configuration and Dotfiles
+- name: Dotfiles
   logo: windowsterminal
   url: https://docs.microsoft.com/en-us/windows/dev-environment/overview
   color: '4D4D4D'
@@ -124,7 +124,7 @@
   color: '52C0F2'
   projects:
     - https://github.com/jimbrig/gatsby-cloud-test-site
-- name: Excel and VBA
+- name: Excel-VBA
   logo: microsoftexcel
   url: excel.com
   color: '52C0F2'
