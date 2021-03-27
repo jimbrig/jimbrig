@@ -103,8 +103,10 @@
 
 ## Github Metrics
 
-<details><summary><h2>Click to Expand</h2></summary>
-<p align="center"><a href="#" target="blank"><img align="center" src="github-metrics.svg" /></a></p>
+<details><summary>Click to Expand</summary>
+  <p align="center">
+    <a href="#" target="blank"><img align="center" src="github-metrics.svg" /></a>
+  </p>
 </details>
 
 
