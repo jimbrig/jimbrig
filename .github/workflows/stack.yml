@@ -1,11 +1,9 @@
 name: Profile Stack
 
 on:
-  workflow_dispatch:
   push:
     branches:
       - master
-      - main
 
 jobs:
   profile_stack:
@@ -13,8 +11,3 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: Matt-Gleich/profile_stack@master
-        with:
-          path: stack.yml
-          badges: true
-          technology_emoji: 💻
-          project_emoji: 🏁
