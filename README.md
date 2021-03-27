@@ -45,13 +45,11 @@
 
 <h3  align="center">💼 Activity</h3>
 
-<p align="center">
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
-</p>
 
 <h4  align="center">✔ Todoist Stats</h3>
 
