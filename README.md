@@ -76,8 +76,6 @@
 - [The R Dispatch Feed](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FqOVW62nvaI7U3Fp6BLtRqKnY)
 - [JimsDocs](https://jimbrig.github.io/jimsdocs/)
 
-### ✍ Posts
-
 <!-- BLOG-POST-LIST:START -->
 <!--FEED:{"rows": 5, "select": ["feed"], "raw": true, "title": true }-->
 <!-- BLOG-POST-LIST:END -->
@@ -97,7 +95,7 @@
 </p>
 
 <h2 align="center">🛠 Languages and Tools</h2>
-<a href="https://stackshare.io/jimbrig2011/r-development"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"/></a>
+<p align="center"><a href="https://stackshare.io/jimbrig2011/r-development"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"/></a></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html,javascript" alt="jimbrig" /></p>
 
