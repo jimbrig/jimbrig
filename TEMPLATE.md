@@ -25,12 +25,16 @@
 <h3  align="center">🎖 Contribution Streak</h3>
 
 <p align="center">
-  <a href="https://gh-contribution-stats.herokuapp.com/?user=jimbrig&theme=dark">
-    <img src="https://gh-contribution-stats.herokuapp.com/?user=jimbrig&theme=dark"/>
+  <a href="http://github-readme-streak-stats.herokuapp.com?user=jimbrig&theme=dark">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=jimbrig&theme=dark"/>
   </a> 
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbrig&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="jimbrig" /></p>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=jimbrig&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <img src="http://github-readme-stats.vercel.app/api?username=jimbrig&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  </a>
+</p>
 
 <h3 align="center">🏁 Projects</h3>
 
