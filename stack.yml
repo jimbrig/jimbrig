@@ -4,13 +4,91 @@
   color: 52C0F2
   projects:
     - https://github.com/tychobra/polished
+    - https://github.com/rinterface/shinydashboardplus
+    - https://github.com/o2r-project/containerit
     - https://github.com/jimbrig/jimstools
     - https://github.com/jimbrig/jimstemplates
+    - https://github.com/jimbrig/jimsghstars
+    - https://github.com/jimbrig/jimstaskviews
+    - https://github.com/jimbrig/github-issue-table
+    - https://github.com/jimbrig/rtraining
+    - https://github.com/jimbrig/profile_app
+    - https://github.com/jimbrig/EDA
+    - https://github.com/jimbrig/propalloc
+    - https://github.com/jimbrig/codmw
+    - https://github.com/jimbrig/claim-pm
+    - https://github.com/jimbrig/status
+    - https://github.com/jimbrig/browsr
+    - https://github.com/jimbrig/rpackage-template
+    - https://github.com/jimbrig/addinslist
+    - https://github.com/jimbrig/dedup
+    - https://github.com/jimbrig/tmetricr
+    - https://github.com/jimbrig/myicons
+    - https://github.com/jimbrig/EDA_R_Packages
+    - https://github.com/jimbrig/rsconfig
+    - https://github.com/jimbrig/phishr
+    - https://github.com/jimbrig/incognito
+    - https://github.com/jimbrig/template_shinydashboard
+    - https://github.com/jimbrig/shinyapp-template
+    - https://github.com/jimbrig/cookiecutter-R-package
+    - https://github.com/jimbrig/LDARcode
+    - https://github.com/jimbrig/consultthat
+- name: React Native
+  logo: reactnative
+  url: https://reactnative.com/
+  color: 52C0F2
+  projects:
+    - https://github.com/jimbrig/nativeapp
 - name: Google Cloud
   logo: googlecloud
   url: https://cloud.google.com/
   color: 52C0F2
   projects:
+    - https://github.com/jimbrig/shiny-cloudrun-demo
+    - https://github.com/jimbrig/shiny-server
     - https://github.com/tychobra/polished
     - url: https://polished.tech
-      wip: true
+- name: Azure
+  projects:
+    - https://github.com/jimbrig/Shiny_app_Azure
+- name: PowerShell
+  logo: powershell
+  url:
+  color:
+  projects:
+    - https://github.com/jimbrig/winsetup
+- name: Javascript
+  logo: javascript
+  url:
+  color:
+  projects:
+    - https://github.com/jimbrig/jimsessentials
+    
+- name: Dotfiles
+  logo:
+  url:
+  color:
+  projects:
+    - https://github.com/jimbrig/jimsdots
+    - https://github.com/jimbrig/dotfiles-windows
+    - https://github.com/jimbrig/.github
+    - https://github.com/jimbrig/r-bucket
+    - https://github.com/jimbrig/dotfiles-new
+    
+- name: Git
+  projects:
+    - https://github.com/jimbrig/git-training
+
+- name: MkDocs
+  projects:
+    - https://github.com/jimbrig/jimsdocs
+    - https://github.com/powwater/powdocs
+  
+ - name: GatsbyJS
+   projects:
+     - https://github.com/jimbrig/gatsby-cloud-test-site
+
+- name: Excel and VBA
+  projects:
+    - https://github.com/jimbrig/xl-macros
+    
