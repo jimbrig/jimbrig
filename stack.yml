@@ -60,7 +60,7 @@
     - https://github.com/jimbrig/nativeapp
     - https://github.com/powwater/flutterwave-react-native
 - name: GoogleCloud
-  logo: googlecloud
+  logo: google%20cloud
   url: 'https://cloud.google.com/'
   color: '4285F4'
   projects:
@@ -68,7 +68,7 @@
     - https://github.com/jimbrig/shiny-server
     - https://github.com/tychobra/polished
 - name: Azure
-  logo: microsoftazure
+  logo: azure
   url: 'https://azure.microsoft.com/en-us/'
   color: '0089D6'
   projects:
@@ -93,7 +93,7 @@
   projects:
     - https://github.com/powwater/landing_page
 - name: Dotfiles
-  logo: windowsterminal
+  logo: terminal
   url: https://docs.microsoft.com/en-us/windows/dev-environment/overview
   color: '4D4D4D'
   projects:
@@ -111,7 +111,7 @@
   projects:
     - https://github.com/jimbrig/git-training
 - name: MkDocs
-  logo: visualstudiocode
+  logo: markdown
   url: https://www.mkdocs.org/
   color: '000000'
   projects:
@@ -125,7 +125,7 @@
   projects:
     - https://github.com/jimbrig/gatsby-cloud-test-site
 - name: Excel-VBA
-  logo: microsoftexcel
+  logo: excel
   url: excel.com
   color: '217346'
   projects:
