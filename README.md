@@ -13,7 +13,8 @@
 - 📝 I regulary write articles on [https://therdispatch.netlify.app/](https://therdispatch.netlify.app/)
 - 💬 Ask me about **Anything R, Windows 10, or Physics**
 - 📫 How to reach me: **<jimbrig2011@outlook.com>**
-- 📄 View my notes on [https://therdispatch.postach.io/](https://therdispatch.postach.io/) or [https://r-knowledge-base.postach.io/](https://r-knowledge-base.postach.io/)
+- 📝 View my notes in my [jimsnotes repo](https://github.com/jimsnotes/)
+- 📄 View my posts on [https://therdispatch.postach.io/](https://therdispatch.postach.io/) or [https://r-knowledge-base.postach.io/](https://r-knowledge-base.postach.io/)
 
 
 ## <img align="center" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> Stats
