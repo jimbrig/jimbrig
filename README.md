@@ -31,32 +31,25 @@
 * ⬆️ Pushed 2 commits to jimbrig/therdispatch-blogdown <br>
 </p>
 
-
-***
-
 <p align="center">&nbsp;<img align="center" src="https://metrics.lecoq.io/jimbrig?template=classic&repositories=1000&repositories.forks=true&repositories.affiliations=&isocalendar=1&languages=1&introduction=1&stars=1&people=1&gists=1&followup=1&lines=1&projects=1&activity=1&achievements=1&pagespeed=1&stackoverflow=1&posts=1&rss=1&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=4&people.limit=28&people.size=15&people.types=followers&people.thanks=merlinoa&people.identicons=false&people.shuffle=true&projects.limit=4&projects.descriptions=true&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&pagespeed.url=https%3A%2F%2Ftherdispatch.com&pagespeed.detailed=true&pagespeed.screenshot=true&stackoverflow.user=0&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&posts.source=dev.to&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&rss.source=https%3A%2F%2Ffeedly.com%2Fi%2Fsubscription%2Ffeed%252Fhttps%253A%252F%252Ffeedly.com%252Ff%252FqOVW62nvaI7U3Fp6BLtRqKnY&rss.limit=4&config.timezone=America%2FNew_York&config.twemoji=true" alt="metrics" /></p>
-
-***
 
 ## 🧬 About Me
 
 - 💻 I am a full stack web developer and software engineer with focus on **R**.
-
 - 🔭 I’m currently working on [jimstools](https://github.com/jimstools) and many other projects.
-
 - 👨‍💻 All of my projects are available at [https://github.com/jimbrig](https://github.com/jimbrig)
-
 - 📝 I regulary write articles on [https://therdispatch.netlify.app/](https://therdispatch.netlify.app/)
-
 - 💬 Ask me about **Anything R, Windows 10, or Physics**
-
 - 📫 How to reach me: **<jimbrig2011@outlook.com>**
-
 - 📄 View my notes on [https://therdispatch.postach.io/](https://therdispatch.postach.io/) or [https://r-knowledge-base.postach.io/](https://r-knowledge-base.postach.io/)
 
-***
-
 ### 🛠 Languages and Tools:
+
+<p align="center">
+  <a href="https://github.com/jimbrig">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbrig&hide=javascript,html"/>
+  </a> 
+</p>
 
 <!-- badges: start -->
 
@@ -64,15 +57,15 @@
 
 <!-- badges: end -->
 
-***
-
 ### 🏁 Projects
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🏁 **Projects** |
 |-|-|
-| [R](https://www.r-project.org/) | [polished](https://github.com/tychobra/polished) [jimstools](https://github.com/jimbrig/jimstools) [jimstemplates](https://github.com/jimbrig/jimstemplates) |
-| [Google Cloud](https://cloud.google.com/) | [polished](https://github.com/tychobra/polished) [polished.tech](https://polished.tech) |
+| [R](https://www.r-project.org/) | [Polished](https://github.com/tychobra/polished) - [shinydashboardPlus](https://github.com/rinterface/shinydashboardplus) - [Containerit](https://github.com/obj/containerit) - [Jimstools](https://github.com/jimbrig/jimstools) - [JimsTemplates](https://github.com/jimbrig/jimstemplates) |
+| [Google Cloud](https://cloud.google.com/) | [Polished](https://github.com/tychobra/polished) and [Polished Hosted](https://polished.tech) |
+| Docker and Kubernetes | [Containerit](https://github.com/obj/containerit) - [BuildTools](https://github.com/jimbrig/buildtools) |
+| PostgreSQL | *Various* |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 ### 📃 Blogs
@@ -118,6 +111,18 @@
 
 ## 📌 Pinned Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?organization=tychobra&repository=polished)](https://github.com/tychobra/polished)
+<p align="center">
+ <a href="https://github.com/tychobra/polished">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tychobra&repo=polished">
+ </a>
+</p>
+
+<p align="center">
+ <a href="https://github.com/tychobra/polished">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimbrig&repo=jimstools">
+ </a>
+</p>
+
+           [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tychobra&repo=polished)](https://github.com/tychobra/polished)
 
 
