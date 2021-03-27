@@ -4,8 +4,6 @@
 
 <p align="center"><a href="https://jimbrig.github.io/awesome-stars/">Starred Repos ⭐</a></p>
 
-***
-
 ## 🧬 About Me
 - 💻 I am a full stack web developer and software engineer with focus on **R**.
 - 🔭 I’m currently working on [jimstools](https://github.com/jimstools) and many other projects.
@@ -15,8 +13,7 @@
 - 📫 How to reach me: **<jimbrig2011@outlook.com>**
 - 📄 View my notes on [https://therdispatch.postach.io/](https://therdispatch.postach.io/) or [https://r-knowledge-base.postach.io/](https://r-knowledge-base.postach.io/)
 
-
-## <img align="center" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> Stats
+## 💪 Stats
 
 <p align="center">
   Last refresh: 
@@ -76,10 +73,7 @@
 ⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
-***
-
 ### 🛠 Languages and Tools:
-
 
 <!-- badges: start -->
  <a href="https://stackshare.io/jimbrig2011/r-development">
@@ -99,12 +93,8 @@
 ### ✍ Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!--FEED:{"rows": 5, "select": ["feed"], "raw": true, "title": true }-->
-
 <!-- BLOG-POST-LIST:END -->
-
-***
 
 <h2 align="center">📌 Pinned Repos</h2>
 
