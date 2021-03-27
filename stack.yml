@@ -67,7 +67,6 @@
     - https://github.com/jimbrig/shiny-cloudrun-demo
     - https://github.com/jimbrig/shiny-server
     - https://github.com/tychobra/polished
-    - url: https://polished.tech
 - name: Azure
   logo: microsoftazure
   url: 'https://azure.microsoft.com/en-us/'
@@ -119,16 +118,15 @@
     - https://github.com/jimbrig/jimsdocs
     - https://github.com/powwater/powdocs
     - https://github.com/jimbrig/git-training
- - name: GatsbyJS
-   logo: gatsby
-   url: https://www.gatsbyjs.com/
-   color: '52C0F2'
-   projects:
-     - https://github.com/jimbrig/gatsby-cloud-test-site
+- name: GatsbyJS
+  logo: gatsby
+  url: https://www.gatsbyjs.com/
+  color: '52C0F2'
+  projects:
+    - https://github.com/jimbrig/gatsby-cloud-test-site
 - name: Excel and VBA
   logo: microsoftexcel
   url: excel.com
   color: '52C0F2'
   projects:
-    - https://github.com/jimbrig/xl-macros
-    
+    - https://github.com/jimbrig/xl-macros   
