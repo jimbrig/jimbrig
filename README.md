@@ -58,7 +58,7 @@
 
 ***
 
-<h3  align="center">💼 Activity</h3>
+💼 Activity
 
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
@@ -66,7 +66,7 @@
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 
-<h4  align="center">✔ Todoist Stats</h3>
+✔ Todoist Stats
 
 <!-- TODO-IST:START -->
 🏆  20,568 Karma Points           
@@ -82,27 +82,21 @@
 
 
 <!-- badges: start -->
-<p align="center">
  <a href="https://stackshare.io/jimbrig2011/r-development">
    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"/>
  </a>
-</p>
 <!-- badges: end -->
 
-***
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html" alt="jimbrig" />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html" alt="jimbrig" /></p>
-
-***
-
-<h3 align="center">📃 Blogs</h3>
+## 📃 Blogs
 
 - [Tychobra Blog](https://tychobra.com/posts/)
 - [The R Dispatch](https://therdispatch.jimbrig.com/)
 - [The R Dispatch Feed](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FqOVW62nvaI7U3Fp6BLtRqKnY)
 - [JimsDocs](https://jimbrig.github.io/jimsdocs/)
 
-<h4 align="center">✍ Posts</h4>
+### ✍ Posts
 
 <!-- BLOG-POST-LIST:START -->
 
