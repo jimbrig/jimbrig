@@ -19,7 +19,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-03-28T20:01:57Z</b>
+  <b>2021-03-28T22:02:02Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -59,20 +59,16 @@
 
 ## 💼 Activity
 
-* ⬆️ Pushed 1 commit to jimbrig/shiny_react_fluent_app
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* 🍴 Forked jimbrig/github-readme-streak-stats from DenverCoder1/github-readme-streak-stats
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimsdots
+* ⬆️ Pushed 1 commit to jimbrig/jimsdots
+* ⬆️ Pushed 1 commit to jimbrig/jimsdots
+* ⬆️ Pushed 1 commit to jimbrig/jimsdots
+* ⬆️ Pushed 1 commit to jimbrig/jimsdots
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,568 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 4 tasks this week           
-✅  Completed 6,467 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
