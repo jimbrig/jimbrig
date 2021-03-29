@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/tychobra/polished">
+ <a href="https://github.com/jimbrig/jimstools">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimbrig&repo=jimstools">
  </a>
 </p>
