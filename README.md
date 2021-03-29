@@ -19,7 +19,7 @@
 
 <p align="center">
   Last refresh: 
-  <b><!--TIMESTAMP--></b>
+  <b>2021-03-29T20:02:42Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -61,16 +61,16 @@
 
 ## 💼 Activity
 
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimsnotes
+* ⬆️ Pushed 2 commits to jimbrig/jimsnotes
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,574 Karma Points           
-🌸  Completed 5 tasks today           
-🗓  Completed 5 tasks this week           
-✅  Completed 6,472 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
