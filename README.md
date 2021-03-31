@@ -24,11 +24,13 @@
   - [https://r-knowledge-base.postach.io/](https://r-knowledge-base.postach.io/)
   - [Tychobra Blog](https://tychobra.com/posts/)
 
+  
+
 ## 💪 Stats
 
 <p align="center">
   Last refresh: 
-  <b>2021-03-31T00:04:50Z</b>
+  <b>2021-03-31T02:19:18Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -70,20 +72,16 @@
 
 ## 💼 Activity
 
-* ⬆️ Pushed 1 commit to jimbrig/jimsdots
-* ⬆️ Pushed 1 commit to jimbrig/jimsdots
-* ⬆️ Pushed 1 commit to jimbrig/jimsdots
-* ⬆️ Pushed 1 commit to jimbrig/jimsdots
-* ⬆️ Pushed 1 commit to jimbrig/jimsdots
+* ⬆️ Pushed 4 commits to jimbrig/jimstools
+* 🎉 Merged PR #9 in jimbrig/jimstools
+* 💪 Opened PR #9 in jimbrig/jimstools
+* ⬆️ Pushed 1 commit to jimbrig/jimstools
+* ⬆️ Pushed 4 commits to jimbrig/jimstools
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,602 Karma Points           
-🌸  Completed 3 tasks today           
-🗓  Completed 12 tasks this week           
-✅  Completed 6,479 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
