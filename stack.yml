@@ -52,6 +52,7 @@
   projects:
     - https://github.com/powwater/powpolished
     - https://github.com/powwater/vendor_dashboard
+    - https://github.com/jimbrig/postgresql_rest_api
 - name: ReactNative
   logo: react
   url: 'https://reactnative.com/'
@@ -79,6 +80,7 @@
   color: '5391FE'
   projects:
     - https://github.com/jimbrig/winsetup
+    - https://github.com/jimbrig/jimsdots
 - name: JavaScript
   logo: javascript
   url: https://javascript.com
