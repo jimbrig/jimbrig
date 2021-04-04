@@ -30,7 +30,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-04-04T10:01:51Z</b>
+  <b>2021-04-04T12:02:33Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -70,20 +70,16 @@
 
 ## 💼 Activity
 
+* 🗣 Commented on #69 in powwater/vendor_dashboard
+* ❗️ Opened issue #69 in powwater/vendor_dashboard
 * ⬆️ Pushed 5 commits to jimbrig/jimsdots
 * ⬆️ Pushed 1 commit to jimbrig/jimsdots
 * ⬆️ Pushed 1 commit to powwater/reactnative_map_app
-* ⬆️ Pushed 1 commit to powwater/reactnative_map_app
-* ⬆️ Pushed 8 commits to powwater/reactnative_map_app
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,625 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 17 tasks this week           
-✅  Completed 6,484 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
