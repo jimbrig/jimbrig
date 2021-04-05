@@ -30,7 +30,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-04-05T20:02:01Z</b>
+  <b>2021-04-05T22:02:06Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -70,20 +70,16 @@
 
 ## 💼 Activity
 
+* ⬆️ Pushed 1 commit to powwater/vendor_dashboard
 * ⬆️ Pushed 9 commits to powwater/powdocs
 * ⬆️ Pushed 1 commit to powwater/powdocs
 * ⬆️ Pushed 1 commit to powwater/powdocs
 * ⬆️ Pushed 1 commit to powwater/powdocs
-* 🗣 Commented on #69 in powwater/vendor_dashboard
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,625 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 6,484 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
