@@ -30,7 +30,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-04-08T20:02:10Z</b>
+  <b>2021-04-09T00:06:51Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -70,20 +70,16 @@
 
 ## 💼 Activity
 
+* 💪 Opened PR #76 in powwater/vendor_dashboard
+* ⬆️ Pushed 2 commits to powwater/vendor_dashboard
 * ⬆️ Pushed 6 commits to powwater/vendor_dashboard
 * ⬆️ Pushed 1 commit to powwater/vendor_dashboard
 * ⬆️ Pushed 1 commit to powwater/vendor_dashboard
-* ⬆️ Pushed 1 commit to powwater/vendor_dashboard
-* ⬆️ Pushed 4 commits to powwater/vendor_dashboard
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,652 Karma Points           
-🌸  Completed 6 tasks today           
-🗓  Completed 15 tasks this week           
-✅  Completed 6,499 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
