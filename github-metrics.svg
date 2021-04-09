@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3797" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3624" class="">
     <defs>
         <style/>
     </defs>
@@ -1124,7 +1124,7 @@ DevOps
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                         </svg>
-                        195 issue comments
+                        196 issue comments
                     </div>
                 </section>
                 <section>
@@ -3437,7 +3437,7 @@ DevOps
                                             terrytangyuan/ctv-databases
                                         </span>
                                         <span>
-                                            starred 10 hours ago
+                                            starred 11 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3489,7 +3489,7 @@ DevOps
                                             edgararuiz-zz/charla-shiny
                                         </span>
                                         <span>
-                                            starred 10 hours ago
+                                            starred 11 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3546,7 +3546,7 @@ DevOps
                                             edgararuiz-zz/shinyevents
                                         </span>
                                         <span>
-                                            starred 10 hours ago
+                                            starred 11 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3603,7 +3603,7 @@ DevOps
                                             edgararuiz-zz/datalang
                                         </span>
                                         <span>
-                                            starred 10 hours ago
+                                            starred 11 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3655,7 +3655,7 @@ DevOps
                                             alexgao09/structuredpriorsmrp_public
                                         </span>
                                         <span>
-                                            starred 10 hours ago
+                                            starred 11 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3713,7 +3713,7 @@ DevOps
                                             kubernetes/website
                                         </span>
                                         <span>
-                                            starred 10 hours ago
+                                            starred 11 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -4551,6 +4551,101 @@ DevOps
                                 <section class="activity">
                                     <div class="field">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Commented on
+                                            <span class="issue">
+                                                #73 Make a new table in the database to map riders to vendors
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>
+                                            opened by jimbrig in
+                                            <span class="repo">
+                                                powwater/vendor_dashboard
+                                            </span>
+                                        </div>
+                                        <div class="comment">
+                                            Closed with PR
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Closed
+                                            <span class="issue">
+                                                #73 Make a new table in the database to map riders to vendors
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>
+                                            opened  in
+                                            <span class="repo">
+                                                powwater/vendor_dashboard
+                                            </span>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Reopened
+                                            <span class="issue">
+                                                #74 Add ability to edit riders for vendor specific riders
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>
+                                            opened  in
+                                            <span class="repo">
+                                                powwater/vendor_dashboard
+                                            </span>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Closed
+                                            <span class="issue">
+                                                #74 Add ability to edit riders for vendor specific riders
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>
+                                            opened  in
+                                            <span class="repo">
+                                                powwater/vendor_dashboard
+                                            </span>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                                         </svg>
                                         <div class="content">
@@ -4710,180 +4805,6 @@ DevOps
                                             </span>
                                             <span class="message">
                                                 vendor_riders
-                                            </span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 2 commits in
-                                            <span class="repo">
-                                                powwater/vendor_dashboard
-                                            </span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>
-                                            on branch
-                                            <span class="code">
-                                                develop
-                                            </span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">
-                                                #c24e203
-                                            </span>
-                                            <span class="message">
-                                                add vendor specific riders table
-                                            </span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">
-                                                #c785c46
-                                            </span>
-                                            <span class="message">
-                                                tweak UI
-                                            </span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 6 commits in
-                                            <span class="repo">
-                                                powwater/vendor_dashboard
-                                            </span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>
-                                            on branch
-                                            <span class="code">
-                                                develop
-                                            </span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">
-                                                #b9d11c9
-                                            </span>
-                                            <span class="message">
-                                                Merge pull request #75 from powwater/develop
-
-#72 - comment out notifications
-                                            </span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">
-                                                #a0ffe33
-                                            </span>
-                                            <span class="message">
-                                                Merge branch 'develop' into main
-                                            </span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">
-                                                #76b3ccb
-                                            </span>
-                                            <span class="message">
-                                                Merge remote-tracking branch 'origin/main' into main
-                                            </span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">
-                                                #d927b13
-                                            </span>
-                                            <span class="message">
-                                                adjust db_queries for new customers table
-                                            </span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">
-                                                #f162a7a
-                                            </span>
-                                            <span class="message">
-                                                deployment: powpolished and updated DB
-                                            </span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">
-                                                #bb6fe26
-                                            </span>
-                                            <span class="message">
-                                                for config
-                                            </span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">
-                                                powwater/adminportal
-                                            </span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>
-                                            on branch
-                                            <span class="code">
-                                                develop
-                                            </span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">
-                                                #34f0322
-                                            </span>
-                                            <span class="message">
-                                                deployment
-                                            </span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">
-                                                powwater/adminportal
-                                            </span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>
-                                            on branch
-                                            <span class="code">
-                                                main
-                                            </span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">
-                                                #34f0322
-                                            </span>
-                                            <span class="message">
-                                                deployment
                                             </span>
                                         </div>
                                     </div>
@@ -5159,7 +5080,7 @@ DevOps
                                         </defs>
                                         <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                             <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.72506608051117 155"/>
+                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.733319216133935 155"/>
                                         </svg>
                                         <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                             <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5387,7 +5308,7 @@ DevOps
                         These metrics include private contributions, timezone America/New_York
                     </span>
                     <span>
-                        Last updated Fri, 09 Apr 2021 05:07:09 GMT with lowlighter/metrics@3.6.0
+                        Last updated Fri, 09 Apr 2021 06:03:06 GMT with lowlighter/metrics@3.6.0
                     </span>
                 </footer>
                 <div id="metrics-end"></div>
