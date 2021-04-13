@@ -24,7 +24,7 @@
   - [https://r-knowledge-base.postach.io/](https://r-knowledge-base.postach.io/)
   - [Tychobra Blog](https://tychobra.com/posts/)
 
-  
+<p align="center"><em>Check out my dotfiles at <a href="https://github.com/jimbrig/jimsdots">jimbrig/jimsdots</a></em></p>
 
 ## 💪 Stats
 
