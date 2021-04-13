@@ -36,8 +36,8 @@
 <h3  align="center">🎖 Contribution Streak</h3>
 
 <p class="rich-diff-level-zero" align="center">
-  <a href="http://github-readme-streak-stats.herokuapp.com?user=jimbrig&theme=blue-green&border=ffffff&background=121212&fire=fa0505&dates=02e7f7&ring=f20202&currStreakNum=fc0303&sideNums=ff0000&currStreakLabel=fb0404&sideLabels=ffffff&stroke=ffffff" rel="nofollow" class="rech-diff-level-one">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=jimbrig&theme=blue-green&border=ffffff&background=121212&fire=fa0505&dates=02e7f7&ring=f20202&currStreakNum=fc0303&sideNums=ff0000&currStreakLabel=fb0404&sideLabels=ffffff&stroke=ffffff" alt="GitHub Streak" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=jimbrig&theme=blue-green&border=ffffff&background=121212&fire=fa0505&dates=02e7f7&ring=f20202&currStreakNum=fc0303&sideNums=ff0000&currStreakLabel=fb0404&sideLabels=ffffff&stroke=ffffff" style="max-width:100%;">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" rel="nofollow" class="rech-diff-level-one">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" style="max-width:100%;">
    </a>
  </p>
 
