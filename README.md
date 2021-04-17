@@ -30,7 +30,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-04-17T00:05:57Z</b>
+  <b>2021-04-17T02:17:28Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -70,20 +70,16 @@
 
 ## 💼 Activity
 
+* ⬆️ Pushed 1 commit to jimbrig/jimsdots
+* ⬆️ Pushed 2 commits to jimbrig/jimsdots
 * ⬆️ Pushed 1 commit to powwater/vendor_dashboard
 * ⬆️ Pushed 3 commits to powwater/vendor_dashboard
 * ⬆️ Pushed 1 commit to jimbrig/jimstools
-* ⬆️ Pushed 1 commit to jimbrig/jimsdots
-* ⬆️ Pushed 1 commit to jimbrig/jimsdots
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,697 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 6,509 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
