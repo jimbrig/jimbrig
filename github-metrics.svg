@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4033" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4035" class="">
     <defs>
         <style/>
     </defs>
@@ -1130,7 +1130,7 @@ DevOps
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        1594 Commits
+                        1597 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1228,7 +1228,7 @@ DevOps
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                             </svg>
-                            1.16 GB used
+                            1.17 GB used
                         </div>
                         <div class="field ">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1349,14 +1349,14 @@ DevOps
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.3347764572225" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="386.3347764572225" y="0" width="30.175158209136672" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="416.50993466635924" y="0" width="28.655890721672314" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="445.1658253880315" y="0" width="6.00600244485984" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="451.1718278328914" y="0" width="3.2267633961690017" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.39859122906034" y="0" width="2.3788522408305317" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.7774434698909" y="0" width="1.9128674609018992" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="458.6903109307928" y="0" width="1.309689069207196" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.33380776919034" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="386.33380776919034" y="0" width="30.175082548553135" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="416.5088903177435" y="0" width="28.656972265198494" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="445.165862582942" y="0" width="6.005987385530357" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="451.1718499684724" y="0" width="3.226755305447495" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.3986052739198" y="0" width="2.378846276144367" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.7774515500642" y="0" width="1.91286266461658" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="458.6903142146808" y="0" width="1.3096857853192199" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1460,15 +1460,21 @@ DevOps
                     <section>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 38 days
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 37 days
+                            Best streak 38 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"/>
                             </svg>
-                            ~5.91 commits per day
+                            ~5.92 commits per day
                         </div>
                     </section>
                 </div>
@@ -3428,10 +3434,10 @@ DevOps
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.833333333333333 0,4.833333333333333 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.833333333333333 1.7,5.833333333333333 z"/>
                             </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-5.1, 8.75)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.25 0,1.25 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.25 1.7,2.25 z"/>
                             </g>
                         </g>
                     </g>
@@ -3457,7 +3463,7 @@ DevOps
                                             jimbrig/powapi
                                         </span>
                                         <span>
-                                            starred 1 hour ago
+                                            starred 2 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3509,7 +3515,7 @@ DevOps
                                             brminnick/GitTrends
                                         </span>
                                         <span>
-                                            starred 17 hours ago
+                                            starred 18 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3567,7 +3573,7 @@ DevOps
                                             greta-dev/greta
                                         </span>
                                         <span>
-                                            starred 17 hours ago
+                                            starred 18 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3625,7 +3631,7 @@ DevOps
                                             microsoft/cascadia-code
                                         </span>
                                         <span>
-                                            starred 18 hours ago
+                                            starred 19 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3683,7 +3689,7 @@ DevOps
                                             rdegges/ipify-api
                                         </span>
                                         <span>
-                                            starred 18 hours ago
+                                            starred 19 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3741,7 +3747,7 @@ DevOps
                                             SigNoz/signoz
                                         </span>
                                         <span>
-                                            starred 18 hours ago
+                                            starred 19 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3799,7 +3805,7 @@ DevOps
                                             powwater/powapi
                                         </span>
                                         <span>
-                                            starred 21 hours ago
+                                            starred 22 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3851,7 +3857,7 @@ DevOps
                                             rstudio/connectapi
                                         </span>
                                         <span>
-                                            starred 22 hours ago
+                                            starred 23 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3903,7 +3909,7 @@ DevOps
                                             deployable/node-docker-demo-app
                                         </span>
                                         <span>
-                                            starred 22 hours ago
+                                            starred 23 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3961,7 +3967,7 @@ DevOps
                                             issaafalkattan/React-Landing-Page-Template
                                         </span>
                                         <span>
-                                            starred 22 hours ago
+                                            starred 23 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -4400,7 +4406,7 @@ DevOps
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        389
+                                        390
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4545,6 +4551,114 @@ DevOps
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            jimbrig/powapi
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #0247667
+                                        </span>
+                                        <span class="message">
+                                            updates
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">
+                                            gh-pages
+                                        </span>
+                                        in
+                                        <span class="repo">
+                                            jimbrig/powapi
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            jimbrig/obsidian_vault
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #2088518
+                                        </span>
+                                        <span class="message">
+                                            vault backup: 2021-04-28 10:27:00
+
+Affected files:
+
+"Cloud/Google Cloud Setup Notes.md"
+"R/Base Package Hidden Gems in R.md"
+"R/Data Validation Packages in R.md"
+"R/EDA Packages in R.md"
+"R/Plumber REST APIs in R.md"
+"R/R Books List.md"
+"R/R Miscellaneous Notes.md"
+"R/RStudio Configuration Notes.md"
+"R/Shiny Apps as Packages in R.md"
+"R/Tools Package Hidden Gems in R.md"
+"R/Useful Packages in R List.md"
+"R/Utils Package Hidden Gems in R.md"
+"Web Development/Backend Web Architecture.md"
+"Web Development/HTTP Requests Notes.md"
+"Windows/How to Cleanup Windows from Command Line.md"
+"Windows/SFC and DISM Commands.md"
+"Windows/Using diskusage Command in Windows.md"
+"Windows/WinGet CLI Setup and Settings.md"
+"Windows/Windows Command Line Commands Overview.md"
+Windows/images/Windows-10-SFC-Scannow-in-action.png
+Windows/images/image-20210327021344936.png
+Windows/images/image-20210327021421066.png
+_daily/2021-04-28.md
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -4733,99 +4847,6 @@ DevOps
                                         </span>
                                         <span class="message">
                                             gfd
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            jimbrig/jimsdots
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            main
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #082c38d
-                                        </span>
-                                        <span class="message">
-                                            test
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            jimbrig/jimsdots
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            main
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #aaab6c6
-                                        </span>
-                                        <span class="message">
-                                            test
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            jimbrig/jimsdots
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            main
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #2a8f02a
-                                        </span>
-                                        <span class="message">
-                                            test
                                         </span>
                                     </div>
                                 </div>
@@ -5104,7 +5125,7 @@ DevOps
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.83831261605783 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.847173591926676 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5369,7 +5390,7 @@ DevOps
                     These metrics include private contributions, timezone America/New_York
                 </span>
                 <span>
-                    Last updated Wed, 28 Apr 2021 14:03:18 GMT with lowlighter/metrics@3.7.0
+                    Last updated Wed, 28 Apr 2021 15:03:52 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
