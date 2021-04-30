@@ -14,6 +14,7 @@
 - 💬 Ask me about **Anything R, R Shiny, Google Cloud, Windows 10, or Physics**
 - 📫 How to reach me: **<jimbrig2011@outlook.com>** (personal) or **<jimmy.briggs@tychobra.com>** (work)
 - 📚 View my notes at:
+  - [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault)
   - [jimbrig/jimsnotes](https://github.com/jimbrig/jimsnotes)
   - [jimbrig/jimsdocs](https://github.com/jimbrig/jimsdocs)
 - 📄 View my posts and writings on:
