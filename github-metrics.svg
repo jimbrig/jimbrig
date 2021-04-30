@@ -4403,7 +4403,7 @@ DevOps
                                             QBisConsult/psql-api
                                         </span>
                                         <span>
-                                            starred 1 day ago
+                                            starred 2 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -5284,7 +5284,7 @@ New locations endpoint and API enhancements/refactoring
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="43.29934088850838 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="43.307735982131526 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5321,7 +5321,7 @@ New locations endpoint and API enhancements/refactoring
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.383333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.9 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -5349,7 +5349,7 @@ New locations endpoint and API enhancements/refactoring
                                     Great contributor
                                 </div>
                                 <div class="text">
-                                    Opened 253 pull requests
+                                    Opened 254 pull requests
                                 </div>
                             </div>
                         </div>
@@ -5549,7 +5549,7 @@ New locations endpoint and API enhancements/refactoring
                     These metrics include private contributions, timezone America/New_York
                 </span>
                 <span>
-                    Last updated Fri, 30 Apr 2021 18:10:31 GMT with lowlighter/metrics@3.7.0
+                    Last updated Fri, 30 Apr 2021 19:07:19 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
