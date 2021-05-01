@@ -31,7 +31,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-05-01T16:02:38Z</b>
+  <b>2021-05-01T20:01:45Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -71,20 +71,16 @@
 
 ## 💼 Activity
 
-* ⬆️ Pushed 27 commits to jimsforks/shinyauthr
-* 🎉 Merged PR #1 in jimsforks/shinyauthr
-* 💪 Opened PR #1 in jimsforks/shinyauthr
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
+* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
+* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
+* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
+* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,764 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 16 tasks this week           
-✅  Completed 6,535 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
