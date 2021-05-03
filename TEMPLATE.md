@@ -13,17 +13,8 @@
 - 📝 I regulary write articles on [https://therdispatch.netlify.app/](https://therdispatch.netlify.app/)
 - 💬 Ask me about **Anything R, R Shiny, Google Cloud, Windows 10, or Physics**
 - 📫 How to reach me: **<jimbrig2011@outlook.com>** (personal) or **<jimmy.briggs@tychobra.com>** (work)
-- 📚 View my notes at:
-  - [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault)
-  - [jimbrig/jimsnotes](https://github.com/jimbrig/jimsnotes)
-  - [jimbrig/jimsdocs](https://github.com/jimbrig/jimsdocs)
-- 📄 View my posts and writings on:
-  - [JimsDocs](https://jimbrig.github.io/jimsdocs/)
-  - [The R Dispatch](https://therdispatch.jimbrig.com/)
-  - [The R Dispatch Feed](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FqOVW62nvaI7U3Fp6BLtRqKnY)
-  - [https://therdispatch.postach.io/](https://therdispatch.postach.io/)
-  - [https://r-knowledge-base.postach.io/](https://r-knowledge-base.postach.io/)
-  - [Tychobra Blog](https://tychobra.com/posts/)
+- 📚 View my notes at: [Obsidian Vault](https://github.com/jimbrig/obsidian_vault) | [JimsNotes](https://github.com/jimbrig/jimsnotes) | [JimsDocs](https://github.com/jimbrig/jimsdocs) 
+- 📄 View my posts and writings on: [JimsDocs](https://jimbrig.github.io/jimsdocs/) | [The R Dispatch](https://therdispatch.jimbrig.com/) | [Feed](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FqOVW62nvaI7U3Fp6BLtRqKnY) | [Raw Notes](https://therdispatch.postach.io/) | [Knowledge Base](https://r-knowledge-base.postach.io/) | [Tychobra Blog](https://tychobra.com/posts/)
 
 <p align="center"><em>Check out my dotfiles at <a href="https://github.com/jimbrig/jimsdots">jimbrig/jimsdots</a></em></p>
 
