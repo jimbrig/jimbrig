@@ -22,7 +22,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-05-03T22:08:03Z</b>
+  <b>2021-05-04T00:22:58Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -71,11 +71,7 @@
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,771 Karma Points           
-🌸  Completed 9 tasks today           
-🗓  Completed 9 tasks this week           
-✅  Completed 6,544 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
