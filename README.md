@@ -22,7 +22,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-05-06T14:07:05Z</b>
+  <b>2021-05-06T16:13:27Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -62,20 +62,16 @@
 
 ## 💼 Activity
 
+* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
+* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
 * ⬆️ Pushed 1 commit to jimbrig/jimsdots
 * ⬆️ Pushed 1 commit to jimbrig/jimsdots
 * ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
-* ⬆️ Pushed 1 commit to powwater/powdocs
-* ⬆️ Pushed 1 commit to powwater/powdocs
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,790 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 13 tasks this week           
-✅  Completed 6,548 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
