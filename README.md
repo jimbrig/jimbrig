@@ -22,7 +22,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-05-07T12:08:26Z</b>
+  <b>2021-05-07T14:06:31Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -62,20 +62,16 @@
 
 ## 💼 Activity
 
+* ❌ Closed PR #904 in rweekly/rweekly.org
 * ⬆️ Pushed 1 commit to jimbrig/therdispatch-blogdown
 * ⬆️ Pushed 1 commit to jimbrig/jimsdots
 * 💪 Opened PR #904 in rweekly/rweekly.org
 * ⬆️ Pushed 1 commit to jimbrig/rweekly.org
-* 🍴 Forked jimbrig/rweekly.org from rweekly/rweekly.org
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,813 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 20 tasks this week           
-✅  Completed 6,555 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
