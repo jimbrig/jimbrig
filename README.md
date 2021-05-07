@@ -22,7 +22,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-05-07T00:17:40Z</b>
+  <b>2021-05-07T02:37:06Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -62,20 +62,16 @@
 
 ## 💼 Activity
 
+* ⬆️ Pushed 1 commit to jimbrig/jimsdots
+* 💪 Opened PR #904 in rweekly/rweekly.org
+* ⬆️ Pushed 1 commit to jimbrig/rweekly.org
 * 🍴 Forked jimbrig/rweekly.org from rweekly/rweekly.org
 * ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
-* 💪 Opened PR #1 in jimbrig/solutions-terraform-cloudbuild-gitops
-* ⬆️ Pushed 1 commit to jimbrig/solutions-terraform-cloudbuild-gitops
-* ⬆️ Pushed 1 commit to jimbrig/solutions-terraform-cloudbuild-gitops
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,800 Karma Points           
-🌸  Completed 8 tasks today           
-🗓  Completed 20 tasks this week           
-✅  Completed 6,555 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
