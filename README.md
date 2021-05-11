@@ -22,7 +22,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-05-10T22:08:01Z</b>
+  <b>2021-05-11T00:18:06Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -62,20 +62,16 @@
 
 ## 💼 Activity
 
+* 🍴 Forked jimbrig/powershell-config from r-darwish/powershell-config
 * ⬆️ Pushed 3 commits to powwater/vendor_dashboard
 * ⬆️ Pushed 2 commits to powwater/vendor_dashboard
 * ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
 * ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
-* ⬆️ Pushed 1 commit to jimsforks/shinyauthr
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,836 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 6,562 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
