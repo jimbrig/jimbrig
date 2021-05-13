@@ -22,7 +22,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-05-13T16:05:39Z</b>
+  <b>2021-05-13T18:11:12Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -62,20 +62,16 @@
 
 ## 💼 Activity
 
-* ⬆️ Pushed 1 commit to powwater/vendor_dashboard
-* ❗️ Opened issue #90 in powwater/vendor_dashboard
-* 🗣 Commented on #88 in powwater/vendor_dashboard
-* ⬆️ Pushed 2 commits to powwater/vendor_dashboard
-* ❗️ Closed issue #87 in powwater/vendor_dashboard
+* ⬆️ Pushed 2 commits to jimbrig/nativeapp
+* 🎉 Merged PR #1 in jimbrig/nativeapp
+* ⬆️ Pushed 2 commits to jimbrig/nativeapp
+* 🎉 Merged PR #2 in jimbrig/nativeapp
+* 🎉 Merged PR #11 in jimbrig/therdispatch-blogdown
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,841 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 2 tasks this week           
-✅  Completed 6,564 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
