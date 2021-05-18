@@ -22,7 +22,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-05-17T22:01:51Z</b>
+  <b>2021-05-18T00:04:33Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -62,20 +62,16 @@
 
 ## 💼 Activity
 
+* ⬆️ Pushed 4 commits to jimbrig/solutions-terraform-cloudbuild-gitops
 * ⬆️ Pushed 1 commit to powwater/powdocs
 * ⬆️ Pushed 1 commit to powwater/powdocs
-* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
 * ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
 * ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,874 Karma Points           
-🌸  Completed 5 tasks today           
-🗓  Completed 5 tasks this week           
-✅  Completed 6,581 tasks so far           
-⏳  Longest streak is 30 days
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
