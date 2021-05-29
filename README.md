@@ -71,11 +71,6 @@
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,948 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 1 tasks this week           
-✅  Completed 6,662 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
@@ -92,8 +87,8 @@
 <h2 align="center">📌 Pinned Repos</h2>
 
 <p align="center">
- <a href="https://github.com/tychobra/polished">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tychobra&repo=polished">
+ <a href="https://github.com/jimbrig/jimsdots">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimbrig&repo=jimsdots">
  </a>
 </p>
 
