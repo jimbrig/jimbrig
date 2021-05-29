@@ -66,8 +66,8 @@
 
 ## ✔ Todoist Stats
 
-<!-- TODOIST:START -->
-<!-- TODOIST:END -->
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 ## 📃 Blogs
 
