@@ -3,71 +3,71 @@
   url: 'https://www.r-project.org/'
   color: '276DC3'
   projects:
-    - https://github.com/rinterface/shinydashboardplus
-    - https://github.com/o2r-project/containerit
-    - https://github.com/tychobra/polished
-    - https://github.com/jimbrig/jimstools
-    - https://github.com/jimbrig/jimstemplates
-    - https://github.com/jimbrig/jimsghstars
-    - https://github.com/jimbrig/jimstaskviews
-    - https://github.com/jimbrig/github-issue-table
-    - https://github.com/jimbrig/rtraining
-    - https://github.com/jimbrig/profile_app
-    - https://github.com/jimbrig/EDA
-    - https://github.com/jimbrig/propalloc
-    - https://github.com/jimbrig/codmw
-    - https://github.com/jimbrig/claim-pm
-    - https://github.com/jimbrig/status
-    - https://github.com/jimbrig/browsr
-    - https://github.com/jimbrig/rpackage-template
-    - https://github.com/jimbrig/addinslist
-    - https://github.com/jimbrig/dedup
-    - https://github.com/jimbrig/tmetricr
-    - https://github.com/jimbrig/myicons
-    - https://github.com/jimbrig/EDA_R_Packages
-    - https://github.com/jimbrig/rsconfig
-    - https://github.com/jimbrig/phishr
-    - https://github.com/jimbrig/incognito
-    - https://github.com/jimbrig/template_shinydashboard
-    - https://github.com/jimbrig/shinyapp-template
-    - https://github.com/jimbrig/cookiecutter-R-package
-    - https://github.com/jimbrig/LDARcode
-    - https://github.com/jimbrig/consultthat
+    - url: https://github.com/rinterface/shinydashboardplus
+    - url: https://github.com/o2r-project/containerit
+    - url: https://github.com/tychobra/polished
+    - url: https://github.com/jimbrig/jimstools
+    - url: https://github.com/jimbrig/jimstemplates
+    - url: https://github.com/jimbrig/jimsghstars
+    - url: https://github.com/jimbrig/jimstaskviews
+    - url: https://github.com/jimbrig/github-issue-table
+    - url: https://github.com/jimbrig/rtraining
+    - url: https://github.com/jimbrig/profile_app
+    - url: https://github.com/jimbrig/EDA
+    - url: https://github.com/jimbrig/propalloc
+    - url: https://github.com/jimbrig/codmw
+    - url: https://github.com/jimbrig/claim-pm
+    - url: https://github.com/jimbrig/status
+    - url: https://github.com/jimbrig/browsr
+    - url: https://github.com/jimbrig/rpackage-template
+    - url: https://github.com/jimbrig/addinslist
+    - url: https://github.com/jimbrig/dedup
+    - url: https://github.com/jimbrig/tmetricr
+    - url: https://github.com/jimbrig/myicons
+    - url: https://github.com/jimbrig/EDA_R_Packages
+    - url: https://github.com/jimbrig/rsconfig
+    - url: https://github.com/jimbrig/phishr
+    - url: https://github.com/jimbrig/incognito
+    - url: https://github.com/jimbrig/template_shinydashboard
+    - url: https://github.com/jimbrig/shinyapp-template
+    - url: https://github.com/jimbrig/cookiecutter-R-package
+    - url: https://github.com/jimbrig/LDARcode
+    - url: https://github.com/jimbrig/consultthat
 - name: Docker
   logo: docker
   url: 'https://www.docker.com/'
   color: '2496ED'
   projects:
-    - https://github.com/tychobra/polished
-    - https://github.com/o2r-project/containerit
-    - https://github.com/jimbrig/shiny-cloudrun-demo
-    - https://github.com/jimbrig/shiny-server
-    - https://github.com/jimbrig/Shiny_app_Azure
-    - https://github.com/powwater/powpolished
-    - https://github.com/powwater/vendor_dashboard
+    - url: https://github.com/tychobra/polished
+    - url: https://github.com/o2r-project/containerit
+    - url: https://github.com/jimbrig/shiny-cloudrun-demo
+    - url: https://github.com/jimbrig/shiny-server
+    - url: https://github.com/jimbrig/Shiny_app_Azure
+    - url: https://github.com/powwater/powpolished
+    - url: https://github.com/powwater/vendor_dashboard
 - name: PostgreSQL
   logo: postgresql
   url: 'https://postgres.org'
   color: '336791'
   projects:
-    - https://github.com/powwater/powpolished
-    - https://github.com/powwater/vendor_dashboard
-    - https://github.com/jimbrig/postgresql_rest_api
+    - url: https://github.com/powwater/powpolished
+    - url: https://github.com/powwater/vendor_dashboard
+    - url: https://github.com/jimbrig/postgresql_rest_api
 - name: ReactNative
   logo: react
   url: 'https://reactnative.com/'
   color: '61DAFB'
   projects:
-    - https://github.com/jimbrig/nativeapp
-    - https://github.com/powwater/flutterwave-react-native
+    - url: https://github.com/jimbrig/nativeapp
+    - url: https://github.com/powwater/flutterwave-react-native
 - name: GoogleCloud
   logo: google%20cloud
   url: 'https://cloud.google.com/'
   color: '4285F4'
   projects:
-    - https://github.com/jimbrig/shiny-cloudrun-demo
-    - https://github.com/jimbrig/shiny-server
-    - https://github.com/tychobra/polished
+    - url: https://github.com/jimbrig/shiny-cloudrun-demo
+    - url: https://github.com/jimbrig/shiny-server
+    - url: https://github.com/tychobra/polished
 - name: Azure
   logo: microsoft%20azure
   url: 'https://azure.microsoft.com/en-us/'
@@ -79,56 +79,56 @@
   url: https://docs.microsoft.com/en-us/powershell/
   color: '5391FE'
   projects:
-    - https://github.com/jimbrig/winsetup
-    - https://github.com/jimbrig/jimsdots
+    - url: https://github.com/jimbrig/winsetup
+    - url: https://github.com/jimbrig/jimsdots
 - name: JavaScript
   logo: javascript
   url: https://javascript.com
   color: 'F7DF1E'
   projects:
-    - https://github.com/jimbrig/jimsessentials
-    - https://github.com/powwater/powdocs
+    - url: https://github.com/jimbrig/jimsessentials
+    - url: https://github.com/powwater/powdocs
 - name: HTML
   logo: html5
   url: https://www.w3schools.com/html/
   color: 'E34F26'
   projects:
-    - https://github.com/powwater/landing_page
+    - url: https://github.com/powwater/landing_page
 - name: Dotfiles
   logo: windows%20terminal
   url: https://docs.microsoft.com/en-us/windows/dev-environment/overview
   color: '4D4D4D'
   projects:
-    - https://github.com/jimbrig/jimsdots
-    - https://github.com/jimbrig/rsconfig
-    - https://github.com/jimbrig/dotfiles-windows
-    - https://github.com/jimbrig/winsetup
-    - https://github.com/jimbrig/.github
-    - https://github.com/jimbrig/r-bucket
-    - https://github.com/jimbrig/dotfiles-new
+    - url: https://github.com/jimbrig/jimsdots
+    - url: https://github.com/jimbrig/rsconfig
+    - url: https://github.com/jimbrig/dotfiles-windows
+    - url: https://github.com/jimbrig/winsetup
+    - url: https://github.com/jimbrig/.github
+    - url: https://github.com/jimbrig/r-bucket
+    - url: https://github.com/jimbrig/dotfiles-new
 - name: Git
   logo: git
   url: https://git-scm.com/
   color: 'F05032'
   projects:
-    - https://github.com/jimbrig/git-training
+    - url: https://github.com/jimbrig/git-training
 - name: MkDocs
   logo: markdown
   url: https://www.mkdocs.org/
   color: '000000'
   projects:
-    - https://github.com/jimbrig/jimsdocs
-    - https://github.com/powwater/powdocs
-    - https://github.com/jimbrig/git-training
+    - url: https://github.com/jimbrig/jimsdocs
+    - url: https://github.com/powwater/powdocs
+    - url: https://github.com/jimbrig/git-training
 - name: GatsbyJS
   logo: gatsby
   url: https://www.gatsbyjs.com/
   color: '663399'
   projects:
-    - https://github.com/jimbrig/gatsby-cloud-test-site
+    - url: https://github.com/jimbrig/gatsby-cloud-test-site
 - name: Excel-VBA
   logo: microsoft%20excel
   url: excel.com
   color: '217346'
   projects:
-    - https://github.com/jimbrig/xl-macros   
+    - url: https://github.com/jimbrig/xl-macros   
