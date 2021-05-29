@@ -73,7 +73,7 @@
   url: 'https://azure.microsoft.com/en-us/'
   color: '0089D6'
   projects:
-    - https://github.com/jimbrig/Shiny_app_Azure
+    - url: https://github.com/jimbrig/Shiny_app_Azure
 - name: PowerShell
   logo: powershell
   url: https://docs.microsoft.com/en-us/powershell/
