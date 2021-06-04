@@ -22,7 +22,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-06-03T22:16:39Z</b>
+  <b>2021-06-04T00:22:10Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -62,20 +62,15 @@
 
 ## 💼 Activity
 
-* ⬆️ Pushed 2 commits to jimbrig/jimstools
-* ⬆️ Pushed 1 commit to jimbrig/jimstools
-* ⬆️ Pushed 1 commit to jimbrig/jimsdots
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
+* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
+* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
+* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
+* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  20,951 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 6,662 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
