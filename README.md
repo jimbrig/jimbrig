@@ -22,7 +22,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-06-17T14:01:46Z</b>
+  <b>2021-06-17T18:02:56Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -62,20 +62,15 @@
 
 ## 💼 Activity
 
+* 🍴 Forked jimbrig/landing_page from powwater/landing_page
 * ⬆️ Pushed 2 commits to jimbrig/nativeapp
 * 🎉 Merged PR #4 in jimbrig/nativeapp
 * ⬆️ Pushed 3 commits to jimbrig/jimsdots
 * ⬆️ Pushed 1 commit to jimbrig/jimsdots
-* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  21,071 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 11 tasks this week           
-✅  Completed 6,684 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
