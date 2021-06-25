@@ -1226,7 +1226,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            1418 Commits
+            1419 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1302,7 +1302,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    6.88m added, 160k removed
+                    6.54m added, 156k removed
                   
                 </div>
                             </section>
@@ -1413,14 +1413,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="367.8192998430149" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="367.8192998430149" y="0" width="44.20046985513568" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="412.0197696981506" y="0" width="30.45659548883766" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="442.47636518698823" y="0" width="6.3656246785753074" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="448.8419898655635" y="0" width="3.9389433408902184" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="452.7809332064537" y="0" width="3.2568587317481055" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.0377919382018" y="0" width="2.401039289489227" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.438831227691" y="0" width="1.5611687723089216" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.61230982628587" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="396.61230982628587" y="0" width="30.255512395108898" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="426.86782222139476" y="0" width="20.847739975286217" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="447.715562196681" y="0" width="4.646706461692387" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.3622686583734" y="0" width="2.696232629755375" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="455.05850128812875" y="0" width="2.2293412276040376" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="457.2878425157328" y="0" width="1.6435271892442143" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.931369704977" y="0" width="1.0686302950230149" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3465,10 +3465,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.144578313253012 0,1.144578313253012 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.144578313253012 1.7,2.144578313253012 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.493975903614459)">
+                            <g transform="translate(-6.8, 9.421686746987952)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5060240963855422 0,1.5060240963855422 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5060240963855422 1.7,2.5060240963855422 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5783132530120483 0,1.5783132530120483 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5783132530120483 1.7,2.5783132530120483 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -3494,7 +3494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gaborcsardi/after</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3507,7 +3507,7 @@
                     </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    6
+                    8
                   </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -4295,6 +4295,197 @@
     </h2>
                         <div class="row">
                             <section>
+                                <div class="row fill-width">
+                                    <section class="activity">
+                                        <div class="field">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                            </svg>
+                                            <div class="content">
+                      Pushed 1 commit in <span class="repo">jimbrig/jimsvault</span>
+                    </div>
+                                        </div>
+                                        <div class="details">
+                                            <div>on branch <span class="code">master</span></div>
+                                            <div class="commit">
+                                                <span class="sha">#a2301fa</span>
+                                                <span class="message">vault backup: 2021-06-24 20:25:55
+
+Affected files:
+
+.obsidian/config
+.obsidian/graph.json
+.obsidian/plugins/convert-url-to-iframe/main.js
+.obsidian/plugins/convert-url-to-iframe/manifest.json
+.obsidian/plugins/convert-url-to-iframe/styles.css
+.obsidian/plugins/css-snippets/main.js
+.obsidian/plugins/css-snippets/manifest.json
+.obsidian/plugins/dataview/main.js
+.obsidian/plugins/dataview/manifest.json
+.obsidian/plugins/dataview/styles.css
+.obsidian/plugins/extract-url/main.js
+.obsidian/plugins/extract-url/manifest.json
+.obsidian/plugins/file-tree-alternative/data.json
+.obsidian/plugins/file-tree-alternative/main.js
+.obsidian/plugins/file-tree-alternative/manifest.json
+.obsidian/plugins/file-tree-alternative/styles.css
+.obsidian/plugins/find-unlinked-files/data.json
+.obsidian/plugins/folder-note-plugin/data.json
+.obsidian/plugins/folder-note-plugin/main.js
+.obsidian/plugins/folder-note-plugin/manifest.json
+.obsidian/plugins/folder-note-plugin/styles.css
+.obsidian/plugins/hotkey-helper/main.js
+.obsidian/plugins/hotkey-helper/manifest.json
+.obsidian/plugins/hotkey-helper/styles.css
+.obsidian/plugins/juggl/graph.css
+.obsidian/plugins/juggl/main.js
+.obsidian/plugins/juggl/manifest.json
+.obsidian/plugins/juggl/styles.css
+.obsidian/plugins/metaedit/data.json
+.obsidian/plugins/metaedit/main.js
+.obsidian/plugins/metaedit/manifest.json
+.obsidian/plugins/metaedit/styles.css
+.obsidian/plugins/note-folder-autorename/main.js
+.obsidian/plugins/note-folder-autorename/manifest.json
+.obsidian/plugins/note-refactor-obsidian/main.js
+.obsidian/plugins/note-refactor-obsidian/manifest.json
+.obsidian/plugins/note-refactor-obsidian/styles.css
+.obsidian/plugins/obsidian-activity-history/data.json
+.obsidian/plugins/obsidian-activity-history/main.js
+.obsidian/plugins/obsidian-activity-history/manifest.json
+.obsidian/plugins/obsidian-activity-history/styles.css
+.obsidian/plugins/obsidian-admonition/data.json
+.obsidian/plugins/obsidian-admonition/main.js
+.obsidian/plugins/obsidian-admonition/manifest.json
+.obsidian/plugins/obsidian-admonition/styles.css
+.obsidian/plugins/obsidian-charts/main.js
+.obsidian/plugins/obsidian-charts/manifest.json
+.obsidian/plugins/obsidian-charts/styles.css
+.obsidian/plugins/obsidian-checklist-plugin/main.js
+.obsidian/plugins/obsidian-checklist-plugin/manifest.json
+.obsidian/plugins/obsidian-checklist-plugin/styles.css
+.obsidian/plugins/obsidian-commits/data.json
+.obsidian/plugins/obsidian-commits/main.js
+.obsidian/plugins/obsidian-commits/manifest.json
+.obsidian/plugins/obsidian-commits/styles.css
+.obsidian/plugins/obsidian-dangling-links/main.js
+.obsidian/plugins/obsidian-dangling-links/manifest.json
+.obsidian/plugins/obsidian-dangling-links/styles.css
+.obsidian/plugins/obsidian-dictionary-plugin/data.json
+.obsidian/plugins/obsidian-emoji-toolbar/main.js
+.obsidian/plugins/obsidian-emoji-toolbar/manifest.json
+.obsidian/plugins/obsidian-emoji-toolbar/styles.css
+.obsidian/plugins/obsidian-hotkeys-for-templates/data.json
+.obsidian/plugins/obsidian-hotkeys-for-templates/main.js
+.obsidian/plugins/obsidian-hotkeys-for-templates/manifest.json
+.obsidian/plugins/obsidian-journey-plugin/data.json
+.obsidian/plugins/obsidian-journey-plugin/main.js
+.obsidian/plugins/obsidian-journey-plugin/manifest.json
+.obsidian/plugins/obsidian-journey-plugin/styles.css
+.obsidian/plugins/obsidian-kanban/main.js
+.obsidian/plugins/obsidian-kanban/manifest.json
+.obsidian/plugins/obsidian-kanban/styles.css
+.obsidian/plugins/obsidian-link-indexer/data.json
+.obsidian/plugins/obsidian-link-indexer/main.js
+.obsidian/plugins/obsidian-link-indexer/manifest.json
+.obsidian/plugins/obsidian-reading-time/main.js
+.obsidian/plugins/obsidian-reading-time/manifest.json
+.obsidian/plugins/obsidian-show-file-path/data.json
+.obsidian/plugins/obsidian-show-file-path/main.js
+.obsidian/plugins/obsidian-show-file-path/manifest.json
+.obsidian/plugins/obsidian-tabs/main.js
+.obsidian/plugins/obsidian-tabs/manifest.json
+.obsidian/plugins/obsidian-tabs/styles.css
+.obsidian/plugins/obsidian-timelines/main.js
+.obsidian/plugins/obsidian-timelines/manifest.json
+.obsidian/plugins/obsidian-timelines/styles.css
+.obsidian/plugins/obsidian-tracker/main.js
+.obsidian/plugins/obsidian-tracker/manifest.json
+.obsidian/plugins/obsidian-tracker/styles.css
+.obsidian/plugins/obsidian-vault-changelog/data.json
+.obsidian/plugins/obsidian-vault-changelog/main.js
+.obsidian/plugins/obsidian-vault-changelog/manifest.json
+.obsidian/plugins/obsidian-vault-statistics-plugin/main.js
+.obsidian/plugins/obsidian-vault-statistics-plugin/manifest.json
+.obsidian/plugins/oz-clear-unused-images/main.js
+.obsidian/plugins/oz-clear-unused-images/manifest.json
+.obsidian/plugins/pdf-to-markdown-plugin/data.json
+.obsidian/plugins/pdf-to-markdown-plugin/main.js
+.obsidian/plugins/pdf-to-markdown-plugin/manifest.json
+.obsidian/plugins/pdf-to-markdown-plugin/styles.css
+.obsidian/plugins/quickadd/data.json
+.obsidian/plugins/quickadd/main.js
+.obsidian/plugins/quickadd/manifest.json
+.obsidian/plugins/quickadd/styles.css
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/recent-files-obsidian/main.js
+.obsidian/plugins/recent-files-obsidian/manifest.json
+.obsidian/plugins/recent-files-obsidian/styles.css
+.obsidian/plugins/search-on-internet/main.js
+.obsidian/plugins/search-on-internet/manifest.json
+.obsidian/plugins/search-on-internet/styles.css
+.obsidian/plugins/smart-random-note/main.js
+.obsidian/plugins/smart-random-note/manifest.json
+.obsidian/plugins/supercharged-links-obsidian/main.js
+.obsidian/plugins/supercharged-links-obsidian/manifest.json
+.obsidian/plugins/supercharged-links-obsidian/styles.css
+.obsidian/plugins/table-extended/data.json
+.obsidian/plugins/table-extended/main.js
+.obsidian/plugins/table-extended/manifest.json
+.obsidian/plugins/templater-obsidian/data.json
+.obsidian/plugins/text-snippets-obsidian/main.js
+.obsidian/plugins/text-snippets-obsidian/manifest.json
+.obsidian/plugins/text-snippets-obsidian/styles.css
+.obsidian/plugins/todoist-sync-plugin/data.json
+.obsidian/plugins/url-into-selection/main.js
+.obsidian/plugins/url-into-selection/manifest.json
+.obsidian/plugins/workbench-obsidian/main.js
+.obsidian/plugins/workbench-obsidian/manifest.json
+.obsidian/workspace
+".trash/Quick Capture 2.md"
+".trash/Quick Capture.md"
+.trash/test.md
+"Actuarial Science/index.md"
+Changelog.md
+Development/Azure/index.md
+"Development/Command Line/CLI-Tools.md"
+"Development/Command Line/index.md"
+Development/Markdown/latex.md
+Kanban.md
+README.md
+Unlinked-Files.md
+Unresolved-Links.md
+_assets/scripts/quick-capture.js
+_assets/scripts/quickcapture.js
+_daily/2021-06-24.md
+_templates/blocks/created-date.md
+_templates/blocks/created-datetime.md
+_templates/blocks/discovered.md
+_templates/blocks/last-modified-date.md
+_templates/blocks/question.md
+_templates/blocks/read.md
+_templates/blocks/wins.md
+_templates/pages/daily.md
+_templates/pages/default.md
+_templates/pages/meeting-log.md
+_templates/pages/project.md
+_templates/pages/sourcenote.md
+_templates/pages/weekly.md
+_templates/pages/zettel.md
+_templates/quickcapture.md
+_templates/sections/about.md
+_templates/sections/footer.md
+_templates/sections/logs.md
+_templates/sections/meeting.md
+_templates/sections/meta-frontmatter.md
+_templates/sections/notes.md
+_templates/sections/participants.md
+_templates/sections/resources.md
+_templates/sections/retrospective.md</span>
+                                            </div>
+                                        </div>
+                                    </section>
+                                </div>
                                 <div class="row fill-width">
                                     <section class="activity">
                                         <div class="field">
@@ -5171,18 +5362,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                         </div>
                                     </section>
                                 </div>
-                                <div class="row fill-width">
-                                    <section class="activity">
-                                        <div class="field">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                            </svg>
-                                            <div class="content">
-                      Starred <span class="repo">ricardolsmendes/gcp-cloudfunction-git-event</span>
-                    </div>
-                                        </div>
-                                    </section>
-                                </div>
                             </section>
                         </div>
                     </section>
@@ -5448,7 +5627,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                             </defs>
                                             <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                                 <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                                <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="55.02958739004631 155"/>
+                                                <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="55.0416592585458 155"/>
                                             </svg>
                                             <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                                 <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5703,7 +5882,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                     </section>
                     <footer>
                         <span>These metrics include private contributions</span>
-                        <span>Last updated Fri, 25 Jun 2021 00:03:19 (timezone America/New_York) with lowlighter/metrics@3.10.0</span>
+                        <span>Last updated Fri, 25 Jun 2021 01:25:11 (timezone America/New_York) with lowlighter/metrics@3.10.0</span>
                     </footer>
                     <div id="metrics-end"></div>
                 </div>
