@@ -12,9 +12,9 @@
 - 💪 All of my projects are available at [https://github.com/jimbrig](https://github.com/jimbrig)
 - 📝 I regulary write articles on [https://therdispatch.netlify.app/](https://therdispatch.netlify.app/)
 - 💬 Ask me about **Anything R, R Shiny, Google Cloud, Windows 10, or Physics**
-- 📫 How to reach me: **<jimbrig2011@outlook.com>** (personal) or **<jimbrig1993@outlook.com>** (work)
+- 📫 How to reach me: **<jimbrig2011@outlook.com>** (personal) or **<jimmy.briggs@tychobra.com>** (work)
 - 📚 View my notes at: [Obsidian Vault](https://github.com/jimbrig/obsidian_vault) | [JimsNotes](https://github.com/jimbrig/jimsnotes) | [JimsDocs](https://github.com/jimbrig/jimsdocs) 
-- 📄 View my posts and writings on: [JimsDocs](https://jimbrig.github.io/jimsdocs/) | [The R Dispatch](https://therdispatch.jimbrig.com/) | [Feed](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FqOVW62nvaI7U3Fp6BLtRqKnY) | [Raw Notes](https://therdispatch.postach.io/) | [Knowledge Base](https://r-knowledge-base.postach.io/)
+- 📄 View my posts and writings on: [JimsDocs](https://jimbrig.github.io/jimsdocs/) | [The R Dispatch](https://therdispatch.jimbrig.com/) | [Feed](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FqOVW62nvaI7U3Fp6BLtRqKnY) | [Raw Notes](https://therdispatch.postach.io/) | [Knowledge Base](https://r-knowledge-base.postach.io/) | [Tychobra Blog](https://tychobra.com/posts/)
 
 <p align="center"><em>Check out my dotfiles at <a href="https://github.com/jimbrig/jimsdots">jimbrig/jimsdots</a></em></p>
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-07-05T01:29:17Z</b>
+  <b>2021-07-05T01:53:06Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -66,16 +66,11 @@
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/jimsdots
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  21,201 Karma Points           
-🌸  Completed 5 tasks today           
-🗓  Completed 21 tasks this week           
-✅  Completed 6,711 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
