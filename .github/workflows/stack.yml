@@ -1,9 +1,14 @@
 name: Profile Stack
 
 on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
   push:
     branches:
       - master
+      - main
 
 jobs:
   profile_stack:
