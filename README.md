@@ -126,4 +126,3 @@
     <a href="#" target="blank"><img align="center" src="github-metrics.svg" /></a>
   </p>
 </details>
-
