@@ -22,7 +22,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-07-27T16:06:33Z</b>
+  <b>2021-07-27T18:02:28Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -62,20 +62,15 @@
 
 ## 💼 Activity
 
+* ⬆️ Pushed 2 commits to jimbrig/Scripts
 * ❗️ Opened issue #1 in AlexAsplund/PSTodoist
 * ⬆️ Pushed 2 commits to jimbrig/jimsdots
 * ⬆️ Pushed 2 commits to jimscratch/jimsdots-fresh
-* ⬆️ Pushed 1 commit to jimscratch/jimsdots-fresh
 * ⬆️ Pushed 1 commit to jimscratch/jimsdots-fresh
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  21,745 Karma Points           
-🌸  Completed 5 tasks today           
-🗓  Completed 11 tasks this week           
-✅  Completed 6,995 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
