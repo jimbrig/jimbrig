@@ -22,7 +22,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-08-01T18:01:49Z</b>
+  <b>2021-08-06T23:19:47Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -62,20 +62,28 @@
 
 ## 💼 Activity
 
-* ⬆️ Pushed 1 commit to jimscratch/dotfiles
-* ⬆️ Pushed 1 commit to jimscratch/dotfiles
-* ⬆️ Pushed 1 commit to jimscratch/dotfiles
-* ⬆️ Pushed 1 commit to jimscratch/dotfiles
-* ⬆️ Pushed 1 commit to jimscratch/bash-config
+<p align="center">
+  Last refresh: 
+  <b>Friday, August 6th 2021, 11:19:47</b>
+</p>
+
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 81 commits to jimbrig/jimbrig
+* 💪 Opened PR #7 in jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+
+Repos:
+
+⭐️ 15 📦 jimbrig/jimsghstars
+⭐️ 6  📦 jimbrig/git-training
+⭐️ 5  📦 jimbrig/codmw
+⭐️ 4  📦 jimbrig/jimbrig
+⭐️ 4  📦 jimbrig/obsidian_vault
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  21,893 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 19 tasks this week           
-✅  Completed 7,062 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
