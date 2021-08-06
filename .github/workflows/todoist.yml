@@ -3,7 +3,7 @@ name: Todoist Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
+    # Runs every 30 minutes
     - cron: "30 * * * *"
   push:
     branches:
