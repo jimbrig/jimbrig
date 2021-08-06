@@ -62,7 +62,16 @@
 
 ## 💼 Activity
 
+<p align="center">
+  Last refresh: 
+  <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}--></b>
+</p>
+
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
+
+Repos:
+
+<!--GITHUB_REPOS:{"rows": 5, "raw": true}-->
 
 ## ✔ Todoist Stats
 
