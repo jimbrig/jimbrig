@@ -27,7 +27,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
    
    # visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-   github-metrics:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -67,7 +67,7 @@ jobs:
           plugin_stars_limit: 20
           repositories_forks: yes
           
-    profile_stack:
+  profile_stack:
       runs-on: ubuntu-latest
       steps:
         - uses: actions/checkout@v2
@@ -75,7 +75,7 @@ jobs:
           with:
             path: ./stack.yml
             
-    todoist:
+  todoist:
       name: Update this repo's README
       runs-on: ubuntu-latest
       steps:
