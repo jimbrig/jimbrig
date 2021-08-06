@@ -71,10 +71,6 @@
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
-Repos:
-
-<!--GITHUB_REPOS:{"rows": 5, "raw": true}-->
-
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
