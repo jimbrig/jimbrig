@@ -6,6 +6,8 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jimmy Briggs's DEV Community Profile" height="30" width="30">
 </a></p>
 
+<p align="center"><a href="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml"><img src="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml/badge.svg"></img></a></p>
+
 ## 🧬 About Me
 - 💻 I am a full stack web developer and software engineer with focus on **[R](https://www.r-project.org/)**.
 - 🔭 I’m currently working on a suite of services related to water delivery in Kenya for [Powwater](https://github.com/powwater), as well as many personal endeavors such as my personal R package: [jimstools](https://github.com/jimstools) and many other projects!
