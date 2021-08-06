@@ -75,14 +75,6 @@
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 
-Repos:
-
-⭐️ 15 📦 jimbrig/jimsghstars
-⭐️ 6  📦 jimbrig/git-training
-⭐️ 5  📦 jimbrig/codmw
-⭐️ 4  📦 jimbrig/jimbrig
-⭐️ 4  📦 jimbrig/obsidian_vault
-
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
