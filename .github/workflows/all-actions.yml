@@ -3,9 +3,6 @@ on:
   schedule:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
-  push:
-    branches:
-      - master
 
 jobs:
   update-readme:
