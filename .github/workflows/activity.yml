@@ -1,4 +1,4 @@
-name: README Stats
+name: Profile README Activity
 
 on:
   workflow_dispatch:
@@ -12,7 +12,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update README
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
