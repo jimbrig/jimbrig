@@ -24,7 +24,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-08-09T08:10:39Z</b>
+  <b>2021-08-09T10:10:25Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -66,7 +66,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>Monday, August 9th 2021, 8:10:39</b>
+  <b>Monday, August 9th 2021, 10:10:25</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/PowerShell
@@ -78,11 +78,6 @@
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  21,893 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 7,085 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
