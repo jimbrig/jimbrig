@@ -5,29 +5,7 @@ on:
     - cron: "0 */2 * * *"
 
 jobs:
-  update-readme:
-    name: Update README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-      - name: Create README.md
-        uses: actions-js/profile-readme@master
-        with:
-          username: jimbrig
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Pull any upstream changes
-        uses: actions-js/pull@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-   
-   # visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+  # visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
   github-metrics:
     runs-on: ubuntu-latest
     steps:
@@ -35,7 +13,6 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: jimbrig
           template: classic
@@ -85,3 +62,21 @@ jobs:
           with:
             TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
             PREMIUM: true
+            
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Create README.md
+        uses: actions-js/profile-readme@master
+        with:
+          username: jimbrig
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
