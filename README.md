@@ -24,7 +24,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-08-09T21:50:19Z</b>
+  <b>2021-08-10T00:12:16Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -66,23 +66,18 @@
 
 <p align="center">
   Last refresh: 
-  <b>Monday, August 9th 2021, 9:50:19</b>
+  <b>Tuesday, August 10th 2021, 12:12:16</b>
 </p>
 
+* ⬆️ Pushed 1 commit to jimbrig/obsidian_vault
 * 🍴 Forked jimbrig/cloud-adoption-framework from MicrosoftDocs/cloud-adoption-framework
 * ⬆️ Pushed 1 commit to jimbrig/PowerShell
 * ⬆️ Pushed 1 commit to jimbrig/PowerShell
 * ⬆️ Pushed 1 commit to jimbrig/PowerShell
-* ⬆️ Pushed 2 commits to jimbrig/PowerShell
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  21,906 Karma Points           
-🌸  Completed 8 tasks today           
-🗓  Completed 8 tasks this week           
-✅  Completed 7,093 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
