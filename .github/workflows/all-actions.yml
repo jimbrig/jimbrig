@@ -64,6 +64,10 @@ jobs:
             PREMIUM: true
             
   update-readme:
+    needs: 
+      - todoist
+      - profile_stack
+      - github-metrics
     name: Update README
     runs-on: ubuntu-latest
     steps:
