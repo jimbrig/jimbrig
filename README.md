@@ -24,7 +24,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-08-11T23:47:44Z</b>
+  <b>2021-08-12T00:10:12Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -66,23 +66,18 @@
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, August 11th 2021, 11:47:44</b>
+  <b>Thursday, August 12th 2021, 12:10:12</b>
 </p>
 
+* ⬆️ Pushed 1 commit to jimbrig/wsl-dotfiles
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/website-nextjs
 * ⬆️ Pushed 1 commit to jimscratch/jimsdots-fresh
 * ⬆️ Pushed 2 commits to jimbrig/terraform-examples
-* ⬆️ Pushed 2 commits to jimbrig/.obsidian
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  21,927 Karma Points           
-🌸  Completed 2 tasks today           
-🗓  Completed 11 tasks this week           
-✅  Completed 7,096 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
