@@ -24,7 +24,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-08-13T22:05:47Z</b>
+  <b>2021-08-14T00:09:30Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -66,23 +66,18 @@
 
 <p align="center">
   Last refresh: 
-  <b>Friday, August 13th 2021, 10:05:47</b>
+  <b>Saturday, August 14th 2021, 12:09:30</b>
 </p>
 
+* 🍴 Forked jimbrig/dj-events-backend from bradtraversy/dj-events-backend
+* 🍴 Forked jimbrig/dj-events-frontend from bradtraversy/dj-events-frontend
 * ⬆️ Pushed 1 commit to jimbrig/wsl-dotfiles
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/website-nextjs
-* ⬆️ Pushed 1 commit to jimscratch/jimsdots-fresh
-* ⬆️ Pushed 2 commits to jimbrig/terraform-examples
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  21,935 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 11 tasks this week           
-✅  Completed 7,096 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
