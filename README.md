@@ -24,7 +24,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-08-14T00:09:30Z</b>
+  <b>2021-08-14T02:13:45Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -66,7 +66,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, August 14th 2021, 12:09:30</b>
+  <b>Saturday, August 14th 2021, 2:13:45</b>
 </p>
 
 * 🍴 Forked jimbrig/dj-events-backend from bradtraversy/dj-events-backend
@@ -78,11 +78,6 @@
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  21,935 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 11 tasks this week           
-✅  Completed 7,096 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
