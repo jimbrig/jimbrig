@@ -53,21 +53,7 @@ jobs:
           with:
             path: ./stack.yml
             
-  todoist:
-      name: Update this repo's README
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v2
-        - uses: abhisheknaiidu/todoist-readme@master
-          with:
-            TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
-            PREMIUM: true
-            
   update-readme:
-#    needs: 
-#      - todoist
-#      - profile_stack
-#      - github-metrics
     name: Update README
     runs-on: ubuntu-latest
     steps:
@@ -84,3 +70,17 @@ jobs:
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+  todoist:
+    needs: 
+      - update-readme
+      - profile_stack
+      - github-metrics
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: abhisheknaiidu/todoist-readme@master
+        with:
+          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
+          PREMIUM: true
