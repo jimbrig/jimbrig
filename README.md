@@ -24,7 +24,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-08-20T20:05:35Z</b>
+  <b>2021-08-20T22:05:34Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -66,23 +66,18 @@
 
 <p align="center">
   Last refresh: 
-  <b>Friday, August 20th 2021, 8:05:35</b>
+  <b>Friday, August 20th 2021, 10:05:34</b>
 </p>
 
+* ⬆️ Pushed 2 commits to jimbrig/jimsdots
 * 🍴 Forked jimbrig/dotfiles from koenverburg/dotfiles
 * ⬆️ Pushed 1 commit to jimbrig/jimsdots
 * ⬆️ Pushed 2 commits to jimbrig/jimsdots
 * 🍴 Forked jimbrig/obsidian-css-snippets from Dmitriy-Shulha/obsidian-css-snippets
-* ⬆️ Pushed 1 commit to jimbrig/jimsdots
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  21,996 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 27 tasks this week           
-✅  Completed 7,123 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
