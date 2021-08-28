@@ -24,7 +24,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-08-28T20:05:34Z</b>
+  <b>2021-08-28T22:05:24Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -66,7 +66,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, August 28th 2021, 8:05:34</b>
+  <b>Saturday, August 28th 2021, 10:05:24</b>
 </p>
 
 * ⬆️ Pushed 2 commits to jimbrig/jimsdots
@@ -78,11 +78,6 @@
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,203 Karma Points           
-🌸  Completed 6 tasks today           
-🗓  Completed 22 tasks this week           
-✅  Completed 7,153 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
