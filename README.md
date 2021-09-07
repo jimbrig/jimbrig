@@ -24,7 +24,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-09-07T10:10:23Z</b>
+  <b>2021-09-07T12:10:38Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -66,7 +66,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, September 7th 2021, 10:10:23</b>
+  <b>Tuesday, September 7th 2021, 12:10:38</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/PSWindowsSetup
@@ -78,11 +78,6 @@
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,251 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 7,165 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
