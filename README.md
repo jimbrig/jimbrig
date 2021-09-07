@@ -10,7 +10,7 @@
 
 ## 🧬 About Me
 - 💻 I am a full stack web developer and software engineer with focus on **[R](https://www.r-project.org/)**.
-- 🔭 I’m currently working on a suite of services related to water delivery in Kenya for [Powwater](https://github.com/powwater), as well as many personal endeavors such as my personal R package: [jimstools](https://github.com/jimstools) and many other projects!
+- 🔭 I’m currently working on a suite of services related to water delivery in Kenya for [Powwater](https://github.com/powwater), as well as many personal endeavors such as my personal R package: [jimstools](https://github.com/jimbrig/jimstools) and many other projects!
 - 💪 All of my projects are available at [https://github.com/jimbrig](https://github.com/jimbrig)
 - 📝 I regulary write articles on [https://therdispatch.netlify.app/](https://therdispatch.netlify.app/)
 - 💬 Ask me about **Anything R, R Shiny, Google Cloud, Windows 10, or Physics**
