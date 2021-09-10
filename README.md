@@ -24,7 +24,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-09-09T22:05:49Z</b>
+  <b>2021-09-10T00:11:22Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -66,23 +66,18 @@
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, September 9th 2021, 10:05:49</b>
+  <b>Friday, September 10th 2021, 12:11:22</b>
 </p>
 
-* ⬆️ Pushed 2 commits to jimbrig/jimsdots
 * ⬆️ Pushed 1 commit to jimbrig/jimsdots
-* ⬆️ Pushed 1 commit to jimbrig/PSWinSetup
-* ⬆️ Pushed 2 commits to jimbrig/PSWinSetup
-* ⬆️ Pushed 0 commit to jimbrig/PSWinSetup
+* ⬆️ Pushed 2 commits to jimbrig/jimsdots
+* ⬆️ Pushed 36 commits to jimscratch/Office
+* ⬆️ Pushed 75 commits to jimscratch/Utilities
+* ⬆️ Pushed 2 commits to jimscratch/my-development-setup
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,272 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 9 tasks this week           
-✅  Completed 7,174 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
