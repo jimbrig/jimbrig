@@ -24,7 +24,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-09-14T18:05:38Z</b>
+  <b>2021-09-14T20:05:38Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -66,7 +66,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, September 14th 2021, 6:05:38</b>
+  <b>Tuesday, September 14th 2021, 8:05:38</b>
 </p>
 
 * ❗️ Opened issue #3 in Ahsan40/Win10-Ultimate-System-Tweaks
@@ -78,11 +78,6 @@
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,348 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 19 tasks this week           
-✅  Completed 7,206 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
