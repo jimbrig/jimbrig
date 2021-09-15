@@ -24,7 +24,7 @@
 
 <p align="center">
   Last refresh: 
-  <b>2021-09-15T20:05:47Z</b>
+  <b>2021-09-15T22:05:45Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -66,21 +66,14 @@
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, September 15th 2021, 8:05:47</b>
+  <b>Wednesday, September 15th 2021, 10:05:45</b>
 </p>
 
-* 🍴 Forked jimbrig/chocolateyfest-talk from StefanScherer/chocolateyfest-talk
-* ⬆️ Pushed 1 commit to jimscratch/GDIndex
-* ⬆️ Pushed 1 commit to jimscratch/GDIndex
+* ⬆️ Pushed 1 commit to jimbrig/PowerShell
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,376 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 20 tasks this week           
-✅  Completed 7,207 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
