@@ -5,10 +5,7 @@ on:
   schedule:
     # Runs every 30 minutes
     - cron: "30 * * * *"
-  push:
-    branches:
-      - main
-      
+
 jobs:
   update-readme:
     name: Update this repo's README
