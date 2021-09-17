@@ -25,6 +25,7 @@ jobs:
   Profile-README:
     name: Update README
     runs-on: ubuntu-latest
+    
     steps:
       - uses: actions/checkout@master
         with:
@@ -37,11 +38,11 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit
         run: |
-          git config --global user.email "jimmy.briggs@jimbrig.com"
-          git config --global user.name "Jimmy Briggs"
-          git pull
-          git add *
-          git commit -am "Automated Commit"
+          git config --global user.name 'jimbrig'
+          git config --global user.email 'jimmy.briggs@jimbrig.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+          git checkout "${GITHUB_REF:11}"
+          git commit -am "Automated report"
           git push
       # - name: Commit & Push changes
       #   uses: actions-js/push@master
