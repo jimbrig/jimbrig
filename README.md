@@ -65,13 +65,8 @@ Successful history of identifying patterns, making interpretations, and producin
 ## 💼 Activity
 
 <p align="center">
-<<<<<<< HEAD
-  Last refresh:
-  <b>Friday, September 17th 2021, 4:09:37</b>
-=======
   Last refresh: 
   <b>Friday, September 17th 2021, 7:28:08</b>
->>>>>>> main
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
