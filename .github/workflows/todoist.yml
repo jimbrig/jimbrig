@@ -5,6 +5,10 @@ on:
   schedule:
     # Runs every 30 minutes
     - cron: "30 * * * *"
+  push:
+    branches:
+      - main
+      - master
 
 jobs:
   update-readme:
