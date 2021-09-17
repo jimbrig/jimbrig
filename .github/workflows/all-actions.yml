@@ -35,10 +35,18 @@ jobs:
         with:
           username: jimbrig
           github_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit
+        run: |
+          git config --global user.name 'Jimmy Briggs'
+          git config --global user.email 'jimbrig@users.noreply.github.com'
+          git pull
+          git add *
+          git commit -am "Automated Commit"
+          git push
+      # - name: Commit & Push changes
+      #   uses: actions-js/push@master
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
           
   Profile-Todoist:
     name: Update Todoist Stats
