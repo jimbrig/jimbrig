@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jimmy Briggs</h1>
 <h3 align="center">A developer from Atlanta, GA.</h3>
 
+<p align="center"><em>Check out my dotfiles at <a href="https://github.com/jimbrig/jimsdots">jimbrig/jimsdots</a></em></p>
 <p align="center"><a href="https://jimbrig.github.io/awesome-stars/">Starred Repos ⭐</a></p>
 <p align="center"><a href="https://dev.to/jimbrig">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jimmy Briggs's DEV Community Profile" height="30" width="30">
@@ -9,16 +10,14 @@
 <p align="center"><a href="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml"><img src="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml/badge.svg"></img></a></p>
 
 ## 🧬 About Me
-- 💻 I am a full stack web developer and software engineer with focus on **[R](https://www.r-project.org/)**.
-- 🔭 I’m currently working on a suite of services related to water delivery in Kenya for [Powwater](https://github.com/powwater), as well as many personal endeavors such as my personal R package: [jimstools](https://github.com/jimstools) and many other projects!
-- 💪 All of my projects are available at [https://github.com/jimbrig](https://github.com/jimbrig)
-- 📝 I regulary write articles on [https://therdispatch.netlify.app/](https://therdispatch.netlify.app/)
-- 💬 Ask me about **Anything R, R Shiny, Google Cloud, Windows 10, or Physics**
-- 📫 How to reach me: **<jimbrig1993@outlook.com>**
-- 📚 View my notes at: [Obsidian Vault](https://github.com/jimbrig/obsidian_vault) | [JimsNotes](https://github.com/jimbrig/jimsnotes) | [JimsDocs](https://github.com/jimbrig/jimsdocs) 
-- 📄 View my posts and writings on: [JimsDocs](https://jimbrig.github.io/jimsdocs/) | [The R Dispatch](https://therdispatch.jimbrig.com/) | [Feed](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FqOVW62nvaI7U3Fp6BLtRqKnY) | [Raw Notes](https://therdispatch.postach.io/) | [Knowledge Base](https://r-knowledge-base.postach.io/)
 
-<p align="center"><em>Check out my dotfiles at <a href="https://github.com/jimbrig/jimsdots">jimbrig/jimsdots</a></em></p>
+Creative and entrepreneurial Software Engineer and Actuarial Scientist with background working in dynamic and progressive environments as both an actuary and a developer in large and small organizations.
+
+Fluent in a multitude of programming languages and frameworks used to develop software within a wide variety of industries.
+
+Collaborative team player focused on scoping projects and achieving objectives with speed and accuracy.
+
+Successful history of identifying patterns, making interpretations, and producing results.
 
 ## 💪 Stats
 
