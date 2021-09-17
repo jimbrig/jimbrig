@@ -94,6 +94,10 @@ jobs:
       #     github_token: ${{ secrets.GITHUB_TOKEN }}
           
   Profile-Todoist:
+    needs:
+      - Profile-GitHub-Metrics
+      - Profile-Stack
+      - Profile-README
     name: Update Todoist Stats
     runs-on: ubuntu-latest
     steps:
