@@ -31,7 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
         with:
           persist-credentials: false
           fetch-depth: 0
@@ -40,6 +40,15 @@ jobs:
         with:
           username: jimbrig
           github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Pull
+        run: |
+          git config --global user.name 'jimbrig'
+          git config --global user.email 'jimmy.briggs@jimbrig.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+          git checkout "${GITHUB_REF:11}"
+          git stash
+          git pull
+          git stash pop          
       - name: Commit
         run: |
           git config --global user.name 'jimbrig'
