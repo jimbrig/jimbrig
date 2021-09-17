@@ -23,7 +23,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-09-17T20:11:53Z</b>
+  <b>2021-09-17T22:05:57Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -65,23 +65,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, September 17th 2021, 8:11:53</b>
+  <b>Friday, September 17th 2021, 10:05:57</b>
 </p>
 
-* ⬆️ Pushed 1 commit to jimbrig/therdispatch-blogdown
-* ⬆️ Pushed 1 commit to jimbrig/therdispatch-blogdown
-* ⬆️ Pushed 1 commit to jimbrig/therdispatch-blogdown
-* ⬆️ Pushed 1 commit to jimbrig/therdispatch-blogdown
-* ⬆️ Pushed 2 commits to jimbrig/nuxtjs-example
+* ⬆️ Pushed 1 commit to jimbrig/devfolio
+* ⬆️ Pushed 1 commit to jimbrig/devfolio
+* ⬆️ Pushed 1 commit to jimbrig/devfolio
+* ⬆️ Pushed 1 commit to jimbrig/devfolio
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,406 Karma Points           
-🌸  Completed 23 tasks today           
-🗓  Completed 43 tasks this week           
-✅  Completed 7,230 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
