@@ -37,6 +37,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit
         run: |
+          git config --global user.email "jimmy.briggs@jimbrig.com"
+          git config --global user.name "Jimmy Briggs"
           git pull
           git add *
           git commit -am "Automated Commit"
