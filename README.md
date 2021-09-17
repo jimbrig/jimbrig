@@ -77,6 +77,7 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
+
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
