@@ -76,6 +76,11 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
+🏆  22,504 Karma Points           
+🌸  Completed 4 tasks today           
+🗓  Completed 23 tasks this week           
+✅  Completed 7,256 tasks so far           
+⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
