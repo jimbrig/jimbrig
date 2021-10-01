@@ -23,7 +23,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-10-01T00:12:18Z</b>
+  <b>2021-10-01T00:35:56Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -65,13 +65,13 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, October 1st 2021, 12:12:18</b>
+  <b>Friday, October 1st 2021, 12:35:56</b>
 </p>
 
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * 📦 Released "Initial Release: Version 1.0.0" in jimbrig/loss_development_app
 * ⬆️ Pushed 0 commit to jimbrig/loss_development_app
-* ⬆️ Pushed 1 commit to jimbrig/loss_development_app
-* ⬆️ Pushed 12 commits to jimbrig/loss_development_app
 * ⬆️ Pushed 1 commit to jimbrig/loss_development_app
 
 ## ✔ Todoist Stats
@@ -94,18 +94,6 @@ Successful history of identifying patterns, making interpretations, and producin
 <p align="center">
  <a href="https://github.com/jimbrig/jimsdots">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimbrig&repo=jimsdots">
- </a>
-</p>
-
-<p align="center">
- <a href="https://github.com/jimbrig/Scripts">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimbrig&repo=Scripts">
- </a>
-</p>
-
-<p align="center">
- <a href="https://github.com/jimbrig/obsidian_vault">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimbrig&repo=obsidian_vault">
  </a>
 </p>
 
