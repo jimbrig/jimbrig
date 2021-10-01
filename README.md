@@ -98,6 +98,18 @@ Successful history of identifying patterns, making interpretations, and producin
 </p>
 
 <p align="center">
+ <a href="https://github.com/jimbrig/Scripts">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimbrig&repo=Scripts">
+ </a>
+</p>
+
+<p align="center">
+ <a href="https://github.com/jimbrig/obsidian_vault">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimbrig&repo=obsidian_vault">
+ </a>
+</p>
+
+<p align="center">
  <a href="https://github.com/jimbrig/jimstools">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimbrig&repo=jimstools">
  </a>
