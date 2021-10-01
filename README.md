@@ -23,7 +23,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-09-30T22:05:57Z</b>
+  <b>2021-10-01T00:12:18Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -65,7 +65,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, September 30th 2021, 10:05:57</b>
+  <b>Friday, October 1st 2021, 12:12:18</b>
 </p>
 
 * 📦 Released "Initial Release: Version 1.0.0" in jimbrig/loss_development_app
@@ -77,11 +77,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,565 Karma Points           
-🌸  Completed 3 tasks today           
-🗓  Completed 12 tasks this week           
-✅  Completed 7,268 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
