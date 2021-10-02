@@ -8,6 +8,7 @@
 </a></p>
 
 <p align="center"><a href="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml"><img src="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml/badge.svg"></img></a></p>
+<p align="center"><em>Check out my portfolio at <a href="https://devfolio.jimbrig.com/">devfolio.jimbrig.com</a></em></p>
 
 ## 🧬 About Me
 
