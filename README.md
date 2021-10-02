@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-10-02T00:58:57Z</b>
+  <b>2021-10-02T02:15:34Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,23 +67,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, October 2nd 2021, 12:58:57</b>
+  <b>Saturday, October 2nd 2021, 2:15:34</b>
 </p>
 
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* 📦 Released "Version 0.2.0 - Cleaned Up" in jimbrig/devpholio
 * ⬆️ Pushed 1 commit to jimbrig/devpholio
+* ⬆️ Pushed 1 commit to jimbrig/devpholio
+* ⬆️ Pushed 4 commits to jimbrig/devpholio
 * ⬆️ Pushed 1 commit to jimbrig/devpholio
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,577 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 13 tasks this week           
-✅  Completed 7,269 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
