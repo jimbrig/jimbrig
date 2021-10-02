@@ -2,13 +2,14 @@
 <h3 align="center">A developer from Atlanta, GA.</h3>
 
 <p align="center"><em>Check out my dotfiles at <a href="https://github.com/jimbrig/jimsdots">jimbrig/jimsdots</a></em></p>
+<p align="center"><em>Check out my portfolio at <a href="https://devfolio.jimbrig.com/">devfolio.jimbrig.com</a></em></p>
+
 <p align="center"><a href="https://jimbrig.github.io/awesome-stars/">Starred Repos ⭐</a></p>
 <p align="center"><a href="https://dev.to/jimbrig">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jimmy Briggs's DEV Community Profile" height="30" width="30">
 </a></p>
 
 <p align="center"><a href="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml"><img src="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml/badge.svg"></img></a></p>
-<p align="center"><em>Check out my portfolio at <a href="https://devfolio.jimbrig.com/">devfolio.jimbrig.com</a></em></p>
 
 ## 🧬 About Me
 
