@@ -2,6 +2,8 @@
 <h3 align="center">A developer from Atlanta, GA.</h3>
 
 <p align="center"><em>Check out my dotfiles at <a href="https://github.com/jimbrig/jimsdots">jimbrig/jimsdots</a></em></p>
+<p align="center"><em>Check out my portfolio at <a href="https://devfolio.jimbrig.com/">devfolio.jimbrig.com</a></em></p>
+
 <p align="center"><a href="https://jimbrig.github.io/awesome-stars/">Starred Repos ⭐</a></p>
 <p align="center"><a href="https://dev.to/jimbrig">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jimmy Briggs's DEV Community Profile" height="30" width="30">
@@ -23,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-10-02T00:58:27Z</b>
+  <b>2021-10-02T00:58:57Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -65,12 +67,12 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, October 2nd 2021, 12:58:27</b>
+  <b>Saturday, October 2nd 2021, 12:58:57</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/devpholio
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/devpholio
 * ⬆️ Pushed 1 commit to jimbrig/devpholio
 
