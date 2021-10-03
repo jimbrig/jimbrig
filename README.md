@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-10-03T12:06:10Z</b>
+  <b>2021-10-03T14:05:33Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,7 +67,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, October 3rd 2021, 12:06:10</b>
+  <b>Sunday, October 3rd 2021, 2:05:33</b>
 </p>
 
 * 📦 Released "Version 0.2.0 - Cleaned Up" in jimbrig/devpholio
@@ -79,11 +79,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,577 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 13 tasks this week           
-✅  Completed 7,269 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
