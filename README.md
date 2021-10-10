@@ -9,7 +9,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jimmy Briggs's DEV Community Profile" height="30" width="30">
 </a></p>
 
-<p align="center"><a href="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml"><img src="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml/badge.svg"></img></a></p>
+<p align="center"><a href="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml"><img src="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml/badge.svg?branch=main"></img></a></p>
 
 ## 🧬 About Me
 
@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-10-10T01:25:30Z</b>
+  <b>2021-10-10T02:15:26Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,23 +67,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, October 10th 2021, 1:25:30</b>
+  <b>Sunday, October 10th 2021, 2:15:26</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
-* ⬆️ Pushed 1 commit to jimbrig/devpholio
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/devpholio
 * ⬆️ Pushed 1 commit to jimbrig/devpholio
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,621 Karma Points           
-🌸  Completed 24 tasks today           
-🗓  Completed 25 tasks this week           
-✅  Completed 7,294 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
