@@ -9,7 +9,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jimmy Briggs's DEV Community Profile" height="30" width="30">
 </a></p>
 
-<p align="center"><a href="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml"><img src="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml/badge.svg"></img></a></p>
+<p align="center"><a href="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml"><img src="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml/badge.svg?branch=main"></img></a></p>
 
 ## 🧬 About Me
 
