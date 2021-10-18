@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-10-18T01:28:11Z</b>
+  <b>2021-10-18T02:20:00Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,23 +67,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Monday, October 18th 2021, 1:28:11</b>
+  <b>Monday, October 18th 2021, 2:20:00</b>
 </p>
 
-* ⬆️ Pushed 1 commit to jimbrig/dotfiles-work
-* ⬆️ Pushed 1 commit to jimbrig/dotfiles-work
-* 📦 Released "Initial Release: Git, GPG, and SSH" in jimbrig/dotfiles-work
-* ⬆️ Pushed 2 commits to jimbrig/dotfiles-work
+* ❗️ Opened issue #17 in jimbrig/dotfiles-work
+* ❗️ Opened issue #16 in jimbrig/dotfiles-work
+* ❗️ Opened issue #15 in jimbrig/dotfiles-work
+* ❗️ Opened issue #14 in jimbrig/dotfiles-work
 * ⬆️ Pushed 1 commit to jimbrig/dotfiles-work
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,672 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 6 tasks this week           
-✅  Completed 7,300 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
