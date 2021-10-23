@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-10-22T22:06:08Z</b>
+  <b>2021-10-23T00:11:33Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,23 +67,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, October 22nd 2021, 10:06:08</b>
+  <b>Saturday, October 23rd 2021, 12:11:33</b>
 </p>
 
+* ⬆️ Pushed 1 commit to jimbrig/dotfiles-wsl
+* ⬆️ Pushed 1 commit to jimbrig/dotfiles-wsl
+* ⬆️ Pushed 2 commits to jimbrig/jimsdots
 * 🍴 Forked jimbrig/datasciencenotebooks from robertlacok/datasciencenotebooks
 * ⬆️ Pushed 1 commit to jimbrig/PowerShell-Profiles-Work
-* ⬆️ Pushed 3 commits to jimbrig/PowerShell-Profiles-Work
-* 🎉 Merged PR #6 in jimbrig/PowerShell-Profiles-Work
-* 💪 Opened PR #6 in jimbrig/PowerShell-Profiles-Work
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,732 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 12 tasks this week           
-✅  Completed 7,312 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
