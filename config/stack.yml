@@ -3,22 +3,71 @@
   url: 'https://www.r-project.org/'
   color: '276DC3'
   projects:
-    - url: https://github.com/jimbrig/jimstools
-    - url: https://github.com/jimbrig/jimstemplates
     - url: https://github.com/rinterface/shinydashboardplus
     - url: https://github.com/o2r-project/containerit
     - url: https://github.com/tychobra/polished
-    - url: https://github.com/jimbrig/jimsghstars
     - url: https://github.com/jimbrig/rtraining
     - url: https://github.com/jimbrig/jimstaskviews
     - url: https://github.com/jimbrig/github-issue-table
-    - url: https://github.com/jimbrig/status
+    - url: https://github.com/jimbrig/jimstools
+    - url: https://github.com/jimbrig/jimsghstars
+    - url: https://github.com/jimbrig/jimstemplates
+    - url: https://github.com/jimbrig/Scripts
+    - url: https://github.com/jimbrig/lossrx
+    - url: https://github.com/jimbrig/lossdevt
+    - url: https://github.com/jimbrig/reserver
+    - url: https://github.com/jimbrig/actdev
+    - url: https://github.com/jimbrig/rsetup
+    - url: https://github.com/jimbrig/claimPM
+    - url: https://github.com/jimbrig/reserving-insights-app
+    - url: https://github.com/jimbrig/eda_app
+    - url: https://github.com/jimbrig/loss_development_app
+    - url: https://github.com/jimbrig/propallocater
+    - url: https://github.com/jimbrig/cookiecutter-r-package
+    - url: https://github.com/jimbrig/shiny_react_fliuent_app
+    - url: https://github.com/jimbrig/buildtools
     - url: https://github.com/jimbrig/browsr
+    - url: https://github.com/jimbrig/profile_app
+    - url: https://github.com/jimbrig/EDA
+    - url: https://github.com/jimbrig/R_dotfiles_sync
+    - url: https://github.com/jimbrig/status
+    - url: https://github.com/jimbrig/codemw    
     - url: https://github.com/jimbrig/rpackage-template
     - url: https://github.com/jimbrig/addinslist
     - url: https://github.com/jimbrig/template_shinydashboard
     - url: https://github.com/jimbrig/shinyapp-template
-    - url: https://github.com/jimbrig/cookiecutter-R-package
+    - url: https://github.com/jimbrig/mustashe
+    - url: https://github.com/jimbrig/rsconfig
+    - url: https://github.com/jimbrig/phishr
+    - url: https://github.com/jimbrig/lossrunAnalyzer
+    - url: https://github.com/jimbrig/arsenal
+- name: PowerShell
+  logo: powershell
+  url: https://docs.microsoft.com/en-us/powershell/
+  color: '5391FE'
+  projects:
+    - url: https://github.com/jimbrig/PowerShell
+    - url: https://github.com/jimbrig/WindowsPowerShell
+    - url: https://github.com/jimbrig/PowerShell-Profiles-Work
+    - url: https://github.com/jimbrig/dotfiles
+    - url: https://github.com/jimbrig/dotfiles-work
+    - url: https://github.com/jimbrig/PSWinSetup
+    - url: https://github.com/jimbrig/choco-packages
+    - url: https://github.com/jimbrig/winsetup
+    - url: https://github.com/jimbrig/Dotfiles-for-Windows-11
+    - url: https://github.com/jimbrig/Windows-11-Compatibility-Check
+    - url: https://github.com/jimbrig/cloud-adoption-framework
+    - url: https://github.com/jimbrig/WindowsSetup
+    - url: https://github.com/jimbrig/Scripts-1
+    - url: https://github.com/jimbrig/chocolatey-test-environment
+    - url: https://github.com/jimbrig/chocolatey-packages
+- name: Rust
+  logo: rust
+  url: 'https://rust.com/'
+  color: '643022'
+  projects:
+    - url: https://github.com/jimbrig/git-cliff
+    - url: https://github.com/jimbrig/topgrade
 - name: Docker
   logo: docker
   url: 'https://www.docker.com/'
@@ -60,13 +109,6 @@
   color: '0089D6'
   projects:
     - url: https://github.com/jimbrig/Shiny_app_Azure
-- name: PowerShell
-  logo: powershell
-  url: https://docs.microsoft.com/en-us/powershell/
-  color: '5391FE'
-  projects:
-    - url: https://github.com/jimbrig/winsetup
-    - url: https://github.com/jimbrig/jimsdots
 - name: JavaScript
   logo: javascript
   url: https://javascript.com
