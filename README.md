@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-10-31T22:05:33Z</b>
+  <b>2021-11-01T00:13:13Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,23 +67,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, October 31st 2021, 10:05:33</b>
+  <b>Monday, November 1st 2021, 12:13:13</b>
 </p>
 
-* 💪 Opened PR #14 in apetitjean/EZLog
-* ⬆️ Pushed 1 commit to jimbrig/EZLog
-* 🍴 Forked jimbrig/EZLog from apetitjean/EZLog
-* ⬆️ Pushed 10 commits to jimbrig/dotfiles
+* ⬆️ Pushed 1 commit to jimbrig/dotfiles
+* ⬆️ Pushed 5 commits to jimbrig/dotfiles
+* ⬆️ Pushed 0 commit to jimbrig/dotfiles
+* ⬆️ Pushed 1 commit to jimbrig/dotfiles
 * ⬆️ Pushed 3 commits to jimbrig/dotfiles
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,799 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 9 tasks this week           
-✅  Completed 7,322 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
