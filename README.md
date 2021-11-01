@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-11-01T00:13:13Z</b>
+  <b>2021-11-01T02:16:54Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -68,23 +68,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Monday, November 1st 2021, 12:13:13</b>
+  <b>Monday, November 1st 2021, 2:16:54</b>
 </p>
 
+* ⬆️ Pushed 1 commit to jimbrig/excel-config
 * ⬆️ Pushed 1 commit to jimbrig/dotfiles
 * ⬆️ Pushed 5 commits to jimbrig/dotfiles
 * ⬆️ Pushed 0 commit to jimbrig/dotfiles
 * ⬆️ Pushed 1 commit to jimbrig/dotfiles
-* ⬆️ Pushed 3 commits to jimbrig/dotfiles
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,799 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 9 tasks this week           
-✅  Completed 7,322 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
