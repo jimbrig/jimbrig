@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-11-03T00:11:49Z</b>
+  <b>2021-11-03T02:14:42Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,23 +67,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, November 3rd 2021, 12:11:49</b>
+  <b>Wednesday, November 3rd 2021, 2:14:42</b>
 </p>
 
-* ⬆️ Pushed 1 commit to jimbrig/KaaS
-* 🍴 Forked jimbrig/obsidian-sample-plugin from obsidianmd/obsidian-sample-plugin
-* ⬆️ Pushed 1 commit to jimbrig/excel-config
 * ⬆️ Pushed 1 commit to jimbrig/dotfiles
-* ⬆️ Pushed 5 commits to jimbrig/dotfiles
+* ⬆️ Pushed 1 commit to jimbrig/dotfiles
+* ⬆️ Pushed 1 commit to jimbrig/dotfiles
+* ⬆️ Pushed 10 commits to jimbrig/dotfiles
+* 🎉 Merged PR #14 in jimbrig/dotfiles
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,815 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 2 tasks this week           
-✅  Completed 7,326 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
