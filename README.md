@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-11-05T22:05:42Z</b>
+  <b>2021-11-06T00:11:42Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,23 +67,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, November 5th 2021, 10:05:42</b>
+  <b>Saturday, November 6th 2021, 12:11:42</b>
 </p>
 
+* ⬆️ Pushed 2 commits to jimbrig/KaaS
+* ⬆️ Pushed 1 commit to jimbrig/KaaS
+* ⬆️ Pushed 2 commits to jimbrig/KaaS
 * ⬆️ Pushed 1 commit to jimbrig/PowerShell-Profiles-Work
 * ⬆️ Pushed 6 commits to jimbrig/PowerShell-Profiles-Work
-* 🎉 Merged PR #8 in jimbrig/PowerShell-Profiles-Work
-* 💪 Opened PR #8 in jimbrig/PowerShell-Profiles-Work
-* ⬆️ Pushed 5 commits to jimbrig/PowerShell-Profiles-Work
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,840 Karma Points           
-🌸  Completed 4 tasks today           
-🗓  Completed 7 tasks this week           
-✅  Completed 7,331 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
