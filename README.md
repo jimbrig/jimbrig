@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-11-12T00:12:57Z</b>
+  <b>2021-11-12T02:15:18Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,9 +67,10 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, November 12th 2021, 12:12:57</b>
+  <b>Friday, November 12th 2021, 2:15:18</b>
 </p>
 
+* 💪 Opened PR #1 in jimbrig/ohmyzsh
 * 🍴 Forked jimbrig/azure-sql-db-samples from yorek/azure-sql-db-samples
 * 🍴 Forked jimbrig/AzureMasterClass from johnthebrit/AzureMasterClass
 * 🍴 Forked jimbrig/DevOpsMC from johnthebrit/DevOpsMC
@@ -77,11 +78,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  22,897 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 31 tasks this week           
-✅  Completed 7,363 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
