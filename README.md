@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-11-25T02:35:16Z</b>
+  <b>2021-11-25T04:30:16Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -68,7 +68,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, November 25th 2021, 2:35:16</b>
+  <b>Thursday, November 25th 2021, 4:30:16</b>
 </p>
 
 * 🗣 Commented on #42 in blacksmithgu/obsidian-dataview
@@ -80,11 +80,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,166 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 50 tasks this week           
-✅  Completed 7,478 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
