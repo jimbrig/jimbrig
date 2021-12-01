@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-12-01T12:11:32Z</b>
+  <b>2021-12-01T14:06:37Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -68,7 +68,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, December 1st 2021, 12:11:32</b>
+  <b>Wednesday, December 1st 2021, 2:06:37</b>
 </p>
 
 * 💪 Opened PR #1 in jimbrig/test-dots
@@ -80,11 +80,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,226 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 19 tasks this week           
-✅  Completed 7,503 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
