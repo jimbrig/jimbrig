@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-12-15T22:05:59Z</b>
+  <b>2021-12-16T00:13:02Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,7 +67,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, December 15th 2021, 10:05:59</b>
+  <b>Thursday, December 16th 2021, 12:13:02</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/dotfiles-wsl
@@ -79,11 +79,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,289 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 1 tasks this week           
-✅  Completed 7,511 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
