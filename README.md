@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-12-17T18:05:54Z</b>
+  <b>2021-12-17T20:05:49Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -68,23 +68,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, December 17th 2021, 6:05:54</b>
+  <b>Friday, December 17th 2021, 8:05:49</b>
 </p>
 
+* ⬆️ Pushed 2 commits to jimbrig/self-insurance-kpi-app
 * ⬆️ Pushed 1 commit to jimbrig/self-insurance-kpi-app
-* ⬆️ Pushed 19 commits to jimbrig/self-insurance-kpi-app
-* ⬆️ Pushed 3 commits to jimbrig/dotfiles-wsl
-* ⬆️ Pushed 1 commit to jimbrig/dotfiles-wsl
-* ⬆️ Pushed 1 commit to jimbrig/dotfiles-wsl
+* ⬆️ Pushed 2 commits to jimbrig/self-insurance-kpi-app
+* ⬆️ Pushed 1 commit to jimbrig/self-insurance-kpi-app
+* ⬆️ Pushed 1 commit to jimbrig/self-insurance-kpi-app
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,295 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 1 tasks this week           
-✅  Completed 7,511 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
