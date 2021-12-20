@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-12-20T02:19:38Z</b>
+  <b>2021-12-20T04:06:10Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,7 +67,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Monday, December 20th 2021, 2:19:38</b>
+  <b>Monday, December 20th 2021, 4:06:10</b>
 </p>
 
 * ⬆️ Pushed 0 commit to jimbrig/contribeautiful_data
@@ -79,11 +79,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,296 Karma Points           
-🌸  Completed 2 tasks today           
-🗓  Completed 4 tasks this week           
-✅  Completed 7,514 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
