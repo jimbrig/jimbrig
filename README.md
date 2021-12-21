@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-12-21T18:06:07Z</b>
+  <b>2021-12-21T20:05:59Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,7 +67,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, December 21st 2021, 6:06:07</b>
+  <b>Tuesday, December 21st 2021, 8:05:59</b>
 </p>
 
 * ⬆️ Pushed 21 commits to jimbrig/lossrx
@@ -79,11 +79,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,369 Karma Points           
-🌸  Completed 17 tasks today           
-🗓  Completed 23 tasks this week           
-✅  Completed 7,537 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
