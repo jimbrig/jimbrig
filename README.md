@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-12-22T12:06:24Z</b>
+  <b>2021-12-22T14:05:53Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,7 +67,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, December 22nd 2021, 12:06:24</b>
+  <b>Wednesday, December 22nd 2021, 2:05:53</b>
 </p>
 
 * 🗣 Commented on #3 in etiennebacher/awesome-R-JS-adaptation
@@ -79,11 +79,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,402 Karma Points           
-🌸  Completed 2 tasks today           
-🗓  Completed 37 tasks this week           
-✅  Completed 7,551 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
