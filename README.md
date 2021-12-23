@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-12-23T20:06:17Z</b>
+  <b>2021-12-23T22:06:06Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -68,7 +68,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, December 23rd 2021, 8:06:17</b>
+  <b>Thursday, December 23rd 2021, 10:06:06</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/flask-sandbox-app
@@ -80,11 +80,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,409 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 37 tasks this week           
-✅  Completed 7,551 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
