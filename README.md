@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-12-24T00:13:49Z</b>
+  <b>2021-12-24T00:51:49Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,23 +67,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, December 24th 2021, 12:13:49</b>
+  <b>Friday, December 24th 2021, 12:51:49</b>
 </p>
 
+* ⬆️ Pushed 1 commit to jimbrig/kali-config
+* ⬆️ Pushed 1 commit to jimbrig/dotfiles-wsl
 * ⬆️ Pushed 1 commit to jimbrig/dotfiles-wsl
 * ⬆️ Pushed 1 commit to jimbrig/flask-sandbox-app
 * ⬆️ Pushed 1 commit to jimbrig/clip2mark
-* ⬆️ Pushed 1 commit to jimbrig/clip2mark
-* 🗣 Commented on #3 in etiennebacher/awesome-R-JS-adaptation
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,409 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 37 tasks this week           
-✅  Completed 7,551 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
