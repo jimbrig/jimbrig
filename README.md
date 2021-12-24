@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-12-24T00:51:49Z</b>
+  <b>2021-12-24T02:18:42Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -68,23 +68,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, December 24th 2021, 12:51:49</b>
+  <b>Friday, December 24th 2021, 2:18:42</b>
 </p>
 
+* ⬆️ Pushed 3 commits to jimbrig/dotfiles-wsl
+* 🎉 Merged PR #12 in jimbrig/dotfiles-wsl
+* 💪 Opened PR #12 in jimbrig/dotfiles-wsl
 * ⬆️ Pushed 1 commit to jimbrig/kali-config
 * ⬆️ Pushed 1 commit to jimbrig/dotfiles-wsl
-* ⬆️ Pushed 1 commit to jimbrig/dotfiles-wsl
-* ⬆️ Pushed 1 commit to jimbrig/flask-sandbox-app
-* ⬆️ Pushed 1 commit to jimbrig/clip2mark
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,415 Karma Points           
-🌸  Completed 9 tasks today           
-🗓  Completed 46 tasks this week           
-✅  Completed 7,560 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
