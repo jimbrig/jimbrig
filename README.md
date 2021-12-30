@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2021-12-30T20:05:51Z</b>
+  <b>2021-12-30T22:05:49Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -68,23 +68,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, December 30th 2021, 8:05:51</b>
+  <b>Thursday, December 30th 2021, 10:05:49</b>
 </p>
 
+* ⬆️ Pushed 1 commit to jimbrig/KaaS-New
+* ⬆️ Pushed 1 commit to jimbrig/KaaS-New
+* ⬆️ Pushed 1 commit to jimbrig/KaaS-New
 * 🗣 Commented on #3934 in ScoopInstaller/Scoop
 * 🗣 Commented on #2503 in chocolatey/choco
-* ❗️ Opened issue #2503 in chocolatey/choco
-* ⬆️ Pushed 1 commit to jimbrig/KaaS-New
-* ⬆️ Pushed 1 commit to jimbrig/KaaS-New
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,435 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 1 tasks this week           
-✅  Completed 7,563 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
