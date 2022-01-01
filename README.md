@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2022-01-01T20:06:28Z</b>
+  <b>2022-01-01T22:06:16Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -68,23 +68,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, January 1st 2022, 8:06:28</b>
+  <b>Saturday, January 1st 2022, 10:06:16</b>
 </p>
 
-* ⬆️ Pushed 1 commit to jimbrig/PSWinSetup
-* ⬆️ Pushed 1 commit to jimbrig/KaaS-New
-* ⬆️ Pushed 1 commit to jimbrig/KaaS-New
-* ⬆️ Pushed 1 commit to jimbrig/KaaS-New
-* ⬆️ Pushed 1 commit to jimbrig/KaaS-New
+* ⬆️ Pushed 465 commits to jimbrig/winget-pkgs
+* 🗣 Commented on #3934 in ScoopInstaller/Scoop
+* 🗣 Commented on #39094 in microsoft/winget-pkgs
+* 💪 Opened PR #288 in bcurran3/ChocolateyPackages
+* ⬆️ Pushed 1 commit to jimbrig/ChocolateyPackages
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,435 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 1 tasks this week           
-✅  Completed 7,563 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
