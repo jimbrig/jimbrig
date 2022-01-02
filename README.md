@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2022-01-02T00:15:00Z</b>
+  <b>2022-01-02T02:21:09Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,23 +67,18 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, January 2nd 2022, 12:15:00</b>
+  <b>Sunday, January 2nd 2022, 2:21:09</b>
 </p>
 
-* 💪 Opened PR #423 in Awesome-Windows/Awesome
-* ⬆️ Pushed 1 commit to jimbrig/Awesome
-* 🍴 Forked jimbrig/Awesome from Awesome-Windows/Awesome
-* ⬆️ Pushed 465 commits to jimbrig/winget-pkgs
-* 🗣 Commented on #3934 in ScoopInstaller/Scoop
+* ⬆️ Pushed 1 commit to jimbrig/lossrx
+* ⬆️ Pushed 0 commit to jimbrig/lossrx
+* ⬆️ Pushed 0 commit to jimbrig/lossrx
+* ⬆️ Pushed 1 commit to jimbrig/lossrx
+* ⬆️ Pushed 2 commits to jimbrig/lossrx
 
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,435 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 1 tasks this week           
-✅  Completed 7,563 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
