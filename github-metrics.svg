@@ -87,7 +87,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7377 Commits
+                            7379 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2453,10 +2453,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7218045112781954 0,1.7218045112781954 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7218045112781954 1.7,2.7218045112781954 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.368421052631579)">
+                            <g transform="translate(-6.8, 9.353383458646617)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6315789473684212 0,1.631578947368421 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.631578947368421 1.7,2.6315789473684212 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6466165413533833 0,1.6466165413533833 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6466165413533833 1.7,2.6466165413533833 z"/>
                             </g>
                         </g>
                     </g>
@@ -2479,7 +2479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>r-lib/coro</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Coroutines for R</div>
@@ -3989,7 +3989,7 @@ Add various new configs</span>
                                     <div class="title">
                                         <span class="prefix">Master</span>
                                         developer
-                                        <span class="gh">ranked 63.9k out of 83m users</span>
+                                        <span class="gh">ranked 64k out of 83m users</span>
                                     </div>
                                     <div class="text">Published 143 public repositories</div>
                                 </div>
@@ -4322,7 +4322,7 @@ Add various new configs</span>
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 6 Jan 2022, 07:07:15 (timezone America/New_York) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 6 Jan 2022, 09:06:57 (timezone America/New_York) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
