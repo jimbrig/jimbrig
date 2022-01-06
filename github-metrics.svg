@@ -2453,10 +2453,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7218045112781954 0,1.7218045112781954 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7218045112781954 1.7,2.7218045112781954 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.383458646616543)">
+                            <g transform="translate(-6.8, 9.368421052631579)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6165413533834587 0,1.6165413533834587 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6165413533834587 1.7,2.6165413533834587 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6315789473684212 0,1.631578947368421 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.631578947368421 1.7,2.6315789473684212 z"/>
                             </g>
                         </g>
                     </g>
@@ -2479,7 +2479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>r-lib/coro</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Coroutines for R</div>
@@ -4322,7 +4322,7 @@ Add various new configs</span>
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 6 Jan 2022, 05:06:56 (timezone America/New_York) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 6 Jan 2022, 07:07:15 (timezone America/New_York) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
