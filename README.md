@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2022-01-07T20:06:11Z</b>
+  <b>2022-01-07T22:05:46Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -68,7 +68,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, January 7th 2022, 8:06:11</b>
+  <b>Friday, January 7th 2022, 10:05:46</b>
 </p>
 
 * 🍴 Forked jimbrig/dslp from dslp/dslp
@@ -80,11 +80,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,475 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 8 tasks this week           
-✅  Completed 7,571 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
