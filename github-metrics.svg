@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4421" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4720" class="">
     <defs>
         <style/>
     </defs>
@@ -48,7 +48,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -87,7 +87,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7542 Commits
+                            7555 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -99,7 +99,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            201 Pull requests opened
+                            202 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -291,13 +291,13 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="9.01639344262295" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="9.01639344262295" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="9.01639344262295" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="9.01639344262295" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="9.01639344262295" y="0" width="7.213114754098361" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="16.229508196721312" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="16.229508196721312" y="0" width="203.7704918032787" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="8.94308943089431" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="8.94308943089431" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="8.94308943089431" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="8.94308943089431" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="8.94308943089431" y="0" width="7.154471544715448" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="16.097560975609756" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="16.097560975609756" y="0" width="203.90243902439025" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -311,7 +311,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">113 <small>merged</small></span>
+                                <span class="no-wrap">114 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -345,14 +345,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.8514692038087" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="439.8514692038087" y="0" width="6.67671666393001" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="446.5281858677386" y="0" width="5.067127994151177" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="451.5953138618898" y="0" width="3.837894796805145" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="455.4332086586949" y="0" width="3.4357587610182283" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.86896741971316" y="0" width="0.5585984003409774" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="459.42756582005416" y="0" width="0.32830714702051117" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.7558729670747" y="0" width="0.2441270329252887" height="8" fill="#6594b9"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.79176917999547" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="439.79176917999547" y="0" width="6.675810448601113" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="446.4675796285966" y="0" width="5.066440244574113" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="451.53401987317073" y="0" width="3.899808625563316" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="455.43382849873404" y="0" width="3.4352924334185486" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.86912093215255" y="0" width="0.5585225830705185" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="459.4276435152231" y="0" width="0.32826258664986907" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.75590610187294" y="0" width="0.2440938981270681" height="8" fill="#6594b9"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -461,12 +461,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 182 commits)</small>
+                    <small class="h-details">(computed from last 187 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 54.3 characters per line of code written</li>
+                        <li>Has approximately 58.7 characters per line of code written</li>
                         <li>Mostly pushes code around 21:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -536,8 +536,8 @@
                         11
                     </div>
                     <div class="entry">
-                        <span class="value">16</span>
-                        <div class="bar" style="height: 32px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <span class="value">15</span>
+                        <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         12
                     </div>
                     <div class="entry">
@@ -546,8 +546,8 @@
                         13
                     </div>
                     <div class="entry">
-                        <span class="value">14</span>
-                        <div class="bar" style="height: 28.000000000000004px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <span class="value">20</span>
+                        <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         14
                     </div>
                     <div class="entry">
@@ -612,8 +612,8 @@
                             Mon
                         </div>
                         <div class="entry">
-                            <span class="value">26</span>
-                            <div class="bar" style="height: 28.26086956521739px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">31</span>
+                            <div class="bar" style="height: 33.69565217391305px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
@@ -694,7 +694,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~5.38
+                            Average per day at ~5.39
                         </div>
                     </section>
                 </div>
@@ -2533,10 +2533,10 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.0676691729323307 0,2.0676691729323307 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.0676691729323307 1.7,3.0676691729323307 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.548872180451128)">
+                            <g transform="translate(-1.7, 6.533834586466165)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.451127819548872 0,1.4511278195488722 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4511278195488722 1.7,2.451127819548872 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4661654135338344 0,1.4661654135338344 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4661654135338344 1.7,2.4661654135338344 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.548872180451128)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2649,10 +2649,10 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.082706766917293 0,2.082706766917293 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.082706766917293 1.7,3.082706766917293 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.7443609022556394)">
+                            <g transform="translate(-3.4, 7.548872180451128)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.255639097744361 0,1.255639097744361 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.255639097744361 1.7,2.255639097744361 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.451127819548872 0,1.4511278195488722 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4511278195488722 1.7,2.451127819548872 z"/>
                             </g>
                         </g>
                     </g>
@@ -2675,7 +2675,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xmindltd/xmind</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most popular mind mapping software</div>
@@ -2722,7 +2722,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ondras/my-mind</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Online Mindmapping Software</div>
@@ -2775,7 +2775,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gera2ld/markmap</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visualize your Markdown as mindmaps with Markmap.</div>
@@ -2828,7 +2828,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dformoso/machine-learning-mindmap</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.</div>
@@ -2875,7 +2875,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>StackExchange/dnscontrol</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Synchronize your DNS to multiple providers from a simple DSL</div>
@@ -2928,7 +2928,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sliteteam/github-action-git-crypt-unlock</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Github Action to unlock git-crypt secrets</div>
@@ -2981,7 +2981,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bayandin/awesome-awesomeness</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome awesomeness</div>
@@ -3028,7 +3028,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vinta/awesome-python</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome Python frameworks, libraries, software and resources</div>
@@ -3081,7 +3081,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>2DegreesInvesting/r2dii.analysis</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tools to Calculate Climate Targets for Financial Portfolios</div>
@@ -3134,7 +3134,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eliocamp/mountr</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mount remote folders using sshfs from R</div>
@@ -3181,7 +3181,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-dojo/analytics</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">code snippet for analytics sessions</div>
@@ -3699,6 +3699,232 @@
                                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                         </svg>
                                         <div class="content">
+                                            Pushed 1 commit in
+                                            <span class="repo">jimbrig/rezlifer</span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>on branch <span class="code">main</span></div>
+                                        <div class="commit">
+                                            <span class="sha">#0f2034a</span>
+                                            <span class="message">docs</span>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Pushed 1 commit in
+                                            <span class="repo">jimbrig/rezlifer</span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>on branch <span class="code">develop</span></div>
+                                        <div class="commit">
+                                            <span class="sha">#0f2034a</span>
+                                            <span class="message">docs</span>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Pushed 1 commit in
+                                            <span class="repo">jimbrig/rezlifer</span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>on branch <span class="code">develop</span></div>
+                                        <div class="commit">
+                                            <span class="sha">#9645d4f</span>
+                                            <span class="message">Merge pull request #2 from jimbrig/develop
+
+Develop</span>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Pushed 11 commits in
+                                            <span class="repo">jimbrig/rezlifer</span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>on branch <span class="code">main</span></div>
+                                        <div class="commit">
+                                            <span class="sha">#9645d4f</span>
+                                            <span class="message">Merge pull request #2 from jimbrig/develop
+
+Develop</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#2c5fddc</span>
+                                            <span class="message">SQL Scripts</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#dcda50e</span>
+                                            <span class="message">feat: add database connection review script</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#eb8aec7</span>
+                                            <span class="message">doc: data docs</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#5f90c1d</span>
+                                            <span class="message">feat: add rda package data</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#6fddb8d</span>
+                                            <span class="message">feat: adjust sources_balances_blocks</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#c0f68be</span>
+                                            <span class="message">feat: blocks R script</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#26f82a2</span>
+                                            <span class="message">feat: balances R script</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#fde47c9</span>
+                                            <span class="message">feat: add data-raw CSV mapping and prepped tables</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#57d84c4</span>
+                                            <span class="message">config: ignore open xlsx files</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#6cdea8c</span>
+                                            <span class="message">doc: add CHANGELOG</span>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Merged
+                                            <span class="issue">#2 Develop</span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div> in <span class="repo">jimbrig/rezlifer</span></div>
+                                        <div>29 files changed <span class="code">++581967 --1</span></div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Opened
+                                            <span class="issue">#2 Develop</span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div> in <span class="repo">jimbrig/rezlifer</span></div>
+                                        <div>29 files changed <span class="code">++581967 --1</span></div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Pushed 2 commits in
+                                            <span class="repo">jimbrig/rezlifer</span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>on branch <span class="code">develop</span></div>
+                                        <div class="commit">
+                                            <span class="sha">#2c5fddc</span>
+                                            <span class="message">SQL Scripts</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#dcda50e</span>
+                                            <span class="message">feat: add database connection review script</span>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Pushed 7 commits in
+                                            <span class="repo">jimbrig/rezlifer</span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>on branch <span class="code">develop</span></div>
+                                        <div class="commit">
+                                            <span class="sha">#eb8aec7</span>
+                                            <span class="message">doc: data docs</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#5f90c1d</span>
+                                            <span class="message">feat: add rda package data</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#6fddb8d</span>
+                                            <span class="message">feat: adjust sources_balances_blocks</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#c0f68be</span>
+                                            <span class="message">feat: blocks R script</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#26f82a2</span>
+                                            <span class="message">feat: balances R script</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#fde47c9</span>
+                                            <span class="message">feat: add data-raw CSV mapping and prepped tables</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#57d84c4</span>
+                                            <span class="message">config: ignore open xlsx files</span>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        </svg>
+                                        <div class="content">
                                             Pushed 3 commits in
                                             <span class="repo">jimbrig/PwC-Vault</span>
                                         </div>
@@ -3805,166 +4031,6 @@ Reference/Intelligence.md</span>
                                         <div class="commit">
                                             <span class="sha">#8e8b8aa</span>
                                             <span class="message">chore: autopublish 2022-01-10T23:55:32Z</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">jimbrig/lossrx</span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">main</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#4d1bcfb</span>
-                                            <span class="message">Rename pkgdown.yaml to pkgdown.yml</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">jimbrig/lossrx</span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">main</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#228ae43</span>
-                                            <span class="message">Rename test-coverage.yaml to coverage.yml</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">jimbrig/lossrx</span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">main</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#cb602fd</span>
-                                            <span class="message">Rename R-CMD-check.yaml to check.yml</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">jimbrig/KaaS-New</span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">develop</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#cbcab96</span>
-                                            <span class="message">vault backup: 2022-01-10 23:12:47</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">jimbrig/KaaS-New</span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">develop</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#d28db98</span>
-                                            <span class="message">vault backup: 2022-01-10 23:12:03</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">jimbrig/KaaS-New</span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">develop</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#6600385</span>
-                                            <span class="message">vault backup: 2022-01-10 23:07:03</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">jimbrig/KaaS-New</span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">develop</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#5dd5028</span>
-                                            <span class="message">vault backup: 2022-01-10 23:02:03</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">jimbrig/KaaS-New</span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">develop</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#d35f9e5</span>
-                                            <span class="message">vault backup: 2022-01-10 22:57:03</span>
                                         </div>
                                     </div>
                                 </section>
@@ -4304,7 +4370,7 @@ Reference/Intelligence.md</span>
                                         </defs>
                                         <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                             <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.96666666666666 155"/>
+                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="61.483333333333334 155"/>
                                         </svg>
                                         <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                             <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -4332,7 +4398,7 @@ Reference/Intelligence.md</span>
                                         <span class="prefix">Great</span>
                                         contributor
                                     </div>
-                                    <div class="text">Opened 318 pull requests</div>
+                                    <div class="text">Opened 319 pull requests</div>
                                 </div>
                             </div>
                         </section>
@@ -4340,7 +4406,7 @@ Reference/Intelligence.md</span>
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 11 Jan 2022, 13:08:21 (timezone America/New_York) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 11 Jan 2022, 15:06:35 (timezone America/New_York) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
