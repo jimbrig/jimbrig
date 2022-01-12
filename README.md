@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2022-01-12T08:06:21Z</b>
+  <b>2022-01-12T10:10:33Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -68,7 +68,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, January 12th 2022, 8:06:21</b>
+  <b>Wednesday, January 12th 2022, 10:10:33</b>
 </p>
 
 * 🍴 Forked jimbrig/au-packages-template from majkinetor/au-packages-template
@@ -80,11 +80,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,573 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 72 tasks this week           
-✅  Completed 7,656 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
