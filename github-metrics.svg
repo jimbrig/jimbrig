@@ -196,7 +196,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    24.4m added, 2.75m removed
+                                    25.3m added, 3.49m removed
                                 </div>
                             </section>
                             <section>
@@ -2686,7 +2686,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mjfii/Profile-Dataset</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2740,7 +2740,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mjfii/TSQL-Deployment-Framework</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple methodology to deploy a massive number of complex TSQL scripts.</div>
@@ -2793,7 +2793,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mjfii/R-NameParser-Lib</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An R library allowing parsing of surname, first name, and gender based on US census data.</div>
@@ -2846,7 +2846,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mjfii/R-EmailValidation-Lib</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple functionality to validate character vectors for correct email formatting.</div>
@@ -2899,7 +2899,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mjfii/TSQL-EnterpriseDataWarehouse-Framework</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Enterprise Data Warehouse Framework</div>
@@ -2946,7 +2946,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mjfii/dbt-BLS-Timeseries</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2988,7 +2988,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mjfii/TSQL-Documentation-Lib</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Utilizes MS SQL metadata to document any given database.</div>
@@ -3041,7 +3041,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>erinenovita/data-management</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project aims to translate business requirements into data management solutions. It will involve a complete process of extracting, refining, and delivering datasets extracted from both structured databases and unstructured data sources.</div>
@@ -3094,7 +3094,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>helseprofil/orgdata</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3150,7 +3150,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BetweenTwoTests/between_dbs</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DDL &amp; test data for different databases for ETL data quality checks / data loading tests</div>
@@ -3203,7 +3203,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nicholas-alonzo/sqlBatchInsertR</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SQL DML Support for RODBC</div>
@@ -3256,7 +3256,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jfjelstul/r2sql</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An R package to generate an SQL script that reads data into an SQL database</div>
@@ -3303,7 +3303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hyunjoonbok/R-projects</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Portfolio in R</div>
@@ -3350,7 +3350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tanaymukherjee/Exploring-SQL-with-R</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The idea is to use the SQL skills in R by converting data into relational database from text files and then using it to run queries to filter data by SQL</div>
@@ -3397,7 +3397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>casualcomputer/table-summarizer</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This RShiny app summarizes large tables stored in database servers</div>
@@ -3450,7 +3450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>casualcomputer/sql.mechanic</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Functions that generate SQL queries that summarize high-dimensional tables stored in various databases (e.g. Microsoft SQL Servers, Netezza, DB2, Postgres, Oracle, MySQL, etc.).</div>
@@ -3503,7 +3503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ekoepplin/DBconnectR</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">R client to query data from different sources</div>
@@ -3556,7 +3556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nikolaus77/rocker</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Database interface class R package</div>
@@ -3609,7 +3609,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tomroh/Date-Functions</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3657,7 +3657,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tomroh/bcputility</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">R package for fast bulk imports/exports from/to SQL Server with the bcp command line utility</div>
@@ -4285,7 +4285,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2022, 15:06:55 (timezone America/New_York) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 24 Jan 2022, 17:06:45 (timezone America/New_York) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
