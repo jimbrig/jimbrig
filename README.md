@@ -80,8 +80,8 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <!-- TODO-IST:START -->
 🏆  23,595 Karma Points           
-🌸  Completed 3 tasks today           
-🗓  Completed 4 tasks this week           
+🌸  Completed 0 tasks today           
+🗓  Completed 0 tasks this week           
 ✅  Completed 7,661 tasks so far           
 ⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
