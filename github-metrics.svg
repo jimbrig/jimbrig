@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4236" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4270" class="">
     <defs>
         <style/>
     </defs>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8240 Commits
+                            8241 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -196,7 +196,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    24.6m added, 2.74m removed
+                                    25.5m added, 3.59m removed
                                 </div>
                             </section>
                             <section>
@@ -467,7 +467,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 74.5 characters per line of code written</li>
+                        <li>Has approximately 74.6 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -557,8 +557,8 @@
                         15
                     </div>
                     <div class="entry">
-                        <span class="value">15</span>
-                        <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">13</span>
+                        <div class="bar" style="height: 21.666666666666668px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         16
                     </div>
                     <div class="entry">
@@ -582,8 +582,8 @@
                         20
                     </div>
                     <div class="entry">
-                        <span class="value">9</span>
-                        <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">11</span>
+                        <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         21
                     </div>
                     <div class="entry">
@@ -643,9 +643,19 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
+                            <span class="name">JavaScript</span>
+                            <div class="bar" style="width: 63.63278190492014%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">80%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">CSS</span>
+                            <div class="bar" style="width: 15.983670756888898%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">20%</span>
+                        </div>
+                        <div class="entry">
                             <span class="name">R</span>
-                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">100%</span>
+                            <div class="bar" style="width: 0.38354733819096665%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">0%</span>
                         </div>
                     </div>
                 </section>
@@ -2691,7 +2701,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jimbrig/RLUS-Hedging</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3717,6 +3727,144 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/KaaS-New</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4586c95</div>
+                                        <div class="message">vault backup: 2022-02-04 21:36:36
+
+Affected files:
+.obsidian/graph.json
+Changelog.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/KaaS-New</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b961519</div>
+                                        <div class="message">vault backup: 2022-02-04 21:30:56
+
+Affected files:
+.obsidian/app.json
+.obsidian/community-plugins.json
+.obsidian/plugins/code-block-copy/main.js
+.obsidian/plugins/code-block-copy/manifest.json
+.obsidian/plugins/code-block-copy/styles.css
+.obsidian/plugins/customizable-sidebar/main.js
+.obsidian/plugins/customizable-sidebar/manifest.json
+.obsidian/plugins/customizable-sidebar/styles.css
+.obsidian/plugins/obsidian-admonition/data.json
+.obsidian/plugins/obsidian-admonition/main.js
+.obsidian/plugins/obsidian-admonition/manifest.json
+.obsidian/plugins/obsidian-admonition/styles.css
+.obsidian/plugins/obsidian-kanban/main.js
+.obsidian/plugins/obsidian-kanban/manifest.json
+.obsidian/plugins/obsidian-livesync/main.js
+.obsidian/plugins/obsidian-livesync/manifest.json
+.obsidian/plugins/obsidian-markmind/main.js
+.obsidian/plugins/obsidian-markmind/manifest.json
+.obsidian/plugins/quickadd/main.js
+.obsidian/plugins/quickadd/manifest.json
+.obsidian/plugins/smart-random-note/main.js
+.obsidian/plugins/smart-random-note/manifest.json
+.obsidian/plugins/tag-wrangler/main.js
+.obsidian/plugins/tag-wrangler/manifest.json
+.obsidian/starred.json
+0-Slipbox/API Authentication.md
+0-Slipbox/CAS - Casualty Actuarial Society.md
+0-Slipbox/Data Cataloging.md
+0-Slipbox/Data Engineering and Its Main Concepts.md
+0-Slipbox/Data Pipeline Architecture.md
+0-Slipbox/Data Versioning.md
+0-Slipbox/Data Warehouse for Insurance.md
+0-Slipbox/Data Warehousing Roadmap.md
+0-Slipbox/Data Warehousing for Insurance Data.md
+0-Slipbox/Dimensional Modeling.md
+0-Slipbox/ELT Architecture in Azure Cloud.md
+0-Slipbox/ETL.md
+0-Slipbox/Fact Table Structure.md
+0-Slipbox/Features of a Data Warehouse.md
+0-Slipbox/R Database Packages.md
+0-Slipbox/REST API HTTP Status Codes.md
+0-Slipbox/REST API Resources List.md
+1-Projects/lossrx/Application and API.md
+1-Projects/lossrx/Data.md
+1-Projects/lossrx/Functions.md
+1-Projects/lossrx/Workflows.md
+2-Areas/Meta/Unresolved-Links.md
+3-Resources/Lists/Actuarial Development Master Resource List.md
+3-Resources/Lists/Advanced Programming Concepts.md
+3-Resources/Lists/CLI Tools.md
+3-Resources/Lists/Data Engineering Master List of Resources.md
+3-Resources/Lists/Excel Automation Resources.md
+3-Resources/Lists/List of Python Flask Resources.md
+3-Resources/Lists/Productivity Apps.md
+3-Resources/Lists/R Package Development Resources.md
+3-Resources/Lists/R Shiny Packages.md
+3-Resources/Lists/R on the Web - List of Links.md
+3-Resources/Lists/REST API Resources.md
+3-Resources/Lists/SQL Server List of Tools and Scripts.md
+3-Resources/Lists/Ten Step GTD Setup List.md
+3-Resources/Templates/Areas-Templates/Agenda-Template.md
+3-Resources/Templates/Areas-Templates/MOC-Template.md
+3-Resources/Templates/Areas-Templates/Meta-Template.md
+3-Resources/Templates/Areas-Templates/Mindsweep-Template.md
+3-Resources/Templates/Areas-Templates/Weekly-Review-Template.md
+3-Resources/Templates/Project-Templates/Project-Template.md
+3-Resources/Templates/Resource-Templates/Daily-Note-Template.md
+3-Resources/Templates/Resource-Templates/Embed-Template.md
+3-Resources/Templates/Resource-Templates/Kanban-Template.md
+3-Resources/Templates/Resource-Templates/List-Template.md
+3-Resources/Templates/Resource-Templates/Readme-Template.md
+3-Resources/Templates/Resource-Templates/Tool-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Actuarial-Dev-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-CLI-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-Cloud-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-Data-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-PowerShell-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-Python-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-R-Template.md
+3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-Template.md
+3-Resources/Templates/Slipbox-Templates/Productivity/Slipbox-PKM-Template.md
+3-Resources/Templates/Slipbox-Templates/Productivity/Slipbox-Productivity-GTD-Template.md
+3-Resources/Templates/Slipbox-Templates/Productivity/Slipbox-Productivity-Template.md
+3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md
+3-Resources/Templates/Work-Templates/Colleague-Template.md
+3-Resources/Templates/Work-Templates/PwC-Template.md
+3-Resources/Templates/_README.md
+3-Resources/Tools/Snowflake.md
+3-Resources/Tools/Windows Terminal.md
+3-Resources/Tools/_README.md
+3-Resources/_README.md
+Changelog.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 5 commits in
                                         <span class="repo">jimbrig/KaaS-New</span>
                                     </div>
@@ -3881,42 +4029,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jimbrig/RLUS-Hedging</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e406392</div>
-                                        <div class="message">Merge branch 'release/v0.1.0' into main</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v0.1.0</span>
-                                        in
-                                        <span class="repo">jimbrig/RLUS-Hedging</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3939,7 +4051,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1040.4633333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1040.5666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3961,7 +4073,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 11069 times</div>
+                                <div class="text">Repositories have been deployed 11070 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4288,7 +4400,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2022, 21:07:00 (timezone America/New_York) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 4 Feb 2022, 21:38:32 (timezone America/New_York) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
