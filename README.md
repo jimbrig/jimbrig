@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2022-02-11T12:06:07Z</b>
+  <b>2022-02-11T14:07:14Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -68,7 +68,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, February 11th 2022, 12:06:07</b>
+  <b>Friday, February 11th 2022, 2:07:14</b>
 </p>
 
 * 🍴 Forked jimbrig/sql_scripts from DataResearchLabs/sql_scripts
@@ -80,11 +80,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,780 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 13 tasks this week           
-✅  Completed 7,717 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
