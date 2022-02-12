@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2022-02-12T04:07:16Z</b>
+  <b>2022-02-12T06:05:56Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,7 +67,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, February 12th 2022, 4:07:16</b>
+  <b>Saturday, February 12th 2022, 6:05:56</b>
 </p>
 
 * 🍴 Forked jimbrig/data-engineering-wiki from JPHaus/data-engineering-wiki
@@ -79,11 +79,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,783 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 14 tasks this week           
-✅  Completed 7,718 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
