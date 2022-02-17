@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2022-02-17T02:13:08Z</b>
+  <b>2022-02-17T04:06:02Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -67,7 +67,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, February 17th 2022, 2:13:08</b>
+  <b>Thursday, February 17th 2022, 4:06:02</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/KaaS
@@ -79,11 +79,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,850 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 5 tasks this week           
-✅  Completed 7,740 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
