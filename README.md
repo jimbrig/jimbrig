@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2022-02-22T20:05:58Z</b>
+  <b>2022-02-22T22:06:03Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -68,7 +68,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, February 22nd 2022, 8:05:58</b>
+  <b>Tuesday, February 22nd 2022, 10:06:03</b>
 </p>
 
 * 🍴 Forked jimbrig/shiny-data-portal from SebKrantz/shiny-data-portal
@@ -80,11 +80,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  23,967 Karma Points           
-🌸  Completed 2 tasks today           
-🗓  Completed 7 tasks this week           
-✅  Completed 7,784 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
