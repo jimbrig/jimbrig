@@ -25,7 +25,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>2022-02-25T16:10:24Z</b>
+  <b>2022-02-25T18:06:24Z</b>
 </p>
 
 <h3  align="center">🎖 Contribution Streak</h3>
@@ -68,7 +68,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, February 25th 2022, 4:10:24</b>
+  <b>Friday, February 25th 2022, 6:06:24</b>
 </p>
 
 * 🗣 Commented on #4 in Noovolari/leapp-website
@@ -80,11 +80,6 @@ Successful history of identifying patterns, making interpretations, and producin
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  24,032 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 24 tasks this week           
-✅  Completed 7,801 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 ## 📃 Blogs
