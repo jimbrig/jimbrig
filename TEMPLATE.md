@@ -1,17 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jimmy Briggs</h1>
-<h3 align="center">A developer from Atlanta, GA.</h3>
+<h1 align="center">Jimmy Briggs</h1>
+<h4 align="center">Software Engineer Developer from Atlanta, Georgia.</h4>
+<h5 align="center">Striving to be a modern day <em><strong><a href="https://en.wikipedia.org/wiki/Polymath">Polymath</strong></a>.</em></h5>
 
-<p align="center"><em>Check out my dotfiles at <a href="https://github.com/jimbrig/jimsdots">jimbrig/jimsdots</a></em></p>
-<p align="center"><em>Check out my portfolio at <a href="https://devfolio.jimbrig.com/">devfolio.jimbrig.com</a></em></p>
-
-<p align="center"><a href="https://jimbrig.github.io/awesome-stars/">Starred Repos ⭐</a></p>
-<p align="center"><a href="https://dev.to/jimbrig">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jimmy Briggs's DEV Community Profile" height="30" width="30">
-</a></p>
+<p align="center"><a href="https://github.com/jimbrig/jimsdots">Dotfiles</a> - <a href="https://devfolio.jimbrig.com/">Devfolio</a> - <a href="https://jimbrig.github.io/awesome-stars/">Stars</a></p>
 
 <p align="center"><a href="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml"><img src="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml/badge.svg?branch=main"></img></a></p>
 
-## 🧬 About Me
+<h2 align="center">🧬 About Me</h2>
 
 Creative and entrepreneurial Software Engineer and Actuarial Scientist with background working in dynamic and progressive environments as both an actuary and a developer in large and small organizations.
 
@@ -21,7 +16,7 @@ Collaborative team player focused on scoping projects and achieving objectives w
 
 Successful history of identifying patterns, making interpretations, and producing results.
 
-## 💪 Stats
+<h2 align="center">💪 Developer Stats</h2>
 
 <p align="center">
   Last refresh: 
@@ -35,9 +30,8 @@ Successful history of identifying patterns, making interpretations, and producin
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" style="max-width:100%;">
    </a>
  </p>
- <br>
  
- <h3  align="center">🏅 Rating Stats</h3>
+ <h3  align="center">🏅 Ranks</h3>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=jimbrig&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
@@ -47,7 +41,8 @@ Successful history of identifying patterns, making interpretations, and producin
 </p>
 <br>
 
-<h3 align="center">🏁 Projects</h3>
+<h2 align="center">🏁 Projects</h2>
+<p align="center"><em>Note these are outdated and will be updated in due time.</em></p>
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
@@ -68,7 +63,22 @@ Successful history of identifying patterns, making interpretations, and producin
 | [![Excel-VBA](https://img.shields.io/static/v1?label=&message=Excel-VBA&color=217346&logo=microsoft%20excel&logoColor=white)](excel.com) | [![xl-macros](https://img.shields.io/static/v1?label=&message=xl-macros&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/jimbrig/xl-macros) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-## 💼 Activity
+<h2 align="center">📃 Content</h2>
+
+- Portfolio: [Devfolio](https://devfolio.jimbrig.com)
+- Knowledge as a Service (Official): [KaaS - Obsidian Pubish](https://publish.obsidian.md/kaas/) 
+- Knowledge as a Service (GitHub Pages): [KaaS - GitHub Pages](https://kaas.jimbrig.com/)  
+- Distill Blog: [JimsDocs](https://jimbrig.github.io/jimsdocs/)
+- R Blog: [The R Dispatch](https://therdispatch.jimbrig.com/) 
+- R Blog Feed: [The R Dispatch Feed](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FqOVW62nvaI7U3Fp6BLtRqKnY)
+
+And Much More!
+
+<!-- BLOG-POST-LIST:START -->
+<!--FEED:{"rows": 5, "select": ["feed"], "raw": true, "title": true }-->
+<!-- BLOG-POST-LIST:END -->
+
+<h2 align="center">💼 Activity</h2>
 
 <p align="center">
   Last refresh: 
@@ -77,20 +87,10 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
-## ✔ Todoist Stats
+<h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
-
-## 📃 Blogs
-
-- [The R Dispatch](https://therdispatch.jimbrig.com/)
-- [The R Dispatch Feed](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FqOVW62nvaI7U3Fp6BLtRqKnY)
-- [JimsDocs](https://jimbrig.github.io/jimsdocs/)
-
-<!-- BLOG-POST-LIST:START -->
-<!--FEED:{"rows": 5, "select": ["feed"], "raw": true, "title": true }-->
-<!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
 
@@ -123,7 +123,7 @@ Successful history of identifying patterns, making interpretations, and producin
 <a href="/https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2ffeedly.com%2ff%2fqovw62nvai7u3fp6bltrqkny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2ffeedly.com%2ff%2fqovw62nvai7u3fp6bltrqkny" height="30" width="40" /></a>
 </p>
 
-## Github Metrics
+<h2 align="center">Github Metrics</h2>
 
 <details><summary>Click to Expand</summary>
   <p align="center">
