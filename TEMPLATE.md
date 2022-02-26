@@ -20,7 +20,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b><!--TIMESTAMP--></b>
+  <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}--></b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
