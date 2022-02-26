@@ -28,19 +28,24 @@ Successful history of identifying patterns, making interpretations, and producin
   <b><!--TIMESTAMP--></b>
 </p>
 
-<h3  align="center">🎖 Contribution Streak</h3>
+<h3  align="center">📆 Contribution Streak</h3>
 
 <p class="rich-diff-level-zero" align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" rel="nofollow" class="rech-diff-level-one">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" style="max-width:100%;">
    </a>
  </p>
+ <br>
+ 
+ <h3  align="center">🏅 Rating Stats</h3>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=jimbrig&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
     <img src="http://github-readme-stats.vercel.app/api?username=jimbrig&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
+  <br><p align="center"><em>Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone)</em></p>
 </p>
+<br>
 
 <h3 align="center">🏁 Projects</h3>
 
