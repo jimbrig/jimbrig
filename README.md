@@ -20,7 +20,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Monday, February 28th 2022, 6:06:46</b>
+  <b>Monday, February 28th 2022, 6:12:14</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -82,12 +82,12 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Monday, February 28th 2022, 6:06:46</b>
+  <b>Monday, February 28th 2022, 6:12:14</b>
 </p>
 
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 0 commit to jimbrig/KaaS
-* ⬆️ Pushed 1 commit to jimbrig/KaaS
-* ⬆️ Pushed 1 commit to jimbrig/KaaS
 * ⬆️ Pushed 1 commit to jimbrig/KaaS
 * ⬆️ Pushed 1 commit to jimbrig/KaaS
 
@@ -116,6 +116,7 @@ And Much More!
 </p>
 
 <h2 align="center">🛠 Languages and Tools</h2>
+
 <p align="center"><a href="https://stackshare.io/jimbrig/developer-tools"><img src="http://img.shields.io/badge/Tech-Stack-0690fa.svg?style=flat"/></a></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html,javascript" alt="jimbrig" /></p>
