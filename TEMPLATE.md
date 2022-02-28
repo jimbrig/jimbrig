@@ -107,7 +107,8 @@ And Much More!
 </p>
 
 <h2 align="center">🛠 Languages and Tools</h2>
-<p align="center"><a href="https://stackshare.io/jimbrig2011/r-development"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"/></a></p>
+
+<p align="center"><a href="https://stackshare.io/jimbrig/developer-tools"><img src="http://img.shields.io/badge/Tech-Stack-0690fa.svg?style=flat"/></a></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html,javascript" alt="jimbrig" /></p>
 <p align="center"><em>Note: Javascript and HTML are excluded.</em></p>
