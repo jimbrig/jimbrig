@@ -9,6 +9,8 @@ on:
     branches:
       - main
       - master
+  workflow_run:
+    workflows: [ Update GitHub Profile ]
 
 jobs:
   update-readme:
