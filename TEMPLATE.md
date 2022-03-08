@@ -6,6 +6,8 @@
 
 <p align="center"><a href="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml"><img src="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml/badge.svg?branch=main"></img></a></p>
 
+<p align="center"><img src="https://ghchart.rshah.org/409ba5/jimbrig" alt="jimbrig's Github Contribution Chart" /></p>
+
 <h2 align="center">🧬 About Me</h2>
 
 Creative and entrepreneurial Software Engineer and Actuarial Scientist with background working in dynamic and progressive environments as both an actuary and a developer in large and small organizations.
