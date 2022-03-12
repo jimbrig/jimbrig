@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            9092 Commits
+                            9093 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2701,7 +2701,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dverite/postgresql-functions</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Custom PostgreSQL functions and extensions</div>
@@ -2754,7 +2754,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SebKrantz/Rblog</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Personal R blog, linked to r-bloggers.com</div>
@@ -2801,7 +2801,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SebKrantz/Data-Science-Programme</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">R Based Data Science Training Delivered to the Ugandan Ministry of Finance and Bureau of Statistics</div>
@@ -2854,7 +2854,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SebKrantz/collapse</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Advanced and Fast Data Transformation in R</div>
@@ -2907,7 +2907,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aquametalabs/meta_triggers</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PostgreSQL Extension: Insert, update and delete triggers that make the meta extension writable</div>
@@ -2960,7 +2960,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>splendiddata/session_variable</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The session_variable Postgres database extension provides a way to create and maintain session scoped variables and constants, more or less like Oracle's global variables.</div>
@@ -3013,7 +3013,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brettlaforge/pg_redis_pubsub</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Redis Publish from PostgreSQL</div>
@@ -3066,7 +3066,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aquameta/pg_meta</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PostgreSQL Extension: More friendly system catalog for PostgreSQL</div>
@@ -3119,7 +3119,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eulerto/pg_restrict</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">restrict some SQL commands on PostgreSQL</div>
@@ -3172,7 +3172,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hartmut-co-uk/pg-repack-docker</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker image for 'pg_repack' (PostgreSQL extension) to use 'client-side' to run/invoke the actual repack functionality for a PostgreSQL database with the extension installed.</div>
@@ -3219,7 +3219,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alvar-freude/Posemo</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PostgreSQL Secure Monitoring</div>
@@ -3272,7 +3272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hollobon/pagevis</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PostgreSQL data page visualisation</div>
@@ -3325,7 +3325,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>m-martinez/pg-audit-json</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple, easily customised trigger-based auditing for PostgreSQL (Postgres). See also pgaudit.</div>
@@ -3378,7 +3378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eradman/pg-safeupdate</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple extension to PostgreSQL that requires criteria for UPDATE and DELETE</div>
@@ -3431,7 +3431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lacanoid/pgddl</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DDL eXtractor functions for PostgreSQL (ddlx)</div>
@@ -3484,7 +3484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gabfl/bigquery_fdw</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BigQuery Foreign Data Wrapper for PostgreSQL</div>
@@ -3537,7 +3537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pgsentinel/pgsentinel</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">postgresql extension providing Active session history</div>
@@ -3590,7 +3590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>petere/plsh</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PL/sh is a procedural language handler for PostgreSQL that allows you to write stored procedures in a shell of your choice.</div>
@@ -3643,7 +3643,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>petere/pguri</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">uri type for PostgreSQL</div>
@@ -3696,7 +3696,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tds-fdw/tds_fdw</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A PostgreSQL foreign data wrapper to connect to TDS databases (Sybase and Microsoft SQL Server)</div>
@@ -4265,7 +4265,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2022, 05:07:41 (timezone America/New_York) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 12 Mar 2022, 07:07:16 (timezone America/New_York) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
