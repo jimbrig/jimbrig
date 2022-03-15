@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            9115 Commits
+                            9116 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2681,7 +2681,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libwww-perl/URI-db</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Perl module representing database URIs</div>
@@ -2728,7 +2728,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>m-lab/etl-schema</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All schema and views related to the etl pipeline and public bigquery tables.</div>
@@ -2781,7 +2781,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tmusabbir/glue-utils</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Few AWS Glue Utility Scripts</div>
@@ -2834,7 +2834,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opencultureconsulting/openrefine-batch</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shell script to run OpenRefine in batch mode (import, transform, export). It orchestrates OpenRefine (server) and a python client that communicates with the OpenRefine API.</div>
@@ -2887,7 +2887,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dimitri/prefix</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prefix Range module for PostgreSQL</div>
@@ -2940,7 +2940,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pthom/northwind_psql</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Northwind sample database for postgres</div>
@@ -2987,7 +2987,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>julianodba/postgres-dba-scripts</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Daily scripts used on multi cluster environments with many hosts</div>
@@ -3040,7 +3040,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LegolasVzla/postgresql-useful-scripts</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a repository for useful dba scripts and sql querys</div>
@@ -3093,7 +3093,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eligoenergy/s3csv_fdw</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">S3 CSV Foreign Data Wrapper Using Multicorn</div>
@@ -3146,7 +3146,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>umitanuki/s3_fdw</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">foreign-data wrapper for Amazon S3</div>
@@ -3193,7 +3193,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>laurenz/pgreplay</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.</div>
@@ -3246,7 +3246,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>e-alizadeh/sample_dbt_project</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Companion template repo for the blog post "dbt for Data Transformation - A Hands-on Tutorial" (https://ealizadeh.com/blog/dbt-tutorial)</div>
@@ -3293,7 +3293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mara/mara-example-project-1</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Runnable e-commerce mini data warehouse based on Python, PostgreSQL &amp; Metabase, template for new projects</div>
@@ -3346,7 +3346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mara/mara-pipelines</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow</div>
@@ -3399,7 +3399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>takahish/Data-Modeling-with-Postgres</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3447,7 +3447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>michalmiki/postgresql-etl</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Building Python ETL pipeline for PostgreSQL DB</div>
@@ -3500,7 +3500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bitdotioinc/simple-pipeline</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example pipeline for bit.io</div>
@@ -3553,7 +3553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datamill-co/target-postgres</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Singer.io Target for Postgres</div>
@@ -3606,7 +3606,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>2ndQuadrant/pglogical</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Logical Replication extension for PostgreSQL 13, 12, 11, 10, 9.6, 9.5, 9.4 (Postgres), providing much faster replication than Slony, Bucardo or Londiste, as well as cross-version upgrades.</div>
@@ -3659,7 +3659,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BrittaInData/Data_Engineering</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All the lessons and projects finished during Udacity's Data Engineering program.</div>
@@ -3710,6 +3710,19 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">libwww-perl/URI-db</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -3823,19 +3836,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">umitanuki/s3_fdw</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">laurenz/pgreplay</span>
                                     </div>
                                 </div>
                             </section>
@@ -4211,7 +4211,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Mar 2022, 12:12:31 (timezone America/New_York) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 15 Mar 2022, 14:11:21 (timezone America/New_York) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
