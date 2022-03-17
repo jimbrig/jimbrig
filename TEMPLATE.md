@@ -2,7 +2,7 @@
 <h4 align="center">Software Engineer Developer from Atlanta, Georgia.</h4>
 <h5 align="center">Striving to be a modern day <em><strong><a href="https://en.wikipedia.org/wiki/Polymath">Polymath</strong></a>.</em></h5>
 
-<p align="center"><a href="https://github.com/jimbrig/jimsdots">Dotfiles</a> - <a href="https://devfolio.jimbrig.com/">Devfolio</a> - <a href="https://jimbrig.github.io/awesome-stars/">Stars</a></p>
+<p align="center"><a href="https://github.com/jimbrig/jimsdots">Dotfiles</a> - <a href="https://devfolio.jimbrig.com/">Devfolio</a> - <a href="https://jimbrigapps.shinyapps.io/jimsghstars/">Stars</a></p>
 
 <p align="center"><a href="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml"><img src="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml/badge.svg?branch=main"></img></a></p>
 
