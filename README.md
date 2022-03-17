@@ -2,7 +2,7 @@
 <h4 align="center">Software Engineer Developer from Atlanta, Georgia.</h4>
 <h5 align="center">Striving to be a modern day <em><strong><a href="https://en.wikipedia.org/wiki/Polymath">Polymath</strong></a>.</em></h5>
 
-<p align="center"><a href="https://github.com/jimbrig/jimsdots">Dotfiles</a> - <a href="https://devfolio.jimbrig.com/">Devfolio</a> - <a href="https://jimbrig.github.io/awesome-stars/">Stars</a></p>
+<p align="center"><a href="https://github.com/jimbrig/jimsdots">Dotfiles</a> - <a href="https://devfolio.jimbrig.com/">Devfolio</a> - <a href="https://jimbrigapps.shinyapps.io/jimsghstars/">Stars</a></p>
 
 <p align="center"><a href="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml"><img src="https://github.com/jimbrig/jimbrig/actions/workflows/all-actions.yml/badge.svg?branch=main"></img></a></p>
 
@@ -22,7 +22,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, March 17th 2022, 2:26:08</b>
+  <b>Thursday, March 17th 2022, 3:09:36</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -85,10 +85,10 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, March 17th 2022, 2:26:08</b>
+  <b>Thursday, March 17th 2022, 3:09:36</b>
 </p>
 
-* ⬆️ Pushed 1 commit to jimbrig/KaaS
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/KaaS
 * ⬆️ Pushed 1 commit to jimbrig/KaaS
 * ⬆️ Pushed 1 commit to jimbrig/KaaS
@@ -97,11 +97,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  24,247 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 5 tasks this week           
-✅  Completed 7,874 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
