@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4236" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4503" class="">
     <defs>
         <style/>
     </defs>
@@ -47,9 +47,9 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            9235 Commits
+                            9252 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -196,7 +196,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    22.6m added, 4.60m removed
+                                    21.4m added, 2.92m removed
                                 </div>
                             </section>
                             <section>
@@ -462,13 +462,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 44 commits)</small>
+                    <small class="h-details">(computed from last 43 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 44.0 characters per line of code written</li>
-                        <li>Mostly pushes code around 20:00</li>
+                        <li>Has approximately 45.4 characters per line of code written</li>
+                        <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
                 </div>
@@ -478,12 +478,12 @@
                 <div class="chart-bars">
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         00
                     </div>
                     <div class="entry">
                         <span class="value">3</span>
-                        <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         01
                     </div>
                     <div class="entry">
@@ -533,67 +533,67 @@
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         11
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         12
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         13
                     </div>
                     <div class="entry">
                         <span class="value">7</span>
-                        <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <div class="bar" style="height: 38.88888888888889px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         14
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         15
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         16
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         17
                     </div>
                     <div class="entry">
                         <span class="value">6</span>
-                        <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         18
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         19
                     </div>
                     <div class="entry">
-                        <span class="value">10</span>
-                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <span class="value">1</span>
+                        <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         20
                     </div>
                     <div class="entry">
-                        <span class="value"></span>
-                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        <span class="value">6</span>
+                        <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         21
                     </div>
                     <div class="entry">
-                        <span class="value">1</span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <span class="value">3</span>
+                        <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         22
                     </div>
                     <div class="entry">
                         <span class="value">9</span>
-                        <div class="bar" style="height: 45px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         23
                     </div>
                 </div>
@@ -604,37 +604,37 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 2.631578947368421px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 10.526315789473683px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
                             <span class="value">9</span>
-                            <div class="bar" style="height: 23.684210526315788px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
-                            <span class="value">19</span>
+                            <span class="value">18</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 10.526315789473683px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Thu
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 5.263157894736842px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 13.157894736842104px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 13.88888888888889px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Sat
                         </div>
                     </div>
@@ -695,7 +695,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~26.23
+                            Average per day at ~26.28
                         </div>
                     </section>
                 </div>
@@ -2650,15 +2650,15 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4626865671641793 0,1.462686567164179 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.462686567164179 1.7,2.4626865671641793 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.865671641791045)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1343283582089554 0,1.1343283582089552 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1343283582089552 1.7,2.1343283582089554 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 8.82089552238806)">
+                            <g transform="translate(-3.4, 7.82089552238806)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1791044776119404 0,1.1791044776119404 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1791044776119404 1.7,2.1791044776119404 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 8.611940298507463)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.388059701492537 0,1.3880597014925373 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3880597014925373 1.7,2.388059701492537 z"/>
                             </g>
                         </g>
                     </g>
@@ -2681,7 +2681,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>caiorss/bookmarklet-maker</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tool to create bookmarklet/ javascript apps to automate the web browser.</div>
@@ -2734,7 +2734,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>areed1192/sigma_coding_youtube</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a collection of all the code that can be found on my YouTube channel Sigma Coding.</div>
@@ -2949,7 +2949,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rsund/SurvoR</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Survo R is an open source version of the  general computing environment Survo developed by professor  Seppo Mustonen</div>
@@ -3735,6 +3735,186 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/KaaS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b7cffe6</div>
+                                        <div class="message">logo</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">jimbrig/KaaS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#abfe18b</div>
+                                        <div class="message">vs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e198120</div>
+                                        <div class="message">add head to README</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd69633</div>
+                                        <div class="message">add .assets directory</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">jimbrig/KaaS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#52478e7</div>
+                                        <div class="message">ignore vault-stats</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2c155d</div>
+                                        <div class="message">vs</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/KaaS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b2a934b</div>
+                                        <div class="message">enhance README</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/KaaS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3d5b7c4</div>
+                                        <div class="message">fixes</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">jimbrig/KaaS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#26dfb92</div>
+                                        <div class="message">gitignore changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb2c9e9</div>
+                                        <div class="message">add back .vault-stats</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dce3b00</div>
+                                        <div class="message">tweak .gitignore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf1c735</div>
+                                        <div class="message">add export-ignore for obsidian-export</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">jimbrig/KaaS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#01ed2aa</div>
+                                        <div class="message">new tools and code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ee0133</div>
+                                        <div class="message">merge</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc1a7f9</div>
+                                        <div class="message">idk</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da02c7b</div>
+                                        <div class="message">idk</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f72fd2</div>
+                                        <div class="message">idk</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -3780,683 +3960,6 @@ README.md</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jimbrig/KaaS</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ce3f72a</div>
-                                        <div class="message">vault backup: 2022-03-21 01:31:05
-
-Affected files:
-0-Slipbox/API Authentication.md
-0-Slipbox/Batch Scripting Tips and Tricks.md
-0-Slipbox/Foreign Key Constraints in Relational Databases.md
-0-Slipbox/R - Connect Shiny to PostgreSQL Database.md
-0-Slipbox/REST API HTTP Status Codes.md
-0-Slipbox/Stop Reading Junk and Start Using Instapaper.md
-0-Slipbox/dplyr as a Database Interface for R.md
-2-Areas/Code/GitHub Actions/GitHub Action - Code Coverage for R.md
-2-Areas/Code/Pandoc/_README.md
-2-Areas/Code/R/R - mssql_rstudio.md
-2-Areas/Code/SQL/SQL Server/_README.md
-2-Areas/Code/Windows/Miscellaneous/_README.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/_README.md
-2-Areas/Code/Windows/Windows PowerShell/_README.md
-2-Areas/Code/_README.md
-2-Areas/Content/Guides/Add a GUI to Batch File Scripts on Windows.md
-2-Areas/Content/Posts/Actuarial Posts/_README.md
-2-Areas/Content/_README.md
-2-Areas/Lists/Advanced Programming Concepts List.md
-2-Areas/Lists/Awesome R Package Development List.md
-2-Areas/Lists/CLI Tools List.md
-2-Areas/Lists/Database GUIs List.md
-2-Areas/Lists/Database Modeling Tools.md
-2-Areas/Lists/List of Python Flask Resources.md
-2-Areas/Lists/Obsidian Plugins List.md
-2-Areas/Lists/Online Developer Tools List.md
-2-Areas/Lists/PostgreSQL Tools List.md
-2-Areas/Lists/Productivity Apps List.md
-2-Areas/Lists/R - Data Validation Packages List.md
-2-Areas/Lists/R - Database Packages List.md
-2-Areas/Lists/R Package Development Resources List.md
-2-Areas/Lists/R Shiny Packages List.md
-2-Areas/Lists/R on the Web - List of Links.md
-2-Areas/Lists/REST API Resources List.md
-2-Areas/Lists/_README.md
-2-Areas/MOCs/Data Engineering.md
-2-Areas/MOCs/Development.md
-2-Areas/Meta/Unlinked-Files.md
-2-Areas/Meta/Unresolved-Links.md
-3-Resources/Templates/Resource-Templates/Tools-Templates/Tools-NPM-Packages/NPM-Package-Template.md
-3-Resources/Templates/Resource-Templates/Tools-Templates/Tools-R-Packages/Tool-R-Database-Package-Template.md
-3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-CLI-Template.md
-3-Resources/Templates/Slipbox-Templates/Productivity/Slipbox-PKM-Template.md
-3-Resources/Tools/Developer Tools/Command Line Utilities/GCalCLI.md
-3-Resources/Tools/Developer Tools/Command Line Utilities/GitHub CLI.md
-3-Resources/Tools/Developer Tools/Command Line Utilities/Todoist-CLI.md
-3-Resources/Tools/Developer Tools/Data Stack/Databases/PostgreSQL.md
-3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/dbt - Data Build Tool.md
-3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - keep.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Data Manipulation Packages/R Package - dlookr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Data Manipulation Packages/R Package - dplyr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - DBITest.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - DBconnectR.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - DatabaseConnector.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - MSSQL.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - MsSqlTools.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - R4CouchDB.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RCassandra.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RDruid.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RH2.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RJDBC.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RODBC.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RPresto.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RSQLite.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RcppRedis.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - SciDB.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - TScompare.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - arkdb.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - aws.dynamodb.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - bigrquery.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - connections.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbcooper.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbplyr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbreport.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbx.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dittodb.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - elastic.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - filehashSQLite.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - ibmdbR.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - implyr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - importTablesMSSQL.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - influxdb.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - influxdbr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - liteq.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - mongolite.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - mssqlR.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - odbc.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - pointblank.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - pool.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - redux.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rocker 1.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rocker.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rrocksdb.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rscontract.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - sparklyr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - sqldf.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - sqlpetr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - validate.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - validatedb.md
-3-Resources/Tools/Developer Tools/Shell/Bash.md
-3-Resources/Tools/Developer Tools/Shell/Microsoft DOS.md
-3-Resources/Tools/Developer Tools/Terminal/Windows Terminal.md
-3-Resources/Tools/PKM Tools/Obsidian/Utility/obsidian-blog.md
-3-Resources/Tools/Utility/Nativefier.md
-3-Resources/Tools/Utility/Topgrade.md
-README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jimbrig/KaaS</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1e1c4a8</div>
-                                        <div class="message">vault backup: 2022-03-21 01:00:25
-
-Affected files:
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - Module Template 1.md
-2-Areas/Code/Windows/Windows CMD/_README.md
-2-Areas/Code/_README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jimbrig/KaaS</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2cbec2b</div>
-                                        <div class="message">vault backup: 2022-03-21 00:37:05
-
-Affected files:
-2-Areas/Code/Pandoc/Pandoc - Convert Word to Markdown.md
-2-Areas/Code/Windows/Batch/Batch - Magic Variables.md
-2-Areas/Code/Windows/Batch/Batch - MediaCreationTool.md
-2-Areas/Code/Windows/Batch/_README.md
-2-Areas/Code/Windows/Miscellaneous/Add Tabs to Windows 11 Explorer.md
-2-Areas/Code/Windows/Registry/RegEdit - Restart Explorer and StartMenu Context Bar.md
-2-Areas/Code/Windows/Registry/RegEdit - Take Ownership Context Menu.md
-2-Areas/Code/Windows/Registry/Regedit - Enable Long Path Support on Windows.md
-2-Areas/Code/Windows/Registry/Regedit - Export Saved Registry Favorites.md
-2-Areas/Code/Windows/Registry/_README.md
-2-Areas/Code/Windows/Run/Run - Cleanup.md
-2-Areas/Code/Windows/Run/Run - GodMode All Tasks.md
-2-Areas/Code/Windows/Run/Run - Obsidian Vault Launcher.md
-2-Areas/Code/Windows/Run/Run - Resource Monitor.md
-2-Areas/Code/Windows/Run/Run - Startup.md
-2-Areas/Code/Windows/Run/_README.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - Alert.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - Balloon Notification.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - Check for Broken Links in Workbook.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - Copy Module from one Workbook to Another.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - Create and Run a SQL Query.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - File Dialog.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - ListLinks Module.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - Module Template 1.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - Module Template.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - Optimize Speed.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - Refresh All.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - SQL Stored Procedure Caller Module.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - Unhide All Worksheets.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - Unhide all Rows and Columns.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/VBA - Useful Utilities.md
-2-Areas/Code/Windows/Visual Basic/Excel VBA/_README.md
-2-Areas/Code/Windows/Windows CMD/CMD - Create a Network Performance Windows Report.md
-2-Areas/Code/Windows/Windows CMD/CMD - DISM Commands.md
-2-Areas/Code/Windows/Windows CMD/CMD - Delete Network Data.md
-2-Areas/Code/Windows/Windows CMD/CMD - Delete Windows Update Leftover Files.md
-2-Areas/Code/Windows/Windows CMD/CMD - Export and Import Edge Custom SearchEngines.md
-2-Areas/Code/Windows/Windows CMD/CMD - Extended Disk Cleanup.md
-2-Areas/Code/Windows/Windows CMD/CMD - FlushDNS.md
-2-Areas/Code/Windows/Windows CMD/CMD - Memory Diagnostic.md
-2-Areas/Code/Windows/Windows CMD/CMD - Restart Explorer and Start Menu.md
-2-Areas/Code/Windows/Windows CMD/CMD - Retrieve Stored Wi-Fi Passwords.md
-2-Areas/Code/Windows/Windows CMD/CMD - Retrieve Windows Credential Manager Saved Secrets.md
-2-Areas/Code/Windows/Windows CMD/CMD - Run the Hardware Diagnostic Troubleshooter.md
-2-Areas/Code/Windows/Windows CMD/CMD - Run the WinSAT Diagnostics Score.md
-2-Areas/Code/Windows/Windows CMD/CMD - Start a Windows Defender Virus Scan.md
-2-Areas/Code/Windows/Windows CMD/CMD - Troubleshooter Commands.md
-2-Areas/Code/Windows/Windows CMD/CMD - View Available Disks on Windows.md
-2-Areas/Code/Windows/Windows CMD/_README.md
-2-Areas/Code/Windows/_README.md
-2-Areas/Code/_README.md
-3-Resources/Templates/Resource-Templates/Code-Templates/Code-Registry-Template.md
-3-Resources/Tools/Productivity Tools/Microsoft Office/Excel/Inquire Excel Add-In.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">voldikss/vim-floaterm</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">jquery/jquery</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">nginxinc/docker-nginx</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jimbrig/KaaS</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2925067</div>
-                                        <div class="message">restructured tools
-
-Affected files:
-0-Slipbox/Batch Scripting Tips and Tricks.md
-0-Slipbox/Build a Lakehouse Architecture on AWS.md
-0-Slipbox/CAS - Casualty Actuarial Society.md
-0-Slipbox/Data Engineers.md
-0-Slipbox/Data Versioning.md
-0-Slipbox/Developing PowerShell Modules and Functions.md
-0-Slipbox/Documenting PowerShell Modules.md
-0-Slipbox/Flask and Docker.md
-0-Slipbox/Free Actuarial System for Loss Reserving.md
-0-Slipbox/Import CSV Files into PostgreSQL Table.md
-0-Slipbox/KasaAI GitHub Organization.md
-0-Slipbox/Modern Data Architecture on AWS.md
-0-Slipbox/Multi-Process Task Queue in R.md
-0-Slipbox/Problems with No-Code and Low-Code Tools.md
-0-Slipbox/R - Connect Shiny to PostgreSQL Database.md
-0-Slipbox/R Packages to Review 1.md
-0-Slipbox/R Packages to Review.md
-0-Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md
-0-Slipbox/REST API Best Practices.md
-0-Slipbox/REST API HTTP Status Codes.md
-0-Slipbox/SQLAlchemy ORM.md
-0-Slipbox/Simulating Actuarial Claims Data with R.md
-0-Slipbox/Team Data Science Process.md
-0-Slipbox/dplyr as a Database Interface for R.md
-2-Areas/Code/CMD/CMD - Create a Network Performance Windows Report.md
-2-Areas/Code/CMD/CMD - DISM Commands.md
-2-Areas/Code/CMD/CMD - Delete Network Data.md
-2-Areas/Code/CMD/CMD - Delete Windows Update Leftover Files.md
-2-Areas/Code/CMD/CMD - Export and Import Edge Custom SearchEngines.md
-2-Areas/Code/CMD/CMD - Extended Disk Cleanup.md
-2-Areas/Code/CMD/CMD - FlushDNS.md
-2-Areas/Code/CMD/CMD - Memory Diagnostic.md
-2-Areas/Code/CMD/CMD - Restart Explorer and Start Menu.md
-2-Areas/Code/CMD/CMD - Retrieve Stored Wi-Fi Passwords.md
-2-Areas/Code/CMD/CMD - Retrieve Windows Credential Manager Saved Secrets.md
-2-Areas/Code/CMD/CMD - Run the Hardware Diagnostic Troubleshooter.md
-2-Areas/Code/CMD/CMD - Run the WinSAT Diagnostics Score.md
-2-Areas/Code/CMD/CMD - Start a Windows Defender Virus Scan.md
-2-Areas/Code/CMD/CMD - Troubleshooter Commands.md
-2-Areas/Code/CMD/CMD - View Available Disks on Windows.md
-2-Areas/Code/GitHub Actions/GitHub Action - Build-Check-Install R Package.md
-2-Areas/Code/GitHub Actions/GitHub Action - Code Coverage for R.md
-2-Areas/Code/GitHub Actions/GitHub Action - R Package Validation.md
-2-Areas/Code/GitHub Actions/GitHub Action - R Spelling Checks.md
-2-Areas/Code/Miscellaneous/Add Tabs to Windows 11 Explorer.md
-2-Areas/Code/PowerShell/PowerShell - Cleanup Windows Script.md
-2-Areas/Code/PowerShell/PowerShell - Custom Installation Helpers.md
-2-Areas/Code/PowerShell/PowerShell - Git AutoCommit.md
-2-Areas/Code/PowerShell/PowerShell - Install AWS CLI.md
-2-Areas/Code/PowerShell/PowerShell - Install Azure-CLI.md
-2-Areas/Code/PowerShell/PowerShell - Install Backblaze Client.md
-2-Areas/Code/PowerShell/PowerShell - Install Chocolatey.md
-2-Areas/Code/PowerShell/PowerShell - Map Drives Function.md
-2-Areas/Code/PowerShell/PowerShell - Open Obsidian Vault.md
-2-Areas/Code/PowerShell/PowerShell - QuickAccess Utilities.md
-2-Areas/Code/PowerShell/PowerShell - Retrieve Local Public IPv4 IP Address.md
-2-Areas/Code/PowerShell/PowerShell - Scoop Import.md
-2-Areas/Code/PowerShell/PowerShell - System PATH Helpers.md
-2-Areas/Code/PowerShell/PowerShell - Toast Notification Example.md
-2-Areas/Code/PowerShell/PowerShell - Useful Profile Utility Functions.md
-2-Areas/Code/Python/Python - Upgrade PIP.md
-2-Areas/Code/R/R - Excel Helpers.md
-2-Areas/Code/R/R - Handle long polling process in Plumber or Shiny.md
-2-Areas/Code/R/R - Package Management Scripts.md
-2-Areas/Code/R/R - Retrieve GitHub Starred Repo Data.md
-2-Areas/Code/R/R - Run Shiny App in Background for Development.md
-2-Areas/Code/R/R - Upgrade R and Migrate Packages.md
-2-Areas/Code/R/R - docker_shiny_mssql.md
-2-Areas/Code/R/R - mssql_rstudio.md
-2-Areas/Code/Registry/RegEdit - Restart Explorer and StartMenu Context Bar.md
-2-Areas/Code/Registry/RegEdit - Take Ownership Context Menu.md
-2-Areas/Code/Registry/Regedit - Enable Long Path Support on Windows.md
-2-Areas/Code/Registry/Regedit - Export Saved Registry Favorites.md
-2-Areas/Code/SQL/PostgreSQL/SQL - PostgreSQL String Manipulation.md
-2-Areas/Code/_README.md
-2-Areas/Content/Guides/Add a GUI to Batch File Scripts on Windows.md
-2-Areas/Lists/AWS Components Master List.md
-2-Areas/Lists/Actuarial Development Master Resource List.md
-2-Areas/Lists/Advanced Programming Concepts.md
-2-Areas/Lists/CLI Tools.md
-2-Areas/Lists/Database GUIs.md
-2-Areas/Lists/Database Modeling Tools.md
-2-Areas/Lists/List of Python Flask Resources.md
-2-Areas/Lists/PostgreSQL Tools.md
-2-Areas/Lists/R - Data Validation Packages.md
-2-Areas/Lists/R Database Packages.md
-2-Areas/Lists/R Package Development Resources.md
-2-Areas/Lists/R on the Web - List of Links.md
-2-Areas/MOCs/Actuarial Science.md
-2-Areas/MOCs/Data Engineering.md
-2-Areas/MOCs/Data Science.md
-2-Areas/MOCs/Databases.md
-2-Areas/MOCs/Development.md
-2-Areas/MOCs/PowerShell.md
-2-Areas/MOCs/R.md
-2-Areas/MOCs/Software Development.md
-2-Areas/MOCs/Web Development.md
-2-Areas/MOCs/_README.md
-2-Areas/Meta/About.md
-3-Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md
-3-Resources/Highlights/Readwise/Articles/4 Design Principles for Robust Data Pipelines.md
-3-Resources/Highlights/Readwise/Articles/Bioconductor - Package Guidelines.md
-3-Resources/Highlights/Readwise/Articles/Getting Data From PDFs the Easy Way With R - Open Source Automation.md
-3-Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax.md
-3-Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md
-3-Resources/Highlights/Readwise/Books/Reproducible Research With R and RStudio.md
-3-Resources/Highlights/Readwise/Readwise Syncs.md
-3-Resources/Templates/Resource-Templates/Code-Templates/Code-CMD-Template.md
-3-Resources/Templates/Resource-Templates/Code-Templates/Code-PowerShell-Template.md
-3-Resources/Templates/Resource-Templates/Code-Templates/Code-Python-Template.md
-3-Resources/Templates/Resource-Templates/Code-Templates/Code-R-Template.md
-3-Resources/Templates/Resource-Templates/Code-Templates/Code-Registry-Template.md
-3-Resources/Templates/Resource-Templates/Tools-Templates/Tools-R-Packages/Tool-R-Database-Package-Template.md
-3-Resources/Templates/Resource-Templates/Tools-Templates/Tools-R-Packages/Tool-R-Package-Template.md
-3-Resources/Templates/Resource-Templates/Tools-Templates/Tools-R-Packages/Tool-R-Shiny-Package-Template.md
-3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-PowerShell-Template.md
-3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-Python-Template.md
-3-Resources/Templates/Slipbox-Templates/Dev/Slipbox-Dev-R-Template.md
-3-Resources/Tools/Data/Databases/MySQL.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Athena.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Aurora.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS CLI.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Glue.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Lake Formation.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS QuickSight.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS RDS.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Redshift.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS S3.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Sagemaker.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS Schema Conversion Tool.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Athena.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon EC2.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon EMR.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Kinesis Data Firehose.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Kinesis.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon OpenSearch Service.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/Amazon Redshift.md
-3-Resources/Tools/Developer Tools/Cloud Services/AWS/_README.md
-3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure Data Studio.md
-3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure DevOps Pipelines.md
-3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure DevOps.md
-3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure Key Vault.md
-3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure ML Compute Instances.md
-3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure MLOps.md
-3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure Machine Learning.md
-3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure SQL Databases.md
-3-Resources/Tools/Developer Tools/Cloud Services/Azure/Microsoft Azure Data Lake Store 1.md
-3-Resources/Tools/Developer Tools/Cloud Services/Azure/Microsoft Azure Data Lake Store 2.md
-3-Resources/Tools/Developer Tools/Cloud Services/Azure/Microsoft Azure Data Lake Store.md
-3-Resources/Tools/Developer Tools/Cloud Services/Azure/Microsoft Azure.md
-3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP - Google Cloud SDK - gcloud.md
-3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP API Services.md
-3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP Instance Groups.md
-3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP Services Table.md
-3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP Storage.md
-3-Resources/Tools/Developer Tools/Cloud Services/GCP/Google Cloud BigQuery.md
-3-Resources/Tools/Developer Tools/Cloud Services/GCP/Google Colaboratory.md
-3-Resources/Tools/Developer Tools/Cloud Services/GCP/_README.md
-3-Resources/Tools/Developer Tools/Command Line Utilities/GCalCLI.md
-3-Resources/Tools/Developer Tools/Command Line Utilities/GitHub CLI.md
-3-Resources/Tools/Developer Tools/Command Line Utilities/MEGA CMD.md
-3-Resources/Tools/Developer Tools/Command Line Utilities/Todoist-CLI.md
-3-Resources/Tools/Developer Tools/Data Stack/Business Intelligence/Alteryx.md
-3-Resources/Tools/Developer Tools/Data Stack/Database GUI/DBeaver.md
-3-Resources/Tools/Developer Tools/Data Stack/Database GUI/PgAdmin.md
-3-Resources/Tools/Developer Tools/Data Stack/Database GUI/SQL Server Management Studio.md
-3-Resources/Tools/Developer Tools/Data Stack/Databases/Elasticsearch.md
-3-Resources/Tools/Developer Tools/Data Stack/Databases/Hadoop.md
-3-Resources/Tools/Developer Tools/Data Stack/Databases/MariaDB.md
-3-Resources/Tools/Developer Tools/Data Stack/Databases/PostgreSQL.md
-3-Resources/Tools/Developer Tools/Data Stack/Databases/SQL Server.md
-3-Resources/Tools/Developer Tools/Data Stack/Databases/SQLite.md
-3-Resources/Tools/Developer Tools/Data Stack/Databases/Snowflake.md
-3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/SQL Server - DBA MultiTool.md
-3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/SQLFlow.md
-3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/dbt - Data Build Tool.md
-3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/PLPGSQL.md
-3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/SQL.md
-3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/T-SQL.md
-3-Resources/Tools/Developer Tools/Docker/Docker CLI.md
-3-Resources/Tools/Developer Tools/Docker/Docker Compose.md
-3-Resources/Tools/Developer Tools/Docker/Docker.md
-3-Resources/Tools/Developer Tools/Docker/Dockerfiles.md
-3-Resources/Tools/Developer Tools/Docker/_README.md
-3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/GitBook.md
-3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Hexo.md
-3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Hugo.md
-3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Jekyll.md
-3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/MkDocs.md
-3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/ReadTheDocs.md
-3-Resources/Tools/Developer Tools/Documentation/Text Editors/Notepad++.md
-3-Resources/Tools/Developer Tools/Documentation/Text Editors/Obsidian.md
-3-Resources/Tools/Developer Tools/Documentation/Text Editors/Typora.md
-3-Resources/Tools/Developer Tools/Documentation/Text Editors/VSCode.md
-3-Resources/Tools/Developer Tools/Documentation/Utility/Git-Cliff.md
-3-Resources/Tools/Developer Tools/IDE/PyCharm.md
-3-Resources/Tools/Developer Tools/IDE/RStudio.md
-3-Resources/Tools/Developer Tools/IDE/Visual Studio Code.md
-3-Resources/Tools/Developer Tools/IDE/Visual Studio.md
-3-Resources/Tools/Developer Tools/Languages/DotNet.md
-3-Resources/Tools/Developer Tools/Languages/JavaScript/Reactjs.md
-3-Resources/Tools/Developer Tools/Languages/PowerShell.md
-3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Core.md
-3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - ModuleBuilder 1.md
-3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - ModuleBuilder.md
-3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - PSScaffold.md
-3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - Pester.md
-3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - Plaster.md
-3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - PoshCode.md
-3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - Stucco.md
-3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - devblackops.md
-3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Module - psake.md
-3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell Modules.md
-3-Resources/Tools/Developer Tools/Languages/PowerShell/Windows PowerShell.md
-3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - ChainLadder.md
-3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - Flask.md
-3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - SQLAlchemy.md
-3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - keep.md
-3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - tryangle.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/API R Packages/R Package - gh.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/API R Packages/R Package - plumber.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - ChainLadder.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - actuar.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - cascsim.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - casdata.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - casdown.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - conjuror.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - deeptriangle.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - imaginator.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - insurancerating.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - raw.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - rsvr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - simulationmachine.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Data Manipulation Packages/R Package - dlookr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Data Manipulation Packages/R Package - dplyr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - DBI.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - DBITest.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - DBconnectR.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - DatabaseConnector.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - MSSQL.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - MsSqlTools.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - R4CouchDB.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RCassandra.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RDruid.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RGreenplum.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RH2.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RJDBC.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RMariaDB.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RMySQL.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RODBC.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - ROracle.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RPostgreSQL.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RPostgres.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RPresto.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RSQLite.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RcppRedis.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - SciDB.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - TScompare.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - arkdb.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - aws.dynamodb.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - bigrquery.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - connections.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbcooper.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbplyr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbreport.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dbx.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - dittodb.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - elastic.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - filehashSQLite.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - ibmdbR.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - implyr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - importTablesMSSQL.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - influxdb.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - influxdbr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - liteq.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - mongolite.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - mssqlR.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - odbc.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - pointblank.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - pool.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - redux.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rocker 1.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rocker.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rpostgis.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rrocksdb.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - rscontract.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - sparklyr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - sqldf.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - sqlpetr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - tfio.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - uptasticsearch.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - validate.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - validatedb.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - Hmisc.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - callr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - config.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - keyring.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - pkgsearch.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - qs.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - vembedr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/R Package - covr.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/R Package - usethis.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/RStudio Package Manager.md
-3-Resources/Tools/Developer Tools/Languages/R/R Packages/_README.md
-3-Resources/Tools/Developer Tools/Linux/Windows Subsystem for Linux.md
-3-Resources/Tools/Developer Tools/Linux/oh-my-zsh.md
-3-Resources/Tools/Developer Tools/Linux/powerlevel10k.md
-3-Resources/Tools/Developer Tools/Package Managers/Chocolatey.md
-3-Resources/Tools/Developer Tools/Package Managers/Node - npm.md
-3-Resources/Tools/Developer Tools/Package Managers/OneGet.md
-3-Resources/Tools/Developer Tools/Package Managers/Python - pip.md
-3-Resources/Tools/Developer Tools/Package Managers/RIM - R Installation Manager CLI.md
-3-Resources/Tools/Developer Tools/Package Managers/Rust - Cargo.md
-3-Resources/Tools/Developer Tools/Package Managers/Scoop.md
-3-Resources/Tools/Developer Tools/Package Managers/Winget.md
-3-Resources/Tools/Developer Tools/Shell/Bash.md
-3-Resources/Tools/Developer Tools/Shell/Microsoft DOS.md
-3-Resources/Tools/Developer Tools/Shell/Nerdfont.md
-3-Resources/Tools/Developer Tools/Shell/zsh.md
-3-Resources/Tools/Developer Tools/Terminal/Fluent Terminal.md
-3-Resources/Tools/Developer Tools/Terminal/Windows Terminal.md
-3-Resources/Tools/Developer Tools/Terminal/iTerm.md
-3-Resources/Tools/Developer Tools/Version Control/Git Extras.md
-3-Resources/Tools/Developer Tools/Version Control/GitHub.md
-3-Resources/Tools/Developer Tools/Version Control/_README.md
-3-Resources/Tools/Developer Tools/Websites and Online Tools/StackOverflow.md
-3-Resources/Tools/Developer Tools/Websites and Online Tools/thiscodeWorks.md
-3-Resources/Tools/Languages/Javascript.md
-3-Resources/Tools/Languages/Ruby.md
-3-Resources/Tools/Languages/Rust.md
-3-Resources/Tools/Languages/SQL.md
-3-Resources/Tools/Online Tools/Goodreads.md
-3-Resources/Tools/Online Tools/Reddit.md
-3-Resources/Tools/Online Tools/Twitter.md
-3-Resources/Tools/PKM Tools/Evernote.md
-3-Resources/Tools/PKM Tools/Feedly.md
-3-Resources/Tools/PKM Tools/Hypothesis.io.md
-3-Resources/Tools/PKM Tools/Instapaper.md
-3-Resources/Tools/PKM Tools/Kindle.md
-3-Resources/Tools/PKM Tools/Medium.md
-3-Resources/Tools/PKM Tools/Obsidian/Plugins/Advanced Tables Plugin.md
-3-Resources/Tools/PKM Tools/Obsidian/Plugins/Citations Plugin.md
-3-Resources/Tools/PKM Tools/Obsidian/Plugins/Dictionary Plugin.md
-3-Resources/Tools/PKM Tools/Obsidian/Plugins/Extract Highlights Plugin.md
-3-Resources/Tools/PKM Tools/Obsidian/Plugins/Kanban Plugin.md
-3-Resources/Tools/PKM Tools/Obsidian/Plugins/Obsidian Git Plugin.md
-3-Resources/Tools/PKM Tools/Obsidian/Plugins/Obsidian Highlights Plugin.md
-3-Resources/Tools/PKM Tools/Obsidian/Plugins/Readwise Plugin.md
-3-Resources/Tools/PKM Tools/Obsidian/Utility/obsidian-blog.md
-3-Resources/Tools/PKM Tools/Obsidian/Utility/obsidian-export.md
-3-Resources/Tools/PKM Tools/Obsidian/_README.md
-3-Resources/Tools/PKM Tools/Readwise.md
-3-Resources/Tools/PKM Tools/Zotero.md
-3-Resources/Tools/Productivity Tools/Google Calendar.md
-3-Resources/Tools/Productivity Tools/Microsoft Office/Excel/Excel - VBA.md
-3-Resources/Tools/Productivity Tools/Microsoft Office/Excel/Excel.md
-3-Resources/Tools/Productivity Tools/Microsoft Office/Excel/Inquire Excel Add-In.md
-3-Resources/Tools/Productivity Tools/Microsoft Office/Microsoft Access.md
-3-Resources/Tools/Productivity Tools/Microsoft Office/Microsoft Office.md
-3-Resources/Tools/Productivity Tools/Microsoft Office/Microsoft Visio.md
-3-Resources/Tools/Productivity Tools/Notion.md
-3-Resources/Tools/Productivity Tools/Todoist.md
-3-Resources/Tools/Productivity Tools/Toggl.md
-3-Resources/Tools/R/R Packages/R Packages.md
-3-Resources/Tools/Tools.md
-3-Resources/Tools/Utility/Topgrade.md
-3-Resources/Tools/Version Control/Git.md
-3-Resources/Tools/Web Browsers/Browser Extensions/Dark Reader.md
-3-Resources/Tools/Web Browsers/Browser Extensions/Keeper Password Manager.md
-3-Resources/Tools/Web Browsers/Browser Extensions/Markdownload.md
-3-Resources/Tools/Web Browsers/Browser Extensions/Momentum.md
-3-Resources/Tools/Web Browsers/Browser Extensions/OneTab.md
-3-Resources/Tools/Web Browsers/Browser Extensions/Raindrop.io.md
-3-Resources/Tools/Web Browsers/Browser Extensions/Tab Session Manager.md
-3-Resources/Tools/Web Browsers/Browser Extensions/Zotero Connector.md
-3-Resources/Tools/Web Browsers/Browser Extensions/_README.md
-3-Resources/Tools/Web Browsers/Firefox Developer.md
-3-Resources/Tools/Web Browsers/Google Chrome.md
-3-Resources/Tools/Web Browsers/Microsoft Edge.md
-3-Resources/Tools/Web Browsers/_README.md
-3-Resources/Tools/Web Browsers/_assets/Pasted image 20220213211409.png
-3-Resources/Tools/_README.md
-3-Resources/Tools/iOS Apps/Airr.md
-3-Resources/Tools/iOS Apps/Snipd.md
-3-Resources/Tools/iOS Apps/Streaks.md
-README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -4479,7 +3982,7 @@ README.md</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1066.8133333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1068.3633333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -4501,7 +4004,7 @@ README.md</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 11324 times</div>
+                                <div class="text">Repositories have been deployed 11339 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4828,7 +4331,7 @@ README.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Mar 2022, 20:19:32 (timezone America/New_York) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 23 Mar 2022, 22:32:36 (timezone America/New_York) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
