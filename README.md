@@ -68,7 +68,7 @@ Successful history of identifying patterns, making interpretations, and producin
 <h2 align="center">📃 Content</h2>
 
 - Portfolio: [Devfolio](https://devfolio.jimbrig.com)
-- Knowledge as a Service (Official): [KaaS - Obsidian Pubish](https://publish.obsidian.md/kaas/) 
+- Knowledge as a Service (Official): [KaaS - Obsidian Pubish](https://publish.obsidian.md/kaas-published/) 
 - Knowledge as a Service (GitHub Pages): [KaaS - GitHub Pages](https://kaas.jimbrig.com/)  
 - Distill Blog: [JimsDocs](https://jimbrig.github.io/jimsdocs/)
 - R Blog: [The R Dispatch](https://therdispatch.jimbrig.com/) 
