@@ -22,7 +22,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, March 30th 2022, 8:10:45</b>
+  <b>Wednesday, March 30th 2022, 10:06:09</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -85,7 +85,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, March 30th 2022, 8:10:45</b>
+  <b>Wednesday, March 30th 2022, 10:06:09</b>
 </p>
 
 * ⬆️ Pushed 3 commits to jimbrig/xl-config
@@ -97,11 +97,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  24,453 Karma Points           
-🌸  Completed 20 tasks today           
-🗓  Completed 30 tasks this week           
-✅  Completed 7,930 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
