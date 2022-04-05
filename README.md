@@ -22,7 +22,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, April 5th 2022, 10:07:37</b>
+  <b>Tuesday, April 5th 2022, 12:11:55</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -84,7 +84,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, April 5th 2022, 10:07:37</b>
+  <b>Tuesday, April 5th 2022, 12:11:55</b>
 </p>
 
 * 🗣 Commented on #229 in stnkl/EverythingToolbar
@@ -96,11 +96,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  24,488 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 5 tasks this week           
-✅  Completed 7,941 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
