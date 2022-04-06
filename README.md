@@ -22,7 +22,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, April 6th 2022, 4:06:14</b>
+  <b>Wednesday, April 6th 2022, 6:06:55</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -84,7 +84,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, April 6th 2022, 4:06:14</b>
+  <b>Wednesday, April 6th 2022, 6:06:55</b>
 </p>
 
 * ⬆️ Pushed 0 commit to jimbrig/devpholio
@@ -96,11 +96,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  24,507 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 11 tasks this week           
-✅  Completed 7,947 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
