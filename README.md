@@ -22,7 +22,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, April 15th 2022, 2:43:49</b>
+  <b>Friday, April 15th 2022, 4:18:20</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -85,7 +85,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Friday, April 15th 2022, 2:43:49</b>
+  <b>Friday, April 15th 2022, 4:18:20</b>
 </p>
 
 * 🗣 Commented on #9025 in pypa/pip
@@ -93,11 +93,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  24,680 Karma Points           
-🌸  Completed 15 tasks today           
-🗓  Completed 39 tasks this week           
-✅  Completed 8,022 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
