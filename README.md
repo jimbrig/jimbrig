@@ -1,4 +1,25 @@
 <h1 align="center">Jimmy Briggs</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/jimbrig" target="blank">
+    <img align="center" src="assets/linkedin.svg" alt="jimbrig" height="18px" />
+  </a>
+  <a href="https://dev.to/jimbrig" target="blank">
+    <img align="center" src="assets/devto.svg" alt="devto" height="18px" />
+  </a>
+  <a href="https://twitter.com/jimbrig2011" target="blank">
+    <img align="center" src="assets/twitter.svg" alt="twitter" height="18px" />
+  </a>
+  <a href="https://stackoverflow.com/users/jimbrig" target="blank">
+    <img align="center" src="assets/stackoverflow.svg" alt="stackoverflow" height="18px" />
+  </a>
+  <a href="https://medium.com/jimbrig" target="blank">
+    <img align="center" src="assets/medium.svg" alt="medium" height="18px" />
+  </a>
+  <a href="https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2ffeedly.com%2ff%2fqovw62nvai7u3fp6bltrqkny" target="blank">
+    <img align="center" src="assets/feedly.svg" alt="feedly" height="18px" />
+  </a>
+</p>
+<hr>
 <h4 align="center">Software Engineer Developer from Atlanta, Georgia.</h4>
 <h5 align="center">Striving to be a modern day <em><strong><a href="https://en.wikipedia.org/wiki/Polymath">Polymath</strong></a>.</em></h5>
 
@@ -118,17 +139,6 @@ And Much More!
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html,javascript" alt="jimbrig" /></p>
 <p align="center"><em>Note: Javascript and HTML are excluded.</em></p>
-
-<h2 align="center">📢 Connect</h2>
-
-<p align="center">
-<a href="https://dev.to/jimbrig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jimbrig" height="30" width="40" /></a>
-<a href="https://twitter.com/jimmy82929796" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jimmy82929796" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jimbrig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jimbrig" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jimbrig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jimbrig" height="30" width="40" /></a>
-<a href="https://medium.com/jimbrig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="jimbrig" height="30" width="40" /></a>
-<a href="/https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2ffeedly.com%2ff%2fqovw62nvai7u3fp6bltrqkny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2ffeedly.com%2ff%2fqovw62nvai7u3fp6bltrqkny" height="30" width="40" /></a>
-</p>
 
 <h2 align="center">Github Metrics</h2>
 
