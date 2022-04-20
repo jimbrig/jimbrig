@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, April 20th 2022, 12:12:47</b>
+  <b>Wednesday, April 20th 2022, 2:10:36</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -106,7 +106,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, April 20th 2022, 12:12:47</b>
+  <b>Wednesday, April 20th 2022, 2:10:36</b>
 </p>
 
 * 💪 Opened PR #255 in Appsilon/rhino
@@ -118,11 +118,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  24,690 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 4 tasks this week           
-✅  Completed 8,026 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
