@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, April 23rd 2022, 2:06:08</b>
+  <b>Saturday, April 23rd 2022, 4:06:08</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -105,23 +105,17 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, April 23rd 2022, 2:06:08</b>
+  <b>Saturday, April 23rd 2022, 4:06:08</b>
 </p>
 
 * 🗣 Commented on #255 in Appsilon/rhino
 * 💪 Opened PR #255 in Appsilon/rhino
 * ⬆️ Pushed 1 commit to jimbrig/rhino
 * 🍴 Forked jimbrig/rhino from Appsilon/rhino
-* ⬆️ Pushed 2 commits to jimbrig/jimbrig
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  24,711 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 8 tasks this week           
-✅  Completed 8,030 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
