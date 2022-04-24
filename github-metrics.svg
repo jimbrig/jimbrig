@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            9685 Commits
+                            9686 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -216,7 +216,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    13 Forkers
+                                    12 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2718,7 +2718,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>botpress/cdk-postgresql</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AWS CDK Constructs for PostgreSQL</div>
@@ -2771,7 +2771,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/aws-step-functions-etl-pipeline-pattern</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2825,7 +2825,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>neocorp/aws_rds_postgresql</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AWS RDS PostgreSQL Instance Creation with Python and Boto3 and CRUD with psycopg2</div>
@@ -2878,7 +2878,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>traveloka/terraform-aws-rds-postgres</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terraform module which creates an AWS RDS with Postgres engine</div>
@@ -2931,7 +2931,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-quickstart/quickstart-aws-utility-meter-data-analytics-platform</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AWS Quick Start Team</div>
@@ -2984,7 +2984,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/s3-to-lambda-patterns</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example applications for the S3-to-Lambda patterns series in the AWS Compute Blog and learning path. Questions? @jbesw.</div>
@@ -3037,7 +3037,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ddgope/Data-Pipelines-with-Airflow</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project helps me to understand the core concepts of Apache Airflow. I have created custom operators to perform tasks such as staging the data, filling the data warehouse, and running checks on the data quality as the final step. Automate the ETL pipeline and creation of data warehouse using Apache Airflow. Skills include:  Using Airflow to automate ETL pipelines using Airflow, Python, Amazon Redshift. Writing custom operators to perform tasks such as staging data, filling the data warehouse, and validation through data quality checks. Transforming data from various sources into a star schema optimized for the analytics team’s use cases. Technologies used: Apache Airflow, S3, Amazon Redshift, Python.</div>
@@ -3084,7 +3084,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/devops-pipelines</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Warehouse of notebooks that contains azure data explorer queries to help in root causing pipeline delays in azuredevops.</div>
@@ -3137,7 +3137,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NitinSPatil15/Project-3-Data-Warehouse-with-AWS</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An ETL pipeline that extracts data from S3, stages them in Redshift, and transforms data into a set of dimensional tables</div>
@@ -3184,7 +3184,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jcizel/ecbapi</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">European Central Bank Statistical Data Warehouse API</div>
@@ -3231,7 +3231,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>expersso/ecb</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">R interface to the European Central Bank's Statistical Data Warehouse (SDW) API</div>
@@ -3278,7 +3278,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>databand-ai/databand_templates</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Templates for monitoring your data lake and warehouses.</div>
@@ -3331,7 +3331,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dazheng/SparkETL</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Implement a complete data warehouse etl using spark SQL</div>
@@ -3378,7 +3378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>norton120/kimball_dbt</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation template for a Kimball (dimensional) Data Warehouse</div>
@@ -3431,7 +3431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PeachstoneIO/peachbox</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python based data warehouse solution for the Lambda Architecture.</div>
@@ -3484,7 +3484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vmware/versatile-data-kit</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Versatile Data Kit is a data engineering framework that enables Data Engineers to develop, troubleshoot, deploy, run, and manage data processing workloads.</div>
@@ -3537,7 +3537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Adatis/ModernDataWarehouseWorkshop</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Full day training hands on workshop creating an Azure based Modern Data Warehouse authored by Paul Andrew, Simon Whiteley and Terry McCann</div>
@@ -3584,7 +3584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openspending/spendb</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Next-gen web application for public finance data warehouses, formerly OpenSpending</div>
@@ -3637,7 +3637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devlace/datadevops</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">How DevOps principles can be applied to Data Pipeline Solution built with Azure Databricks, Data Factory and ADL Gen2. Moved to: https://github.com/Azure-Samples/modern-data-warehouse-dataops</div>
@@ -3690,7 +3690,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TKostyrka/70767DataWarehouse</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">70-767 Implementing a Data Warehouse using SQL (training materials)</div>
@@ -4265,7 +4265,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2022, 00:06:57 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 24 Apr 2022, 02:09:38 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
