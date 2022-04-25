@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            9694 Commits
+                            9668 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2688,7 +2688,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sticklerm3/My-Siri-iOS-shortcuts</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Just some shortcuts I made for Siri</div>
@@ -2741,7 +2741,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>harlecin/serverless</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serverless R for AWS Lambda and Azure Functions</div>
@@ -2788,7 +2788,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grycap/scar</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serverless Container-aware ARchitectures (e.g. Docker in AWS Lambda)</div>
@@ -2841,7 +2841,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lambci/docker-lambda</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker images and test runners that replicate the live AWS Lambda environment</div>
@@ -2894,7 +2894,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>browniebroke/cookiecutter-lambda-function</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cookiecutter template to create AWS Lambda function</div>
@@ -2947,7 +2947,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ken107/aws-lambda-shell-execute</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An AWS Lambda function that executes a shell command and returns the output.  Additional executable binaries can be deployed with and used by the function.</div>
@@ -2994,7 +2994,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>btsuhako/serverless-s3-processing</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serverless Example – Using the Serverless Framework and AWS Lambda to process objects and events from S3 https://www.serverless.com</div>
@@ -3041,7 +3041,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ryfeus/lambda-packs</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Precompiled packages for AWS Lambda</div>
@@ -3094,7 +3094,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nytlabs/github-s3-deploy</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AWS Lambda function, triggered by Github/SNS webhook, to sync new commits in an S3 bucket</div>
@@ -3147,7 +3147,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unixorn/aws-lambda-list</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of hopefully useful AWS lambdas and lambda-related resources.</div>
@@ -3194,7 +3194,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-guides/og-aws</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📙 Amazon Web Services — a practical guide</div>
@@ -3247,7 +3247,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>v1s1t0r1sh3r3/airgeddon</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a multi-use bash script for Linux systems to audit wireless networks.</div>
@@ -3300,7 +3300,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>monoxgas/sRDI</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode</div>
@@ -3353,7 +3353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudbase/FreeRDP-Windows-Build</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FreeRDP Windows build scripts</div>
@@ -3406,7 +3406,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>d3ckx1/OLa</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3422,7 +3422,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        92
+                                        94
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3454,7 +3454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pabumake/windowToolboxMalware-Removal</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">wTM-Removal searches and removes malicous files regarding the bad github repo</div>
@@ -3507,7 +3507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>govinss/shakrdp</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3555,7 +3555,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KelvinTegelaar/CIPP-API</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3609,7 +3609,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HernanRodriguez1/MimikatzFUD</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3657,7 +3657,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mandiant/commando-vm</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com</div>
@@ -4215,7 +4215,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2022, 22:41:26 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Apr 2022, 00:10:13 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
