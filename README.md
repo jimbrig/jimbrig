@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, April 28th 2022, 8:10:43</b>
+  <b>Thursday, April 28th 2022, 10:06:07</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -106,22 +106,16 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, April 28th 2022, 8:10:43</b>
+  <b>Thursday, April 28th 2022, 10:06:07</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/espanso
 * ⬆️ Pushed 1 commit to jimbrig/espanso
 * ⬆️ Pushed 4 commits to jimbrig/espanso
-* ⬆️ Pushed 5 commits to jimbrig/PowerShell
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  24,752 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 8 tasks this week           
-✅  Completed 8,041 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
