@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, May 1st 2022, 2:53:22</b>
+  <b>Sunday, May 1st 2022, 6:11:31</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -105,7 +105,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, May 1st 2022, 2:53:22</b>
+  <b>Sunday, May 1st 2022, 6:11:31</b>
 </p>
 
 * ⬆️ Pushed 0 commit to jimbrig/XDG_CONFIG_HOME_R
@@ -117,11 +117,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  24,763 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 12 tasks this week           
-✅  Completed 8,045 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
