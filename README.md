@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, May 5th 2022, 2:38:28</b>
+  <b>Thursday, May 5th 2022, 4:15:06</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -105,23 +105,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, May 5th 2022, 2:38:28</b>
+  <b>Thursday, May 5th 2022, 4:15:06</b>
 </p>
 
-* ⬆️ Pushed 1 commit to jimbrig/zshrc
-* 🍴 Forked jimbrig/obsidian-gatsby-wiki from theowenyoung/obsidian-template-gatsby-theme-primer-wiki
 * ⬆️ Pushed 1 commit to jimbrig/PowerShell
-* 💪 Opened PR #11 in jimbrig/PowerShell
 * ⬆️ Pushed 1 commit to jimbrig/PowerShell
+* ⬆️ Pushed 2 commits to jimbrig/PowerShell
+* ⬆️ Pushed 1 commit to jimbrig/PowerShell
+* ⬆️ Pushed 5 commits to jimbrig/PowerShell
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  24,788 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 5 tasks this week           
-✅  Completed 8,050 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
