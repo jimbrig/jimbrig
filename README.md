@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, May 5th 2022, 12:13:55</b>
+  <b>Thursday, May 5th 2022, 2:10:31</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -105,7 +105,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, May 5th 2022, 12:13:55</b>
+  <b>Thursday, May 5th 2022, 2:10:31</b>
 </p>
 
 * 📦 Released "Version 1.4.0" in jimbrig/PowerShell
@@ -117,11 +117,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  24,788 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 5 tasks this week           
-✅  Completed 8,050 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
