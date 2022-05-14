@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, May 14th 2022, 8:06:15</b>
+  <b>Saturday, May 14th 2022, 10:06:13</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -106,23 +106,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, May 14th 2022, 8:06:15</b>
+  <b>Saturday, May 14th 2022, 10:06:13</b>
 </p>
 
-* 🍴 Forked jimbrig/gh-zsh from gustavohellwig/gh-zsh
-* ⬆️ Pushed 1 commit to jimbrig/PowerShell
-* ⬆️ Pushed 2 commits to jimbrig/PowerShell
-* ⬆️ Pushed 3 commits to jimbrig/PowerShell
-* ⬆️ Pushed 1 commit to jimbrig/PowerShell
+* ⬆️ Pushed 1 commit to jimbrig/wsldotz
+* ⬆️ Pushed 1 commit to jimbrig/wsldotz
+* ⬆️ Pushed 1 commit to jimbrig/wsldotz
+* ⬆️ Pushed 1 commit to jimbrig/wsldotz
+* ⬆️ Pushed 1 commit to jimbrig/wsldotz
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  24,848 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 3 tasks this week           
-✅  Completed 8,068 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
