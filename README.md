@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, May 27th 2022, 8:07:27</b>
+  <b>Friday, May 27th 2022, 10:06:02</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -106,7 +106,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Friday, May 27th 2022, 8:07:27</b>
+  <b>Friday, May 27th 2022, 10:06:02</b>
 </p>
 
 * 🍴 Forked jimbrig/wsl-automated-setup from n-murray/wsl-automated-setup
@@ -118,11 +118,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  24,999 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 32 tasks this week           
-✅  Completed 8,121 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
