@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, May 31st 2022, 8:06:25</b>
+  <b>Tuesday, May 31st 2022, 10:34:27</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -106,23 +106,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, May 31st 2022, 8:06:25</b>
+  <b>Tuesday, May 31st 2022, 10:34:27</b>
 </p>
 
+* ⬆️ Pushed 1 commit to jimbrig/KaaS
 * ❗️ Opened issue #83 in devblackops/Terminal-Icons
 * 🍴 Forked jimbrig/wsl-automated-setup from n-murray/wsl-automated-setup
 * ⬆️ Pushed 1 commit to jimbrig/KaaS
 * ⬆️ Pushed 2 commits to jimbrig/KaaS
-* ⬆️ Pushed 18 commits to jimbrig/terraform-azure
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  25,054 Karma Points           
-🌸  Completed 30 tasks today           
-🗓  Completed 31 tasks this week           
-✅  Completed 8,155 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
