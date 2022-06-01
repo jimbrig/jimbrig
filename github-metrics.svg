@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            10361 Commits
+                            10362 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2672,7 +2672,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bridgecrewio/checkov</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.</div>
@@ -2725,7 +2725,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gruntwork-io/terratest</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.</div>
@@ -2778,7 +2778,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>infracost/infracost</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!</div>
@@ -2831,7 +2831,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>metadevpro/terraform-azurerm-sqlserver-seed</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terraform module for creating an Azure SQL Server Database and initialize it with a SQL script.</div>
@@ -2884,7 +2884,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shuaibiyy/awesome-terraform</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Curated list of resources on HashiCorp's Terraform</div>
@@ -2931,7 +2931,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/awesome-terraform</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An authoritative list of awesome Azure Terraform tools and samples with help from community experiments and contributions.</div>
@@ -2984,7 +2984,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arcruz0/inexact</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An RStudio addin to supervise fuzzy joins</div>
@@ -3384,7 +3384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GeeLaw/PowerShellThingies</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My PowerShell thingies.</div>
@@ -3431,7 +3431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iricigor/CredentialsManager</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3479,7 +3479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/PSCredentialTools</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PSCredential Tools provides varions methods for securly storing and retrieving credentials used in PowerShell scripts</div>
@@ -3532,7 +3532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>graememeyer/PS.CredentialManager</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a fork of Theo Hardendood's bitbucket.org/metisit/credentialmanager</div>
@@ -3579,7 +3579,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pspete/CredentialRetriever</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Retrieve Credentials from CyberArk Central Credential Provider Web Service, or Local Credential Provider using CLIPasswordSDK</div>
@@ -3632,7 +3632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guitarrapc/WinCredManager</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell Credential Store wrapper to use Windows Credential Manager</div>
@@ -4205,7 +4205,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jun 2022, 12:07:07 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 1 Jun 2022, 14:07:07 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
