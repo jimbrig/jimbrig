@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Monday, June 6th 2022, 2:05:56</b>
+  <b>Monday, June 6th 2022, 4:06:21</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -106,23 +106,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Monday, June 6th 2022, 2:05:56</b>
+  <b>Monday, June 6th 2022, 4:06:21</b>
 </p>
 
-* ⬆️ Pushed 1 commit to jimbrig/buildtools
-* ⬆️ Pushed 10 commits to jimbrig/buildtools
-* 🎉 Merged PR #6 in jimbrig/buildtools
-* ⬆️ Pushed 3 commits to jimbrig/buildtools
-* 💪 Opened PR #6 in jimbrig/buildtools
+* 🎉 Merged PR #14 in jimbrig/vue-example
+* ⬆️ Pushed 2 commits to jimbrig/vue-example
+* ⬆️ Pushed 2 commits to jimbrig/angular-example
+* 🎉 Merged PR #15 in jimbrig/angular-example
+* ⬆️ Pushed 2 commits to jimbrig/angular-example
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  25,156 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 1 tasks this week           
-✅  Completed 8,216 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
