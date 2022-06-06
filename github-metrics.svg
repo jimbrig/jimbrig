@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            10492 Commits
+                            10363 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -639,37 +639,37 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 12.280598859362204%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 12.274338929052814%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">R</span>
-                                <div class="bar" style="width: 1.649736907920224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.6488959686312952%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 1.186498693121356%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.185893885553241%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.790659127799491%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.7902560960666585%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.2087082742826879%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.20860188702364907%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">BASIC</span>
-                                <div class="bar" style="width: 0.09132948543798824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.09128293101335622%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PowerShell</span>
-                                <div class="bar" style="width: 0.025107762319721852%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.02509496385246906%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2692,7 +2692,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xorrior/RandomPS-Scripts</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell Scripts focused on Post-Exploitation Capabilities</div>
@@ -2745,7 +2745,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RamblingCookieMonster/PSDeploy</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple PowerShell based deployments</div>
@@ -2798,7 +2798,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikemaccana/how-to-install-a-linux-development-environment-on-windows</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">How to install a Linux development environment on Windows using Ubuntu and WSL2</div>
@@ -2839,7 +2839,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JonnyBanana/Huge-Collection-of-CheatSheet</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2894,7 +2894,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dataplat/dbachecks</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✔ SQL Server Environmental Validation</div>
@@ -2947,7 +2947,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marcosValle/awesome-windows-red-team</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams</div>
@@ -2994,7 +2994,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lazywinadmin/LazyWinAdmin_GUI</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell Script that generates a GUI/WinForms loaded with tons of functions</div>
@@ -3047,7 +3047,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PowerShell/GraphicalTools</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs</div>
@@ -3100,7 +3100,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ironmansoftware/powershell-universal</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell Universal is the ultimate platform for building web-based IT tools.</div>
@@ -3153,7 +3153,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/PowerShellForGitHub</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Microsoft PowerShell wrapper for GitHub API</div>
@@ -3206,7 +3206,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Badgerati/Pode</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pode is a Cross-Platform PowerShell web framework for creating REST APIs, Web Sites, and TCP/SMTP servers</div>
@@ -3259,7 +3259,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EvotecIT/PSWriteHTML</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.</div>
@@ -3312,7 +3312,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sk3pp3r/cheat-sheet-pdf</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📜 A Cheat-Sheet Collection from the WWW</div>
@@ -3359,7 +3359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikeslattery/tunic</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Install Linux from a running Windows system, without need for a live USB.</div>
@@ -3412,7 +3412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RamblingCookieMonster/PowerShell</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Various PowerShell functions and scripts</div>
@@ -3465,7 +3465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FuzzySecurity/PowerShell-Suite</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My musings with PowerShell</div>
@@ -3518,7 +3518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PSAppDeployToolkit/PSAppDeployToolkit</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Project Homepage &amp; Forums</div>
@@ -3571,7 +3571,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vexx32/PSKoans</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.</div>
@@ -3624,7 +3624,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>p3nt4/PowerShdll</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run PowerShell with rundll32. Bypass software restrictions.</div>
@@ -3677,7 +3677,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ktaranov/github-stump</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Useful stump for new GitHub repository. Just copy or download and start your new repo.</div>
@@ -4223,7 +4223,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2022, 22:43:08 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 6 Jun 2022, 00:13:56 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
