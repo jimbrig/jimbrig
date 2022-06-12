@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, June 12th 2022, 2:48:52</b>
+  <b>Sunday, June 12th 2022, 4:09:47</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -106,7 +106,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, June 12th 2022, 2:48:52</b>
+  <b>Sunday, June 12th 2022, 4:09:47</b>
 </p>
 
 * 🍴 Forked jimbrig/PSGalleryReport from jdhitsolutions/PSGalleryReport
@@ -118,11 +118,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  25,347 Karma Points           
-🌸  Completed 8 tasks today           
-🗓  Completed 30 tasks this week           
-✅  Completed 8,245 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
