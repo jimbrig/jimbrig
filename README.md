@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Monday, June 13th 2022, 8:06:25</b>
+  <b>Monday, June 13th 2022, 10:06:03</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -106,23 +106,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Monday, June 13th 2022, 8:06:25</b>
+  <b>Monday, June 13th 2022, 10:06:03</b>
 </p>
 
-* ⬆️ Pushed 1 commit to jimbrig/PSEdgeTools
-* ⬆️ Pushed 1 commit to jimbrig/PSEdgeTools
-* ⬆️ Pushed 1 commit to jimbrig/PSEdgeTools
+* ⬆️ Pushed 4 commits to jimbrig/PowerShell-Profiles-Work
+* ⬆️ Pushed 0 commit to jimbrig/PowerShell-Profiles-Work
+* ⬆️ Pushed 2 commits to jimbrig/PowerShell-Profiles-Work
 * ⬆️ Pushed 1 commit to jimbrig/PSEdgeTools
 * ⬆️ Pushed 1 commit to jimbrig/PSEdgeTools
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  25,365 Karma Points           
-🌸  Completed 7 tasks today           
-🗓  Completed 7 tasks this week           
-✅  Completed 8,252 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
