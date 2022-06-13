@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4320" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4286" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            10523 Commits
+                            10528 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    25.6m added, 3.95m removed
+                                    22.3m added, 3.95m removed
                                 </div>
                             </section>
                             <section>
@@ -340,14 +340,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.88296392578974" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="446.88296392578974" y="0" width="6.285350366811169" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="453.16831429260094" y="0" width="2.835544273030378" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="456.00385856563133" y="0" width="1.7715273041723076" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="457.77538586980364" y="0" width="0.6024481481898226" height="8" fill="#867db1"/>
-                    <rect mask="url(#languages-bar)" x="458.37783401799345" y="0" width="0.5905853232289254" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="458.9684193412224" y="0" width="0.5470769007142606" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="459.51549624193666" y="0" width="0.48450375806337465" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.87506442137453" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="446.87506442137453" y="0" width="6.293370634235427" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="453.16843505560996" y="0" width="2.835494149404479" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="456.00392920501446" y="0" width="1.771495989065466" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="457.77542519407996" y="0" width="0.6024374987755671" height="8" fill="#867db1"/>
+                    <rect mask="url(#languages-bar)" x="458.3778626928555" y="0" width="0.5905748835126127" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="458.9684375763681" y="0" width="0.5470672300918795" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="459.51550480646" y="0" width="0.48449519354003184" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -456,7 +456,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 109 commits)</small>
+                    <small class="h-details">(computed from last 112 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -542,8 +542,8 @@
                             13
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 6px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             14
                         </div>
                         <div class="entry">
@@ -603,8 +603,8 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">17</span>
-                                <div class="bar" style="height: 26.5625px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">20</span>
+                                <div class="bar" style="height: 31.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -2687,7 +2687,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MarkMindCkm/obsidian-markmind</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A mind map, outline and pdf annotate tool for obsidian,It support mobile and desktop</div>
@@ -2728,7 +2728,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jimbrig/PSEdgeTools</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell Edge Keywords Backup and Restore</div>
@@ -2775,7 +2775,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RamblingCookieMonster/PSSQLite</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell module to query SQLite databases</div>
@@ -2828,7 +2828,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cheems/Mega-to-Google-Drive</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a Google Colab notebook that helps you to transfer files from Mega to Google Drive</div>
@@ -2875,7 +2875,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>faisalsayed10/firefiles</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open‑source alternative to Dropbox. ⚡️</div>
@@ -2928,7 +2928,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ElonH/RcloneNg</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An angular web application for rclone</div>
@@ -2981,7 +2981,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>viciousviper/DokanCloudFS</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A virtual filesystem for various publicly accessible Cloud storage services on the Microsoft Windows platform.</div>
@@ -3034,7 +3034,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>okhosting/awesome-storage</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.</div>
@@ -3049,7 +3049,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        279
+                                        280
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3699,6 +3699,62 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">jimbrig/PowerShell-Profiles-Work</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ce86e11</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main' into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f28f214</div>
+                                        <div class="message">Merge branch 'develop' into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79ce071</div>
+                                        <div class="message">feat: add custom install script for OfficeRibbonXEditor</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db543c2</div>
+                                        <div class="message">feat: add custom function Set-FolderIcon.ps1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">jimbrig/PowerShell-Profiles-Work</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#79ce071</div>
+                                        <div class="message">feat: add custom install script for OfficeRibbonXEditor</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db543c2</div>
+                                        <div class="message">feat: add custom function Set-FolderIcon.ps1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">jimbrig/diagrams</span>
                                     </div>
@@ -3834,74 +3890,6 @@
                                     <div class="commit">
                                         <div class="sha">#44f497e</div>
                                         <div class="message">doc: update changelog</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">jimbrig/PSEdgeTools</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e190162</div>
-                                        <div class="message">feat: add initial export for EdgeKeywords.sql</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32f0667</div>
-                                        <div class="message">doc: add temp dir's README</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d938fa</div>
-                                        <div class="message">feat: add both import and export ps1 scripts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2bec1cd</div>
-                                        <div class="message">feat: add batch export script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d2c519</div>
-                                        <div class="message">feat: add sql scripts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf4dc56</div>
-                                        <div class="message">config: setup git config files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7d05ac</div>
-                                        <div class="message">config: setup GitVersion config</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d1e2f9</div>
-                                        <div class="message">config: setup and configure git-cliff and CHANGELOG</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94246be</div>
-                                        <div class="message">doc: add README</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">jimbrig/PSEdgeTools</span>
                                     </div>
                                 </div>
                             </section>
@@ -4238,7 +4226,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.13655030800821 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.34873374401094 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4269,7 +4257,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2022, 14:06:57 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 13 Jun 2022, 16:06:58 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
