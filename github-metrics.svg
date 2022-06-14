@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 169 users
+                            Followed by 170 users
                         </div>
                     </section>
                     <section>
@@ -639,22 +639,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">PowerShell</span>
-                                <div class="bar" style="width: 14.78362724269131%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 14.78310975642593%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">18%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">R</span>
-                                <div class="bar" style="width: 5.619579237047389%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.61938252922835%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.5816254816586021%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5816051224332635%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Batchfile</span>
-                                <div class="bar" style="width: 0.1251571869791288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.1251528059754541%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2682,7 +2682,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>plaintextaccounting/plaintextaccounting</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.</div>
@@ -2735,7 +2735,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>range-of-motion/budget</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Get a grip on your finances.</div>
@@ -2788,7 +2788,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MarkMindCkm/obsidian-markmind</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A mind map, outline and pdf annotate tool for obsidian,It support mobile and desktop</div>
@@ -3235,7 +3235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ralish/dotfiles</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A dotfiles collection with a SysAdmin &amp; DevOps focus</div>
@@ -3288,7 +3288,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ajoberstar/PSGitDotfiles</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell module for managing dotfiles with Git</div>
@@ -3341,7 +3341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EdFabre/ManagePSProject</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project contains my ManagePSProject module which is used to maintain a powershell project during it's lifecycle.</div>
@@ -3388,7 +3388,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Satak/terraform-setup-powershell</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terraform setup module for Powershell</div>
@@ -3441,7 +3441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PowerShell/Crescendo</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a module for wrapping native applications in a PowerShell function and module</div>
@@ -4288,7 +4288,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2022, 20:28:27 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 13 Jun 2022, 22:50:25 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
