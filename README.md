@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, June 23rd 2022, 6:06:49</b>
+  <b>Thursday, June 23rd 2022, 8:06:20</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -106,7 +106,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, June 23rd 2022, 6:06:49</b>
+  <b>Thursday, June 23rd 2022, 8:06:20</b>
 </p>
 
 * ⬆️ Pushed 4 commits to jimbrig/PowerShell-Profiles-Work
@@ -118,11 +118,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  25,500 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 8 tasks this week           
-✅  Completed 8,295 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
