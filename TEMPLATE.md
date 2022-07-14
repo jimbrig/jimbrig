@@ -62,7 +62,12 @@ Successful history of identifying patterns, making interpretations, and producin
   </a>
   <br><p align="center"><em>Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone)</em></p>
 </p>
+
 <br>
+
+<h3 align="center">📊 Contribution Graph</h3>
+
+ [![Jimmy's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jimbrig&theme=xcode)](https://github.com/jimbrig)
 
 <h2 align="center">🏁 Projects</h2>
 <p align="center"><em>Note these are outdated and will be updated in due time.</em></p>
