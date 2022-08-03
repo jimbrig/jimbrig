@@ -639,27 +639,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 18.065122145957876%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 18.164081737288424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">23%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">R</span>
-                                <div class="bar" style="width: 11.854833839898554%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 11.493412309166098%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PowerShell</span>
-                                <div class="bar" style="width: 2.6118636903443972%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.6261713136928173%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 1.019839911971713%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.0254265302129784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Starlark</span>
-                                <div class="bar" style="width: 0.5426621847386325%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5310630030155635%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -2692,7 +2692,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mogulargmbh/m-formatter</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2740,7 +2740,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>data-steve/valiData</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">validates data imports in analysis pipeline</div>
@@ -2787,7 +2787,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coolbutuseless/anotherworld</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AnotherWorld ported to R</div>
@@ -2840,7 +2840,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>teeotsa/powershell-modules</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell modules i've made.</div>
@@ -2887,7 +2887,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>teeotsa/batch</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Some batch scripts?</div>
@@ -4254,7 +4254,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Aug 2022, 22:53:59 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 00:31:37 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
