@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, August 4th 2022, 2:17:53</b>
+  <b>Thursday, August 4th 2022, 4:06:16</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -111,7 +111,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, August 4th 2022, 2:17:53</b>
+  <b>Thursday, August 4th 2022, 4:06:16</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/firefox-config
@@ -123,11 +123,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  25,872 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 16 tasks this week           
-✅  Completed 8,418 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
