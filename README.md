@@ -43,7 +43,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, August 6th 2022, 12:06:58</b>
+  <b>Saturday, August 6th 2022, 2:05:46</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -111,7 +111,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, August 6th 2022, 12:06:58</b>
+  <b>Saturday, August 6th 2022, 2:05:46</b>
 </p>
 
 * 🍴 Forked jimbrig/install-powerlevel10k from DevInsideYou/install-powerlevel10k
@@ -123,11 +123,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  25,932 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 29 tasks this week           
-✅  Completed 8,431 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
