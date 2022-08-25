@@ -645,27 +645,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 24.711553213428147%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 24.5838435682011%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">31%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 8.433656703903639%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">R</span>
-                                <div class="bar" style="width: 0.2391919422571242%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
+                                <div class="bar" style="width: 8.390071450628787%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Starlark</span>
-                                <div class="bar" style="width: 0.08819846080841452%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.4974923065455591%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">R</span>
+                                <div class="bar" style="width: 0.23795579502578684%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PowerShell</span>
-                                <div class="bar" style="width: 0.046239969744217325%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.0460010009477058%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2703,7 +2703,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sancarn/stdVBA-Inspiration</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sample VB6 and VBA code used for inspiration of syntax/algorithms for usage in the stdVBA library</div>
@@ -2750,7 +2750,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>VBA-tools/VBA-Web</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VBA-Web: Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web</div>
@@ -2803,7 +2803,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mha105/VBA-to-JavaScript-Translator</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VBA to JavaScript Translator</div>
@@ -2850,7 +2850,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cunnane/xloil</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">xlOil provides framework for interacting with Excel in different programming languages (python &amp; C++ currently)</div>
@@ -2903,7 +2903,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>karawoo/dockerdemo</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2992,7 +2992,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Arp-G/csv2sql</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A blazing fast fully-automated CSV to database importer</div>
@@ -3045,7 +3045,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deevus/CsvToSql</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3099,7 +3099,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jdost/configs</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">General collection of dotfiles and other system configuration stuff</div>
@@ -3146,7 +3146,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tlowerison/credential-1password</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">1Password credential helper for git + docker 🏄</div>
@@ -4257,7 +4257,7 @@ CHANGELOG.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2022, 16:07:12 (timezone America/New_York) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 25 Aug 2022, 18:06:49 (timezone America/New_York) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
