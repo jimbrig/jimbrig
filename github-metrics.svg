@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4261" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4576" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            12424 Commits
+                            12434 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 11832 repositories
+                            Starred 11833 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    6.06 GB used
+                                    6.04 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    19.2m added, 1.49m removed
+                                    14.7m added, 1.54m removed
                                 </div>
                             </section>
                             <section>
@@ -204,7 +204,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    166 Stargazers
+                                    167 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -462,12 +462,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 107 commits)</small>
+                    <small class="h-details">(computed from last 114 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 52.5 characters per line of code written</li>
+                        <li>Has approximately 43.3 characters per line of code written</li>
                         <li>Mostly pushes code around 19:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -578,13 +578,13 @@
                             19
                         </div>
                         <div class="entry">
-                            <span class="value">31</span>
-                            <div class="bar" style="height: 43.05555555555556px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">33</span>
+                            <div class="bar" style="height: 45.83333333333333px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">7</span>
-                            <div class="bar" style="height: 9.722222222222223px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">12</span>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             21
                         </div>
                         <div class="entry">
@@ -634,8 +634,8 @@
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">8</span>
-                                <div class="bar" style="height: 8px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15</span>
+                                <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -692,7 +692,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~31.50
+                            Average per day at ~31.53
                         </div>
                     </section>
                 </div>
@@ -2667,10 +2667,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.255434782608696 0,2.255434782608696 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.255434782608696 1.7,3.255434782608696 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.282608695652174)">
+                            <g transform="translate(-10.2, 11.13586956521739)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.717391304347826 0,1.7173913043478262 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7173913043478262 1.7,2.717391304347826 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8641304347826084 0,1.8641304347826086 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8641304347826086 1.7,2.8641304347826084 z"/>
                             </g>
                         </g>
                     </g>
@@ -2692,8 +2692,55 @@
                                         <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                     </svg>
                                     <div class="name">
+                                        <span>jimbrig/Obsidian-REST-API</span>
+                                        <span>starred 2 hours ago</span>
+                                    </div>
+                                </div>
+                                <div class="field description">Local REST API for Obsidian to interface with a local Obsidian Vault.</div>
+                                <div class="field infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
+                                        </svg>
+                                        MIT
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        </svg>
+                                        1
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        </svg>
+                                        0
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        </svg>
+                                        0
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        </svg>
+                                        0
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width largeable-width-half">
+                            <section class="repository">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="name">
                                         <span>mmiranda/markdown-index</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate a global index for multiple markdown files recursively</div>
@@ -2746,7 +2793,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>markallisongit/mssql-docker-demo</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2800,7 +2847,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TomerAdmon/Power-DB</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">manage MSSQL using powershell</div>
@@ -2847,7 +2894,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>werenskjold/mssqldump</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powershell utility to create dbdump for MS SQL similar to mysqldump and pg_dump</div>
@@ -2900,7 +2947,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>johnbowker/choco-mssql-deployment</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Choco packages for MS SQL deployments using DacFX</div>
@@ -2953,7 +3000,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EzriCloud/azuresql-saveas</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Creates Copies of An Azure SQL database, and saves as bacpac files for easy restore</div>
@@ -3000,7 +3047,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Wingloader/Auto-Azure-BACPAC-Download</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically extract Azure DB and restore it to a local SQL server with one step</div>
@@ -3047,7 +3094,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grrlgeek/bak-to-bacpac</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project will ingest a SQL Server .bak file into Azure File Share, create an Azure Container Instance running SQL Server, restore the database, and create a bacpac for import into Azure SQL Database.</div>
@@ -3100,7 +3147,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>borispinsky/Clone-database-with-schema-only-</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Clone database with schema only using SqlPackage.exe utility</div>
@@ -3147,7 +3194,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ltaylor-zline/mssql-import-export-scripts</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scripts for importing or exporting MSSQL DB Backups using sqlpackage</div>
@@ -3200,7 +3247,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GuiOttoni/POCDatabase</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">POC for database CI/CD with CLI (msbuild &amp; sqlpackage)</div>
@@ -3247,7 +3294,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dany1468/mssql-cli-tools</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">mssql-tools and mssql-cli and sqlpackage</div>
@@ -3294,7 +3341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mniak/SqlPackageUtils</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3348,7 +3395,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DrJohnT/PublishDacPac</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell to publish (deploy) SQL Database using a DACPAC and DAC Publish Profile</div>
@@ -3395,7 +3442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DrJohnT/AzureDevOpsExtensionsForSqlServer</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Microsoft SQL Server deployment extensions for Azure DevOps Pipelines</div>
@@ -3448,7 +3495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>markhobson/docker-sqlpackage</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker image for sqlpackage</div>
@@ -3495,7 +3542,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/sql-action</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Deploy changes to your SQL database easily with SQL projects or SQL scripts and sql-action for GitHub workflows</div>
@@ -3548,7 +3595,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dataplat/dbatools-templates</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Templates for dbatools commands</div>
@@ -3595,7 +3642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dataplat/AzureDataPipelineTools</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of Azure Function to make building Azure Data Factory pipeline simpler and easier.</div>
@@ -3640,59 +3687,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width largeable-width-half">
-                            <section class="repository">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="name">
-                                        <span>dataplat/dbops</span>
-                                        <span>starred 4 hours ago</span>
-                                    </div>
-                                </div>
-                                <div class="field description">⚙ dbops - Powershell module that provides continuous database deployments on any scale</div>
-                                <div class="field infos">
-                                    <div class="language">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                        </svg>
-                                        PowerShell
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
-                                        </svg>
-                                        MIT
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                        </svg>
-                                        117
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                        </svg>
-                                        21
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                        </svg>
-                                        73
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                        </svg>
-                                        76
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3705,6 +3699,688 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 17 commits in
+                                        <span class="repo">jimbrig/linode-docs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d365e41</div>
+                                        <div class="message">[updated] How to Understand and Use IP Addresses (#5718)
+
+* updated finding ip address section to fix formatting
+
+* Clarified that the Cloud Manager can be used to find IP addresses for Compute Instances
+
+Co-authored-by: Matt Wildman &lt;matt@wildman.online&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c46f973</div>
+                                        <div class="message">[UPDATE]-5726-5727-5734-5741 (#5751)
+
+* update-5726-5727-5734-5741
+
+* Copy edit
+
+Co-authored-by: Matt Wildman &lt;matt@wildman.online&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#040754a</div>
+                                        <div class="message">Theme updates (#5752)
+
+* Theme updates
+
+- Update header/footer with new mobile dropdown nav
+- Fix jump-to-position for table of contents/anchor link clicks
+
+* Temporarily disable mobile nav search field
+
+Co-authored-by: Jason Tremblay &lt;4190+alertmybanjos@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fc179b</div>
+                                        <div class="message">Register Name Servers and Mail-in-a-Box guides (#5744)
+
+* Added a new guide for registering custom name servers
+
+* Updated DNS instructions within Mail-in-a-Box guide
+
+* Added required front matter
+
+* Clarified expectations for delays/propagation
+
+* Updated DNS verification instructions
+
+* Additional copy changes
+
+* Typoe fixes
+
+Co-authored-by: Nathan Melehan &lt;nmelehan@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8be8de</div>
+                                        <div class="message">[Update] Deploying the UniFi Network Application through the Linode Marketplace (#5747)
+
+* Updated the URL used for accessing the unifi application
+
+* Added instructions for viewing URL within Lish/SSH</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38fd7f7</div>
+                                        <div class="message">[Update] Block Storage &gt; Overview (#5738)
+
+Updated language around 3x resiliency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f53599</div>
+                                        <div class="message">[update] shortened the title to 65 characters (#5695)
+
+* reduced the length of the title part1
+
+* Modifications to title changes
+
+Co-authored-by: Matt Wildman &lt;matt@wildman.online&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58a9bf1</div>
+                                        <div class="message">[NEW] Advanced Troubleshooting DNS Problems (#5749)
+
+* Advanced Troubleshooting DNS Problems
+
+* Advanced Troubleshooting DNS Problems
+
+* blueberry fix
+
+* layout fixes
+
+* Small copy tweaks
+
+Co-authored-by: Andy Stevens &lt;taylorstevens@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cb5f99</div>
+                                        <div class="message">[NEW] How to Install SELinux on Ubuntu 22.04 (#5741)
+
+* How to Install SELinux on Ubuntu 22.04
+
+* docs404 fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#faba21c</div>
+                                        <div class="message">Mounting a File System on Linux (#5734)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c84bb4</div>
+                                        <div class="message">Merge pull request #5733 from linode/main
+
+v1.182.0, v1.183.0 merge main into develop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d63dab</div>
+                                        <div class="message">updated the command as a work around for the error (#5735)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d53ab8</div>
+                                        <div class="message">[Reference Architecture] Add icons to new reference architectures (#5740)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#298be2e</div>
+                                        <div class="message">Merge pull request #5737 from bbiggerr/rc-v1.183.0
+
+[Release Candidate] v1.183.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b488323</div>
+                                        <div class="message">Update API reference to API spec v4.136.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49a4b3d</div>
+                                        <div class="message">Make changes (#5736)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c39714d</div>
+                                        <div class="message">Merge pull request #5732 from nmelehan/rc-v1.182.0
+
+[Release] v1.182.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/Obsidian-REST-API</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#35a7afc</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">jimbrig/Obsidian-REST-API</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/KaaS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1972f86</div>
+                                        <div class="message">vault backup:  - Changed 94 (2022-09-24 21:10)
+
+Affected files:
+.obsidian/app.json
+2-Areas/2-Areas.md
+2-Areas/Code/CMD/CMD - Restart Explorer and Start Menu.md
+2-Areas/Code/Code.md
+2-Areas/Code/Excel/Excel.md
+2-Areas/Code/Excel/_assets/Pasted image 20220903223534.png
+2-Areas/Code/Registry/RegEdit - Restart Explorer and StartMenu Context Bar.md
+2-Areas/Code/Registry/RegEdit - Take Ownership Context Menu.md
+2-Areas/Code/Registry/Registry.md
+2-Areas/Code/Registry/_assets/Pasted image 20220909182538.png
+2-Areas/Code/Windows Misc/Windows Misc.md
+2-Areas/Code/Windows Registry/Regedit - Enable Long Path Support on Windows.md
+2-Areas/Code/Windows Registry/Regedit - Export Saved Registry Favorites.md
+2-Areas/Code/Windows Registry/_README.md
+2-Areas/Code/Windows Run/Windows Run.md
+2-Areas/Code/_README.md
+2-Areas/Meta/Unresolved-Links.md
+3-Resources/3-Resources.md
+3-Resources/Citations/Citations.md
+3-Resources/Clippings/Clippings.md
+3-Resources/Clippings/MarkDownloads/MarkDownloads.md
+3-Resources/Clippings/Obsidian-Bookmarks/Obsidian-Bookmarks.md
+3-Resources/Clippings/Obsidian-Clipper/Obsidian-Clipper.md
+3-Resources/Dictionary/Dictionary.md
+3-Resources/Embeds/Embeds.md
+3-Resources/Highlights/Highlights.md
+3-Resources/Kanbans/Kanbans.md
+3-Resources/Literature-Notes/Literature-Notes.md
+3-Resources/PDFs/PDFs.md
+3-Resources/Podcasts/Podcasts.md
+3-Resources/Templates/Templates.md
+3-Resources/Tools/Developer Tools/APIs/APIs.md
+3-Resources/Tools/Developer Tools/Cloud Services/AWS/AWS.md
+3-Resources/Tools/Developer Tools/Cloud Services/Azure/Azure.md
+3-Resources/Tools/Developer Tools/Cloud Services/Cloud Services.md
+3-Resources/Tools/Developer Tools/Cloud Services/GCP/GCP.md
+3-Resources/Tools/Developer Tools/Cloud Services/MultiCloud/MultiCloud.md
+3-Resources/Tools/Developer Tools/Command Line Utilities/Command Line Utilities.md
+3-Resources/Tools/Developer Tools/Data Stack/Business Intelligence/Business Intelligence.md
+3-Resources/Tools/Developer Tools/Data Stack/Data Stack.md
+3-Resources/Tools/Developer Tools/Data Stack/Database GUI/Database GUI.md
+3-Resources/Tools/Developer Tools/Data Stack/Databases/Databases.md
+3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/Miscellaneous.md
+3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/Procedural Languages.md
+3-Resources/Tools/Developer Tools/Developer Tools.md
+3-Resources/Tools/Developer Tools/Documentation/Documentation.md
+3-Resources/Tools/Developer Tools/Documentation/Help Docs/Help Docs.md
+3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/Static Site Generators.md
+3-Resources/Tools/Developer Tools/Documentation/Text Editors/Text Editors.md
+3-Resources/Tools/Developer Tools/Documentation/Utility/Quarto.md
+3-Resources/Tools/Developer Tools/Documentation/Utility/Utility.md
+3-Resources/Tools/Developer Tools/Documentation/markdown-notes-tree.md
+3-Resources/Tools/Developer Tools/IDE/IDE.md
+3-Resources/Tools/Developer Tools/Infrastructure/Infrastructure.md
+3-Resources/Tools/Developer Tools/Languages/CSS/CSS.md
+3-Resources/Tools/Developer Tools/Languages/HTML/HTML.md
+3-Resources/Tools/Developer Tools/Languages/JavaScript/JavaScript.md
+3-Resources/Tools/Developer Tools/Languages/Languages.md
+3-Resources/Tools/Developer Tools/Languages/PowerShell/PowerShell.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Packages.md
+3-Resources/Tools/Developer Tools/Languages/Python/Python.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/API R Packages/API R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/Actuarial R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Data Manipulation Packages/Data Manipulation Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/Database R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/General R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/R Package Tools.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/Shiny R Packages/Shiny R Packages.md
+3-Resources/Tools/Developer Tools/Languages/R/R.md
+3-Resources/Tools/Developer Tools/Linux/Linux.md
+3-Resources/Tools/Developer Tools/Package Managers/Package Managers.md
+3-Resources/Tools/Developer Tools/Shell/Shell.md
+3-Resources/Tools/Developer Tools/Terminal/Terminal.md
+3-Resources/Tools/Developer Tools/Version Control/Version Control.md
+3-Resources/Tools/Developer Tools/Websites and Online Tools/Websites and Online Tools.md
+3-Resources/Tools/Linux/Linux.md
+3-Resources/Tools/Modeling/Modeling.md
+3-Resources/Tools/Online Tools/Online Tools.md
+3-Resources/Tools/PKM Tools/Obsidian/Obsidian.md
+3-Resources/Tools/PKM Tools/Obsidian/Plugins/Plugins.md
+3-Resources/Tools/PKM Tools/Obsidian/Themes/Themes.md
+3-Resources/Tools/PKM Tools/Obsidian/Utility/Utility.md
+3-Resources/Tools/PKM Tools/PKM Tools.md
+3-Resources/Tools/Physical Tools/Physical Tools.md
+3-Resources/Tools/Productivity Tools/Productivity Tools.md
+3-Resources/Tools/Utility/Utility.md
+3-Resources/Tools/Web Browsers/Browser Extensions/Browser Extensions.md
+3-Resources/Tools/Web Browsers/Chrome/Chrome.md
+3-Resources/Tools/Web Browsers/Edge/Edge.md
+3-Resources/Tools/Web Browsers/Firefox/Firefox.md
+3-Resources/Tools/Web Browsers/Web Browsers.md
+3-Resources/Tools/iOS Apps/iOS Apps.md
+Changelog.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/KaaS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#28bb74c</div>
+                                        <div class="message">vault backup:  - Changed 97 (2022-09-24 21:01)
+
+Affected files:
+.obsidian/appearance.json
+0-Slipbox/0-Slipbox.md
+0-Slipbox/Database GUIs.md.md
+0-Slipbox/Docker.md.md
+0-Slipbox/Firefox Developer Edition.md.md
+0-Slipbox/PostgreSQL Tools.md.md
+0-Slipbox/PostgreSQL.md.md
+0-Slipbox/Views vs. Materialized Views.md.md
+2-Areas/2-Areas.md
+2-Areas/Code/CMD/CMD - Create a Network Performance Windows Report 1.md
+2-Areas/Code/CMD/CMD - DISM Commands 1.md
+2-Areas/Code/CMD/CMD - Delete Network Data 1.md
+2-Areas/Code/CMD/CMD - Delete Windows Update Leftover Files 1.md
+2-Areas/Code/CMD/CMD - Extended Disk Cleanup 1.md
+2-Areas/Code/CMD/CMD - Retrieve Stored Wi-Fi Passwords 1.md
+2-Areas/Code/CMD/CMD - Retrieve Windows Credential Manager Saved Secrets 1.md
+2-Areas/Code/CMD/CMD - Run the Hardware Diagnostic Troubleshooter 1.md
+2-Areas/Code/CMD/CMD - Run the WinSAT Diagnostics Score 1.md
+2-Areas/Code/CMD/CMD - Start a Windows Defender Virus Scan - Full.md
+2-Areas/Code/CMD/CMD.md
+2-Areas/Code/Registry/Regedit - Add Open in VSCode Insiders to Explorer Context Menu.md
+2-Areas/Code/SQL/SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Audit Trigger.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Basic Instance Information.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Calculating the Median.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Clone Schema.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Count NULLs.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Create modified_at columns and triggers.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Cumulative Distribution.md
+2-Areas/Code/SQL/SQL - PostgreSQL - DataDictionary.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Date Dimension Table.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Dump Entire Database to CSV.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Dynamic Trigger.md
+2-Areas/Code/SQL/SQL - PostgreSQL - ETL Function Template.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Extensions.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Extracting Values from JSON Strings.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Filter for the Last x Days.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Find Recent Activity.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Formatting Dates and Timestamps.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Generate Password.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Generate Timeseries of Dates and Times.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Get Current DB Sessions.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Get Last Day of Month.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Get all Primary Keys and Columns.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Get the Last Element of an Array.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Histogram Bins.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Human-Readable Timestamps.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Information Schema Queries.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Kill Running or Idle Connections.md
+2-Areas/Code/SQL/SQL - PostgreSQL - MONTH() Equivalent.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Moving Average.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Multi-Replace (plpgsql).md
+2-Areas/Code/SQL/SQL - PostgreSQL - Normalize Whitespace.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Pivot Query.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Ranking Data.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Refresh All Materialize Views.md
+2-Areas/Code/SQL/SQL - PostgreSQL - RegEx to Parse URL String.md
+2-Areas/Code/SQL/SQL - PostgreSQL - RegEx to Validate an Email Address.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Replace Empty Strings with NULLs.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Replace NULLs.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Reverse an Array.md
+2-Areas/Code/SQL/SQL - PostgreSQL - SERIAL Example.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Set Default UTF8 Encoding.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Simulate IIF From SQL Server.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Split a Single Column into Separate Rows.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Stored Procedure - Merge Tables.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Strip Accents from Strings.md
+2-Areas/Code/SQL/SQL - PostgreSQL - UPSERT.md
+2-Areas/Code/SQL/SQL - PostgreSQL - Using Tables as Templates.md
+2-Areas/Code/SQL/SQL - PostgreSQL String Manipulation.md
+2-Areas/Code/SQL/SQL - SQL Server - Check Size of DB Objects.md
+2-Areas/Code/SQL/SQL - SQL Server - Check if a Column is Accessible.md
+2-Areas/Code/SQL/SQL - SQL Server - Concatenate Strings.md
+2-Areas/Code/SQL/SQL - SQL Server - Create Date Dimension with Fiscal Years.md
+2-Areas/Code/SQL/SQL - SQL Server - Cumulative Distribution Functions.md
+2-Areas/Code/SQL/SQL - SQL Server - Find Unused Indexes.md
+2-Areas/Code/SQL/SQL - SQL Server - Find the First Row of Each Group.md
+2-Areas/Code/SQL/SQL - SQL Server - Foreign Keys.md
+2-Areas/Code/SQL/SQL - SQL Server - Get Number of Open Connections.md
+2-Areas/Code/SQL/SQL - SQL Server - Installation Script for DBA MultiTool.md
+2-Areas/Code/SQL/SQL - SQL Server - Installation for DBA MultiTool.md
+2-Areas/Code/SQL/SQL - SQL Server - List Views with Definition and Comments.md
+2-Areas/Code/SQL/SQL - SQL Server - List of Tables with Number of Rows and Comments.md
+2-Areas/Code/SQL/SQL - SQL Server - Monitor Query Plans.md
+2-Areas/Code/SQL/SQL - SQL Server - POST HTTP API Request.md
+2-Areas/Code/SQL/SQL - SQL Server - Re-build all Indexes.md
+2-Areas/Code/SQL/SQL - SQL Server - Retrieve Stored Procedures and Functions Execution Times Counts and Averages.md
+2-Areas/Code/SQL/SQL - SQL Server - Retrieve Top Slow Requests.md
+2-Areas/Code/SQL/SQL - SQL Server - Retrieve Who is Doing What.md
+2-Areas/Code/SQL/SQL - SQL Server - Search for Text Within Stored Procedures.md
+2-Areas/Code/SQL/SQL - SQL Server - Table and Column Details.md
+2-Areas/Code/SQL/SQL - SQL Server - Useful Queries.md
+2-Areas/Code/SQL/SQL - SQL Server - Views Columns.md
+2-Areas/Code/SQL/SQL.md
+2-Areas/Code/Windows CMD/_README.md
+Changelog.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/KaaS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d9879d2</div>
+                                        <div class="message">vault backup:  - Changed 201 (2022-09-24 20:57)
+
+Affected files:
+.obsidian/appearance.json
+.obsidian/community-plugins.json
+0-Slipbox/0-Slipbox.md
+0-Slipbox/INBOX/Mindfulness.md
+0-Slipbox/SQL Server Useful Queries.md
+0-Slipbox/The Importance of Cleaning up Data and Structuring Models.md
+0-Slipbox/_README.md
+1-Projects/1-Projects.md
+2-Areas/2-Areas.md
+2-Areas/Code/Bash/Bash - GitHub Downloader.md
+2-Areas/Code/Bash/Bash - Install WSLU.md
+2-Areas/Code/Bash/Bash.md
+2-Areas/Code/CMD/CMD - Create a Network Performance Windows Report 1.md
+2-Areas/Code/CMD/CMD - Create a Network Performance Windows Report.md
+2-Areas/Code/CMD/CMD - DISM Commands 1.md
+2-Areas/Code/CMD/CMD - DISM Commands.md
+2-Areas/Code/CMD/CMD - Delete Network Data 1.md
+2-Areas/Code/CMD/CMD - Delete Network Data.md
+2-Areas/Code/CMD/CMD - Delete Windows Update Leftover Files 1.md
+2-Areas/Code/CMD/CMD - Delete Windows Update Leftover Files.md
+2-Areas/Code/CMD/CMD - Export Edge Custom Search Engines.md
+2-Areas/Code/CMD/CMD - Export and Import Edge Custom SearchEngines.md
+2-Areas/Code/CMD/CMD - Extended Disk Cleanup 1.md
+2-Areas/Code/CMD/CMD - Extended Disk Cleanup.md
+2-Areas/Code/CMD/CMD - FlushDNS.md
+2-Areas/Code/CMD/CMD - Memory Diagnostic.md
+2-Areas/Code/CMD/CMD - Restart Explorer and Start Menu.md
+2-Areas/Code/CMD/CMD - Retrieve Stored Wi-Fi Passwords 1.md
+2-Areas/Code/CMD/CMD - Retrieve Stored Wi-Fi Passwords.md
+2-Areas/Code/CMD/CMD - Retrieve Windows Credential Manager Saved Secrets 1.md
+2-Areas/Code/CMD/CMD - Retrieve Windows Credential Manager Saved Secrets.md
+2-Areas/Code/CMD/CMD - Run the Hardware Diagnostic Troubleshooter 1.md
+2-Areas/Code/CMD/CMD - Run the Hardware Diagnostic Troubleshooter.md
+2-Areas/Code/CMD/CMD - Run the WinSAT Diagnostics Score 1.md
+2-Areas/Code/CMD/CMD - Run the WinSAT Diagnostics Score.md
+2-Areas/Code/CMD/CMD - Start a Windows Defender Virus Scan - Full.md
+2-Areas/Code/CMD/CMD - Start a Windows Defender Virus Scan.md
+2-Areas/Code/CMD/CMD - Troubleshooter Commands.md
+2-Areas/Code/CMD/CMD - View Available Disks on Windows.md
+2-Areas/Code/CMD/CMD.md
+2-Areas/Code/CMD/Database GUIs.md.md
+2-Areas/Code/CMD/Docker.md.md
+2-Areas/Code/CMD/Firefox Developer Edition.md.md
+2-Areas/Code/CMD/PostgreSQL Tools.md.md
+2-Areas/Code/CMD/PostgreSQL.md.md
+2-Areas/Code/CMD/SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Audit Trigger.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Basic Instance Information.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Calculating the Median.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Clone Schema.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Count NULLs.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Create modified_at columns and triggers.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Cumulative Distribution.md
+2-Areas/Code/CMD/SQL - PostgreSQL - DataDictionary.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Date Dimension Table.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Dump Entire Database to CSV.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Dynamic Trigger.md
+2-Areas/Code/CMD/SQL - PostgreSQL - ETL Function Template.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Extensions.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Extracting Values from JSON Strings.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Filter for the Last x Days.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Find Recent Activity.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Formatting Dates and Timestamps.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Generate Password.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Generate Timeseries of Dates and Times.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Get Current DB Sessions.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Get Last Day of Month.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Get all Primary Keys and Columns.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Get the Last Element of an Array.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Histogram Bins.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Human-Readable Timestamps.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Information Schema Queries.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Kill Running or Idle Connections.md
+2-Areas/Code/CMD/SQL - PostgreSQL - MONTH() Equivalent.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Moving Average.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Multi-Replace (plpgsql).md
+2-Areas/Code/CMD/SQL - PostgreSQL - Normalize Whitespace.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Pivot Query.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Ranking Data.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Refresh All Materialize Views.md
+2-Areas/Code/CMD/SQL - PostgreSQL - RegEx to Parse URL String.md
+2-Areas/Code/CMD/SQL - PostgreSQL - RegEx to Validate an Email Address.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Replace Empty Strings with NULLs.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Replace NULLs.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Reverse an Array.md
+2-Areas/Code/CMD/SQL - PostgreSQL - SERIAL Example.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Set Default UTF8 Encoding.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Simulate IIF From SQL Server.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Split a Single Column into Separate Rows.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Stored Procedure - Merge Tables.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Strip Accents from Strings.md
+2-Areas/Code/CMD/SQL - PostgreSQL - UPSERT.md
+2-Areas/Code/CMD/SQL - PostgreSQL - Using Tables as Templates.md
+2-Areas/Code/CMD/SQL - PostgreSQL String Manipulation.md
+2-Areas/Code/CMD/SQL - SQL Server - Check Size of DB Objects.md
+2-Areas/Code/CMD/SQL - SQL Server - Check if a Column is Accessible.md
+2-Areas/Code/CMD/SQL - SQL Server - Concatenate Strings.md
+2-Areas/Code/CMD/SQL - SQL Server - Create Date Dimension with Fiscal Years.md
+2-Areas/Code/CMD/SQL - SQL Server - Cumulative Distribution Functions.md
+2-Areas/Code/CMD/SQL - SQL Server - Find Unused Indexes.md
+2-Areas/Code/CMD/SQL - SQL Server - Find the First Row of Each Group.md
+2-Areas/Code/CMD/SQL - SQL Server - Foreign Keys.md
+2-Areas/Code/CMD/SQL - SQL Server - Get Number of Open Connections.md
+2-Areas/Code/CMD/SQL - SQL Server - Installation Script for DBA MultiTool.md
+2-Areas/Code/CMD/SQL - SQL Server - List Views with Definition and Comments.md
+2-Areas/Code/CMD/SQL - SQL Server - List of Tables with Number of Rows and Comments.md
+2-Areas/Code/CMD/SQL - SQL Server - Monitor Query Plans.md
+2-Areas/Code/CMD/SQL - SQL Server - POST HTTP API Request.md
+2-Areas/Code/CMD/SQL - SQL Server - Re-build all Indexes.md
+2-Areas/Code/CMD/SQL - SQL Server - Retrieve Stored Procedures and Functions Execution Times Counts and Averages.md
+2-Areas/Code/CMD/SQL - SQL Server - Retrieve Top Slow Requests.md
+2-Areas/Code/CMD/SQL - SQL Server - Retrieve Who is Doing What.md
+2-Areas/Code/CMD/SQL - SQL Server - Search for Text Within Stored Procedures.md
+2-Areas/Code/CMD/SQL - SQL Server - Table and Column Details.md
+2-Areas/Code/CMD/SQL - SQL Server - Useful Queries.md
+2-Areas/Code/CMD/SQL - SQL Server - Views Columns.md
+2-Areas/Code/CMD/Views vs. Materialized Views.md.md
+2-Areas/Code/CSS/CSS.md
+2-Areas/Code/GitHub Actions/GHA - Build-Check-Install R Package.md
+2-Areas/Code/GitHub Actions/GHA - Code Coverage for R.md
+2-Areas/Code/GitHub Actions/GHA - GitHub Actions for R.md
+2-Areas/Code/GitHub Actions/GHA - R Spelling Checks.md
+2-Areas/Code/GitHub Actions/GitHub Action - R Package Validation.md
+2-Areas/Code/GitHub Actions/GitHub Action - R pkgcheck.md
+2-Areas/Code/GitHub Actions/GitHub Action - Release.md
+2-Areas/Code/GitHub Actions/GitHub Actions.md
+2-Areas/Code/GitHub Actions/_README.md
+2-Areas/Code/Javascript/JS - Obsidian Web Clipper Bookmarklet.md
+2-Areas/Code/Javascript/JS - Remove all YouTube Watch Later Videos.md
+2-Areas/Code/Javascript/Javascript.md
+2-Areas/Code/Linux/Bash/Bash - Git-Auto.md
+2-Areas/Code/Linux/Bash/Bash - Install NVM.md
+2-Areas/Code/Linux/Bash/Bash - Install oh-my-zsh.md
+2-Areas/Code/Linux/Bash/_README.md
+2-Areas/Code/Linux/WSL/_README.md
+2-Areas/Code/Linux/_README.md
+2-Areas/Code/Pandoc/Pandoc.md
+2-Areas/Code/PowerShell/PowerShell.md
+2-Areas/Code/PowerShell/_README.md
+2-Areas/Code/Python/Python.md
+2-Areas/Code/R/R - Docker with Shiny and SQL Server.md
+2-Areas/Code/R/R - SQL Server and RStudio.md
+2-Areas/Code/R/R - Simulate Actuarial Claims.md
+2-Areas/Code/R/R.md
+2-Areas/Code/Registry/RegEdit - Enable Long Path Support on Windows.md
+2-Areas/Code/Registry/RegEdit - Export Saved Registry Favorites.md
+2-Areas/Code/SQL/BigQuery/_README.md
+2-Areas/Code/SQL/General/_README.md
+2-Areas/Code/SQL/PostgreSQL/_README.md
+2-Areas/Code/SQL/SQL - Crosstab Query.md
+2-Areas/Code/SQL/SQL Server/_README.md
+2-Areas/Code/SQL/SQL.md
+2-Areas/Code/VBA/VBA - Alert.md
+2-Areas/Code/VBA/VBA - Balloon Notification.md
+2-Areas/Code/VBA/VBA - Check for Broken Links in Workbook.md
+2-Areas/Code/VBA/VBA - Copy Module from one Workbook to Another.md
+2-Areas/Code/VBA/VBA - Create and Run a SQL Query.md
+2-Areas/Code/VBA/VBA - Display Message on Status Bar.md
+2-Areas/Code/VBA/VBA - ExtractRibbonX.md
+2-Areas/Code/VBA/VBA - File Dialog.md
+2-Areas/Code/VBA/VBA - GeneralSettings Module.md
+2-Areas/Code/VBA/VBA - ListLinks Module.md
+2-Areas/Code/VBA/VBA - Make All Open Files Read Only.md
+2-Areas/Code/VBA/VBA - Module Template.md
+2-Areas/Code/VBA/VBA - Notes.md
+2-Areas/Code/VBA/VBA - Optimize Speed.md
+2-Areas/Code/VBA/VBA - Page Setup and Print Macros.md
+2-Areas/Code/VBA/VBA - Progress Bar in the Status Bar.md
+2-Areas/Code/VBA/VBA - Refresh All.md
+2-Areas/Code/VBA/VBA - SQL Stored Procedure Caller Module.md
+2-Areas/Code/VBA/VBA - Save All.md
+2-Areas/Code/VBA/VBA - Unhide All Worksheets.md
+2-Areas/Code/VBA/VBA - Unhide all Rows and Columns.md
+2-Areas/Code/VBA/VBA - Useful Utilities.md
+2-Areas/Code/VBA/VBA.md
+2-Areas/Code/VBA/_README.md
+2-Areas/Code/VBA/_assets/Pasted image 20220331192157.png
+2-Areas/Code/Visual Basic/Visual Basic.md
+2-Areas/Code/Windows Batch/Windows Batch.md
+2-Areas/Code/Windows Registry/Regedit - Add Open in VSCode Insiders to Explorer Context Menu.md
+2-Areas/Code/_README.md
+2-Areas/Guides/Excel Developer Setup Guide.md
+2-Areas/Meta/Unresolved-Links.md
+3-Resources/Clippings/5 steps for closing the cloud value gap with AWS.md
+3-Resources/Clippings/Best Practices How To Design a Database.md
+3-Resources/Clippings/Database Design Best Practices.md
+3-Resources/Clippings/Developing flexible ETL pipelines between databases with Apache Airflow.md
+3-Resources/Clippings/Devise an AWS tagging strategy.md
+3-Resources/Clippings/How to Write a PowerShell Script Module - PowerShell.md
+3-Resources/Clippings/Is your controls strategy keeping pace with DevOps-.md
+3-Resources/Clippings/Mark Down Cheatsheet.md
+3-Resources/Clippings/Next in insurance Top insurance industry issues in 2022.md
+3-Resources/Clippings/SQL Command Prompt Utilities - SQL Server.md
+3-Resources/Clippings/SQL Server PowerShell - SQL Server.md
+3-Resources/Clippings/Selectively modernizing and migrating applications to AWS.md
+3-Resources/Clippings/using dacpac functions to clone sql server databases.md
+3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/R Package - covr.md
+3-Resources/Tools/Online Tools/Bookmarklet Maker.md
+3-Resources/Tools/PKM Tools/Obsidian/Utility/obsidian-clipper.md
+Changelog.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">jimbrig/KaaS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c61743f</div>
+                                        <div class="message">feat: updated markdown files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab55560</div>
+                                        <div class="message">feat: add nodejs/npm and cargo/rust support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1ecb4b</div>
+                                        <div class="message">config: add back .obsidian configs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0a6894</div>
+                                        <div class="message">config: gitignore .obsidian configs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2784da4</div>
+                                        <div class="message">config: adjust .gitignore</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -3762,154 +4438,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jimbrig/Template-Vault</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7cc0ec0</div>
-                                        <div class="message">Obsidian: Changed 4 Files (DESKTOP-CUSTOM)
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-2-AREAS/Daily-Notes/2022-09-24.md
-CHANGELOG.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jimbrig/KaaS</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#180bcf4</div>
-                                        <div class="message">vault backup:  - Changed 4 (2022-09-24 19:53)
-
-Affected files:
-0-Slipbox/INBOX/2022-04-24-2.txt
-0-Slipbox/INBOX/2022-04-24-3.txt
-0-Slipbox/INBOX/2022-04-24-4.txt
-2-Areas/Code/PowerShell/Untitled.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">jimbrig/upptime</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a75b683</div>
-                                        <div class="message">🟩 JimsDocs is up (200 in 88 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56e3956</div>
-                                        <div class="message">🟩 GitHub Issues App is up (200 in 89 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27b049d</div>
-                                        <div class="message">🟩 Clip2Mark is up (200 in 144 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c14119a</div>
-                                        <div class="message">🟩 GitHub Profile is up (200 in 660 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f23ad3b</div>
-                                        <div class="message">🟥 Devfolio is down (404 in 130 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08a522b</div>
-                                        <div class="message">🟩 KaaS - GitHub Pages is up (200 in 135 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51a5e18</div>
-                                        <div class="message">🟩 KaaS - Obsidian Publish is up (200 in 600 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">markallisongit/mssql-docker-demo</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">TomerAdmon/Power-DB</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">werenskjold/mssqldump</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">johnbowker/choco-mssql-deployment</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3932,7 +4460,7 @@ Affected files:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1119.3066666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1119.41 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3951,7 +4479,7 @@ Affected files:
                                     <span class="prefix">Master</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 11832 repositories</div>
+                                <div class="text">Starred 11833 repositories</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3964,7 +4492,7 @@ Affected files:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1074.5633333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1075.1833333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3986,7 +4514,7 @@ Affected files:
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 11399 times</div>
+                                <div class="text">Repositories have been deployed 11405 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4273,7 +4801,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2022, 20:28:30 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 24 Sept 2022, 23:01:53 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
