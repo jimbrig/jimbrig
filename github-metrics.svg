@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    16.3m added, 481k removed
+                                    5.68m added, 3.22m removed
                                 </div>
                             </section>
                             <section>
@@ -2683,7 +2683,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ksobon/Bumblebee</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Excel interop for Dynamo</div>
@@ -2730,7 +2730,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simplymequeeny/dynamodb-client-web-gui</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple web client to view documents from AWS DynamoDB or DynamoDB Local</div>
@@ -2783,7 +2783,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikeroyal/AWS-Guide</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Amazon Web Services (AWS) Guide</div>
@@ -2830,7 +2830,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>instructure/dynamo-local-admin-docker</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A combined docker image with DynamoDB-Local and dynamo-admin.</div>
@@ -2877,7 +2877,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaronshaf/dynamodb-admin</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GUI for DynamoDB Local or dynalite</div>
@@ -2930,7 +2930,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/lambda-refarch-webapp</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Web Application reference architecture is a general-purpose, event-driven, web application back-end that uses AWS Lambda, Amazon API Gateway for its business logic. It also uses Amazon DynamoDB as its database and Amazon Cognito for user management. All static content is hosted using AWS Amplify Console.</div>
@@ -2983,7 +2983,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cdk-patterns/serverless</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported CloudFormation also included.</div>
@@ -3036,7 +3036,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dynamoose/dynamoose</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dynamoose is a modeling tool for Amazon's DynamoDB</div>
@@ -3089,7 +3089,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pynamodb/PynamoDB</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pythonic interface to Amazon's DynamoDB</div>
@@ -3142,7 +3142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vendia/serverless-express</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.</div>
@@ -3195,7 +3195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danishi/dynamodb-csv</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A utility that allows CSV import / export to DynamoDB on the command line</div>
@@ -3248,7 +3248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alexdebrie/awesome-dynamodb</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List of resources for learning about modeling, operating, and using Amazon DynamoDB</div>
@@ -3289,7 +3289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FeatherFire/vba-aws-sqs</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VBA example code to request messages from Amazon Web Services SQS queue, using version 4 signing for the request</div>
@@ -3342,7 +3342,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/amazon-dynamodb-design-patterns</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repo contains sample data models to demonstrate design patterns for Amazon DynamoDB.</div>
@@ -3389,7 +3389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>madiajijah11/exceltodynamodbjson</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy way to convert Excel into JSON and DynamoDB JSON.</div>
@@ -3442,7 +3442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>silvermine/dynamodb-table-sync</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3496,7 +3496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/MicrosoftEdge-Extensions</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a community space for Microsoft Edge Add-ons developers, to share resources and information about building, publishing and growing their Microsoft Edge extension.</div>
@@ -3549,7 +3549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steviecoaster/BeautifulDocs</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3597,7 +3597,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dgorissen/pycel</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library for compiling excel spreadsheets to python code &amp; visualizing them as a graph</div>
@@ -3650,7 +3650,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LaurentDardenne/Template</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code generation by using text templates</div>
@@ -4194,7 +4194,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2022, 16:06:58 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 2 Nov 2022, 18:07:21 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
