@@ -138,8 +138,8 @@ And Much More!
 
 <p align="center"><a href="https://stackshare.io/jimbrig/developer-tools"><img src="http://img.shields.io/badge/Tech-Stack-0690fa.svg?style=flat"/></a></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html,javascript" alt="jimbrig" /></p>
-<p align="center"><em>Note: Javascript and HTML are excluded.</em></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html,javascript,css" alt="jimbrig" /></p>
+<p align="center"><em>Note: Javascript, HTML, and CSS are excluded.</em></p>
 
 <h2 align="center">Github Metrics</h2>
 
