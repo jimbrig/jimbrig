@@ -18,9 +18,12 @@
   <a href="https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2ffeedly.com%2ff%2fqovw62nvai7u3fp6bltrqkny" target="blank">
     <img align="center" src="assets/feedly.svg" alt="feedly" height="18px" />
   </a>
+  <a href="https://keybase.io/jimbrig" target="blank">
+    <img align="center" src="https://keybase.io/favicon.ico" alt="keybase" height="18px" />
+  </a>
 </p>
 
-<p align="center"><a href="https://keybase.io/jimbrig"><img alt="KeybasePGP" src="https://img.shields.io/keybase/pgp/jimbrig?label=PGP"></img></a></p>
+<p align="center"><a href="https://github.com/jimbrig.gpg"><img alt="GPG" src="https://img.shields.io/keybase/pgp/jimbrig?label=PGP"></img></a></p>
 
 <hr>
 
