@@ -19,8 +19,13 @@
     <img align="center" src="assets/feedly.svg" alt="feedly" height="18px" />
   </a>
 </p>
+
+<p align="center"><a href="https://keybase.io/jimbrig"><img alt="KeybasePGP" src="https://img.shields.io/keybase/pgp/jimbrig?label=PGP"></img></a></p>
+
 <hr>
+
 <h4 align="center">Software Engineer Developer from Atlanta, Georgia.</h4>
+
 <h5 align="center">Striving to be a modern day <em><strong><a href="https://en.wikipedia.org/wiki/Polymath">Polymath</strong></a>.</em></h5>
 
 <p align="center"><a href="https://docs.jimbrig.com/projects">Projects Site</a> - <a href="https://docs.jimbrig.com/upptime">Uptime Monitor</a> - <a href="https://github.com/jimbrig/jimsdots">Dotfiles</a> - <a href="https://docs.jimbrig.com/devpholio">Devfolio</a> - <a href="https://jimsshinyapps.shinyapps.io/jimsghstars">GitHub Stars</a></p>
@@ -43,7 +48,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, November 12th 2022, 12:28:54</b>
+  <b>Saturday, November 12th 2022, 1:02:23</b>
 </p>
 
 <h3  align="center">📆 Contribution Streak</h3>
@@ -111,23 +116,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, November 12th 2022, 12:28:54</b>
+  <b>Saturday, November 12th 2022, 1:02:23</b>
 </p>
 
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig.github.io
+* ⬆️ Pushed 1 commit to jimbrig/KaaS
 * ⬆️ Pushed 2 commits to jimbrig/upptime
 * ⬆️ Pushed 1 commit to jimbrig/upptime
-* ⬆️ Pushed 1 commit to jimbrig/KaaS
-* ⬆️ Pushed 2 commits to jimbrig/KaaS
-* ⬆️ Pushed 1 commit to jimbrig/KaaS
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  26,846 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 8 tasks this week           
-✅  Completed 8,702 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
