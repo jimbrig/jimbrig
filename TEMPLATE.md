@@ -19,8 +19,13 @@
     <img align="center" src="assets/feedly.svg" alt="feedly" height="18px" />
   </a>
 </p>
+
+<p align="center"><a href="https://keybase.io/jimbrig"><img alt="KeybasePGP" src="https://img.shields.io/keybase/pgp/jimbrig?label=PGP"></img></a></p>
+
 <hr>
+
 <h4 align="center">Software Engineer Developer from Atlanta, Georgia.</h4>
+
 <h5 align="center">Striving to be a modern day <em><strong><a href="https://en.wikipedia.org/wiki/Polymath">Polymath</strong></a>.</em></h5>
 
 <p align="center"><a href="https://docs.jimbrig.com/projects">Projects Site</a> - <a href="https://docs.jimbrig.com/upptime">Uptime Monitor</a> - <a href="https://github.com/jimbrig/jimsdots">Dotfiles</a> - <a href="https://docs.jimbrig.com/devpholio">Devfolio</a> - <a href="https://jimsshinyapps.shinyapps.io/jimsghstars">GitHub Stars</a></p>
