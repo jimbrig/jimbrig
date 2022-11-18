@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            13560 Commits
+                            13561 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    15.9m added, 358k removed
+                                    8.66m added, 1.51m removed
                                 </div>
                             </section>
                             <section>
@@ -2688,7 +2688,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Journera/glutil</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Utilities for managing AWS Glue/Athena tables and partitions stored in S3</div>
@@ -2741,7 +2741,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dgomesbr/awesome-aws-workshops</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">(Unofficial) curated list of awesome workshops found around in the internet. As we all have been there, finding that workshop that you have just attended shouldn't be hard. The idea is to provide an easy central repository, in a collaborative way.</div>
@@ -2794,7 +2794,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HealthCatalyst/hcposh</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HCPosh is a Powershell module that provides some useful functions and tools when working with data in the Health Catalyst Analytics Platform. Key Features include 1) Split SAM Designer hcx files into smaller files for source control using it's built-in column-level SQL Parser, developed using the Microsoft.SqlServer.TransactSql.ScriptDom library. 2) Generate a React web application for documentation that contains ERD and Data Flow Diagrams for a professional look and presentation of a subject area mart 3) Integration of Graphviz software for ERD and Data flow diagram generation (pdf, png, and svg)</div>
@@ -2847,7 +2847,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Phil-Factor/PowerShell-Utility-Cmdlets</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2901,7 +2901,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ethanbergstrom/Homebrew</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell PackageManagement (OneGet) Module for Homebrew</div>
@@ -2954,7 +2954,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ethanbergstrom/Croze</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A PowerShell Crescendo wrapper for Homebrew</div>
@@ -3007,7 +3007,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ethanbergstrom/ToGet</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A class-based DSC resource wrapper module for PackageManagement</div>
@@ -3054,7 +3054,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ethanbergstrom/Cobalt</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A PowerShell Crescendo wrapper for WinGet</div>
@@ -3107,7 +3107,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jimbrig/OutlookSaver</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VBA Outlook AddIn for Automating and Saving Emails, PDFs, Attachments, and Folders for Project Documentation with Persistent User Configuration</div>
@@ -4260,7 +4260,7 @@ Changelog.md</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.3394934976043764 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.38193018480492347 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4291,7 +4291,7 @@ Changelog.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2022, 13:07:09 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Nov 2022, 15:06:59 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
