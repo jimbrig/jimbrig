@@ -1,26 +1,37 @@
+<!---
+Thanks for viewing the source code. #realdevs
+-->
+
 <h1 align="center">Jimmy Briggs</h1>
-<p align="center">
+
+<p align="center"> | 
+  <a href="https://github.com/jimbrig" target="blank">
+    <img align="center" src="https://img.shields.io/github/followers/jimbrig?label=Follow&style=social" alt="github" />
+  </a> | 
   <a href="https://linkedin.com/in/jimbrig" target="blank">
-    <img align="center" src="assets/linkedin.svg" alt="jimbrig" height="18px" />
-  </a>
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="18px" />
+  </a> | 
   <a href="https://dev.to/jimbrig" target="blank">
-    <img align="center" src="assets/devto.svg" alt="devto" height="18px" />
-  </a>
+    <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" height="18px" />
+  </a> | 
   <a href="https://twitter.com/jimbrig2011" target="blank">
-    <img align="center" src="assets/twitter.svg" alt="twitter" height="18px" />
-  </a>
+    <img align="center" src="https://img.shields.io/twitter/follow/jimbrig2011?style=social" alt="twitter" height="18px" />
+  </a> | 
   <a href="https://stackoverflow.com/users/jimbrig" target="blank">
-    <img align="center" src="assets/stackoverflow.svg" alt="stackoverflow" height="18px" />
-  </a>
+    <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" height="18px" />
+  </a> | 
   <a href="https://medium.com/jimbrig" target="blank">
-    <img align="center" src="assets/medium.svg" alt="medium" height="18px" />
-  </a>
-  <a href="https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2ffeedly.com%2ff%2fqovw62nvai7u3fp6bltrqkny" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" height="18px" />
+  </a> | 
+  <a href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FqOVW62nvaI7U3Fp6BLtRqKnY" target="blank">
     <img align="center" src="assets/feedly.svg" alt="feedly" height="18px" />
-  </a>
+  </a> | 
   <a href="https://keybase.io/jimbrig" target="blank">
     <img align="center" src="https://keybase.io/favicon.ico" alt="keybase" height="18px" />
-  </a>
+  </a> |
+  <a href="https://goodreads.com/jimbrig" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" height="18px" />
+   </a> |
 </p>
 
 <p align="center"><a href="https://github.com/jimbrig.gpg"><img alt="GPG" src="https://img.shields.io/keybase/pgp/jimbrig?label=PGP"></img></a></p>
