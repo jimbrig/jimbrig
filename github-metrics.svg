@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    10.8m added, 7.39m removed
+                                    16.5m added, 9.16m removed
                                 </div>
                             </section>
                             <section>
@@ -462,7 +462,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 131 commits)</small>
+                    <small class="h-details">(computed from last 126 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -553,8 +553,8 @@
                             14
                         </div>
                         <div class="entry">
-                            <span class="value">5</span>
-                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             15
                         </div>
                         <div class="entry">
@@ -624,8 +624,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">14</span>
-                                <div class="bar" style="height: 9.722222222222223px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9</span>
+                                <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -645,27 +645,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 14.493776471347864%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 14.613853815658612%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">18%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 2.2174180037907636%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.2357887621399346%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PowerShell</span>
-                                <div class="bar" style="width: 1.588402223902325%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 1.013839779184093%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.8517540409089224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.8588106119441163%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">BASIC</span>
-                                <div class="bar" style="width: 0.1113324959278372%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.11225485805153418%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2703,7 +2703,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>benkehoe/aws-export-credentials</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Get AWS credentials from a profile to inject into other programs</div>
@@ -2809,7 +2809,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>potatoqualitee/PSPostgres</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell binary module for Postgres</div>
@@ -2862,7 +2862,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>potatoqualitee/SPReplicator</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">♻ Replicates SharePoint Lists</div>
@@ -2915,7 +2915,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>potatoqualitee/pspublish</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Update module version and Publish to the PowerShell Gallery</div>
@@ -2962,7 +2962,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>potatoqualitee/dbatools-demo</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">just a lil demo</div>
@@ -3015,7 +3015,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>potatoqualitee/azfun</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3063,7 +3063,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>potatoqualitee/release</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">manual releases</div>
@@ -3104,7 +3104,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LaurentDardenne/Nuspec</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powershell DSL to create a nuspec file.</div>
@@ -3151,7 +3151,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LaurentDardenne/XMLObject</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convert a xml file to a C# class and vice versa.</div>
@@ -3198,7 +3198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LaurentDardenne/PSAutograph</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wrapper for MSagl (Microsoft Automatic Graph Layout)</div>
@@ -3251,7 +3251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LaurentDardenne/OptimizationRules</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This module contains script analyzer rules to search statements can be improved.</div>
@@ -3298,7 +3298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LaurentDardenne/BuildTemplate</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plaster template : Build a powershell project</div>
@@ -3351,7 +3351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LaurentDardenne/ParameterSetRules</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This module contains script analyzer rules to control the param block of a scriptblock.</div>
@@ -3398,7 +3398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LaurentDardenne/ProjectTools</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tools shared by project PowerShell modules</div>
@@ -3445,7 +3445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LaurentDardenne/GhaCli</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A PowerShell Crescendo wrapper for GitHub CLI.</div>
@@ -3492,7 +3492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>potatoqualitee/psmodulecache</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This action makes caching PowerShell modules from the PowerShell Gallery easy for Linux, Windows and macOS runners.</div>
@@ -3545,7 +3545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LaurentDardenne/ExtensionMethod</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Creation of ps1xml file dedicated to the extension methods contained in an assembly.</div>
@@ -3592,7 +3592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LaurentDardenne/ConvertForm</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powershell module for converting a Winform file (xxx.Designer.cs) to a PowerShell script .ps1. Old Codeplex project</div>
@@ -3639,7 +3639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itsnotaboutthecell/powerquerym</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Power Query M</div>
@@ -4331,7 +4331,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Feb 2023, 15:06:46 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 9 Feb 2023, 17:06:51 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
