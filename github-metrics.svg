@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            15215 Commits
+                            15217 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2636,7 +2636,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carpentries/sandpaper</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">User Interface for The Carpentries Workbench</div>
@@ -2689,7 +2689,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carpentries/sandpaper-docs</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Documentation for The Carpentries Workbench</div>
@@ -2742,7 +2742,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CryceTruly/bookmarker-api</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flask REST API Tutorial</div>
@@ -2789,7 +2789,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vastevenson/flask-swagger-docs-vs-demo</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2837,7 +2837,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>patrickloeber/python-docker-tutorial</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Learn how to dockerize Python scripts and a Python web app</div>
@@ -2884,7 +2884,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>erudinsky/Azure-Bicep-Workshop</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💪 Azure Bicep Workshop: Deploy a full stack application to Azure using Bicep templates. The goal of the workshop us to learn Azure Bicep lang deploying azure landing zone and infrastructure for full stack application. The workshop starts with creation of a management group structure followed by RBAC as code and policy as code concept (custom roles, policies as code and its assignments). Then we’ll explore three tier application that includes python / flask API, PostgreSQL and client based on vue.js. For each tier we’ll provision resource(s) such as web app and service plan for API, static site for client and managed Postgres Flexible Server integrated in virtual network with private links for database-server communication. On top of it we will deploy load balancer with WAF to protect our application agains security threats. We will use additional resources for deployment such as container registry, managed identity and more. Workshop includes DevOps works, best practices and common patterns. It is possible to follow alone, also suggestions are welcome! Good luck!</div>
@@ -4262,7 +4262,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2023, 11:07:08 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 21 Feb 2023, 13:07:21 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
