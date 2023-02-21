@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    22.7m added, 8.26m removed
+                                    10.6m added, 6.33m removed
                                 </div>
                             </section>
                             <section>
@@ -2698,7 +2698,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carpentries/sandpaper</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">User Interface for The Carpentries Workbench</div>
@@ -2751,7 +2751,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carpentries/sandpaper-docs</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Documentation for The Carpentries Workbench</div>
@@ -2804,7 +2804,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CryceTruly/bookmarker-api</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flask REST API Tutorial</div>
@@ -2851,7 +2851,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vastevenson/flask-swagger-docs-vs-demo</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2899,7 +2899,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>patrickloeber/python-docker-tutorial</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Learn how to dockerize Python scripts and a Python web app</div>
@@ -2946,7 +2946,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>erudinsky/Azure-Bicep-Workshop</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💪 Azure Bicep Workshop: Deploy a full stack application to Azure using Bicep templates. The goal of the workshop us to learn Azure Bicep lang deploying azure landing zone and infrastructure for full stack application. The workshop starts with creation of a management group structure followed by RBAC as code and policy as code concept (custom roles, policies as code and its assignments). Then we’ll explore three tier application that includes python / flask API, PostgreSQL and client based on vue.js. For each tier we’ll provision resource(s) such as web app and service plan for API, static site for client and managed Postgres Flexible Server integrated in virtual network with private links for database-server communication. On top of it we will deploy load balancer with WAF to protect our application agains security threats. We will use additional resources for deployment such as container registry, managed identity and more. Workshop includes DevOps works, best practices and common patterns. It is possible to follow alone, also suggestions are welcome! Good luck!</div>
@@ -4320,7 +4320,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Feb 2023, 21:32:04 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 20 Feb 2023, 23:07:07 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
