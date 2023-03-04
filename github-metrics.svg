@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            15390 Commits
+                            15391 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    23.3m added, 6.85m removed
+                                    22.3m added, 6.51m removed
                                 </div>
                             </section>
                             <section>
@@ -2728,7 +2728,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rstolpe/PSCollection</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Here I'll collect all of my PowerShell Modules, Scripts and other things related to PowerShell</div>
@@ -2775,7 +2775,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rstolpe/WinSoftwareUpdate</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">With this module you can automatically update your installed Windows softwares trough WinGet</div>
@@ -2828,7 +2828,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rstolpe/MaintainModule</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This module update, install, uninstall old versions of your PowerShell modules in a easy way</div>
@@ -2881,7 +2881,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>weaveworks/awesome-gitops</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list for awesome GitOps resources</div>
@@ -2928,7 +2928,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/azure-api-management-devops-resource-kit</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Azure API Management DevOps Resource Kit</div>
@@ -2981,7 +2981,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/apiops</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">APIOps applies the concepts of GitOps and DevOps to API deployment. By using practices from these two methodologies, APIOps can enable everyone involved in the lifecycle of API design, development, and deployment with self-service and automated tools to ensure the quality of the specifications and APIs that they’re building.</div>
@@ -3034,7 +3034,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>erikhoward/flask-keyvault</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flask extension to read and write secrets from Azure Key Vault</div>
@@ -3087,7 +3087,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apiflask/apiflask</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight Python web API framework.</div>
@@ -3140,7 +3140,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zayd62/mkdocs-versioning</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool that allows for versioning sites built with mkdocs</div>
@@ -3193,7 +3193,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oprypin/mkdocs-literate-nav</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MkDocs plugin to specify the navigation in Markdown instead of YAML</div>
@@ -3246,7 +3246,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blueswen/mkdocs-glightbox</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A MkDocs plugin supports image lightbox (zoom effect) with GLightbox.</div>
@@ -3299,7 +3299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timvink/mkdocs-charts-plugin</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mkdocs plugin to add charts to your pages</div>
@@ -3352,7 +3352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oprypin/mkdocs-gen-files</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MkDocs plugin to programmatically generate documentation pages during the build</div>
@@ -3405,7 +3405,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jdoiro3/mkdocs-multirepo-plugin</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build documentation in multiple repos into one site.</div>
@@ -3458,7 +3458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rosscdh/mkdocs-markdownextradata-plugin</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A MkDocs plugin that injects the mkdocs.yml extra variables into the markdown template</div>
@@ -3511,7 +3511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timvink/mkdocs-table-reader-plugin</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MkDocs plugin that enables a markdown tag like {{ read_csv('table.csv') }} to directly insert various table formats into a page</div>
@@ -3564,7 +3564,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timvink/mkdocs-print-site-plugin</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MkDocs Plugin that adds an additional page that combines all pages, allowing easy exports to PDF and standalone HTML.</div>
@@ -3617,7 +3617,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>daizutabi/mkapi</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A documentation generation tool for MkDocs.</div>
@@ -3670,7 +3670,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timvink/mkdocs-git-revision-date-localized-plugin</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MkDocs plugin to add a last updated date to your site pages</div>
@@ -3723,7 +3723,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mkdocstrings/mkdocstrings</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4360,7 +4360,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2023, 09:06:40 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 4 Mar 2023, 11:07:03 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
