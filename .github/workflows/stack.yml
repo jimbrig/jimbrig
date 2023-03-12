@@ -16,4 +16,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: Matt-Gleich/profile_stack@master
         with:
-          path: ./stack.yml
+          path: ./config/stack.yml
