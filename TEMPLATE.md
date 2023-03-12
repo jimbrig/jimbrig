@@ -86,7 +86,15 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <h3 align="center">📊 Contribution Graph</h3>
 
- [![Jimmy's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jimbrig&theme=xcode)](https://github.com/jimbrig)
+<p class="rich-diff-level-zero" align="center">
+  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=jimbrig&theme=react-dark" rel="nofollow" class="rech-diff-level-one">
+    <img
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=jimbrig&theme=react-dark"
+      alt="GitHub Streak" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=jimbrig&theme=react-dark"
+      style="max-width:100%;"
+    >
+  </a>
+</p>
 
 <h2 align="center">🏁 Projects</h2>
 <p align="center"><em>Note these are outdated and will be updated in due time.</em></p>
