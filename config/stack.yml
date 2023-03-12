@@ -41,6 +41,7 @@
     - url: https://github.com/jimbrig/phishr
     - url: https://github.com/jimbrig/lossrunAnalyzer
     - url: https://github.com/jimbrig/arsenal
+    
 - name: PowerShell
   logo: powershell
   url: https://docs.microsoft.com/en-us/powershell/
@@ -49,18 +50,23 @@
     - url: https://github.com/jimbrig/PowerShell
     - url: https://github.com/jimbrig/WindowsPowerShell
     - url: https://github.com/jimbrig/PowerShell-Profiles-Work
-    - url: https://github.com/jimbrig/dotfiles
-    - url: https://github.com/jimbrig/dotfiles-work
+    - url: https://github.com/jimbrig/PSClearHost
+    - url: https://github.com/jimbrig/PSXLDevTools
+    - url: https://github.com/jimbrig/PSProfile
+    - url: https://github.com/jimbrig/PSScripts
+    - url: https://github.com/jimbrig/PSCompletions
+    - url: https://github.com/jimbrig/PSEdgeKeywords
+    - url: https://github.com/jimbrig/PSProfileTools
+    - url: https://github.com/jimbrig/PSWindowsTroublshooters
+    - url: https://github.com/jimbrig/PSEdgeTools
+    - url: https://github.com/jimbrig/PSProject
+    - url: https://github.com/jimbrig/PSWinExplorer
     - url: https://github.com/jimbrig/PSWinSetup
-    - url: https://github.com/jimbrig/choco-packages
-    - url: https://github.com/jimbrig/winsetup
-    - url: https://github.com/jimbrig/Dotfiles-for-Windows-11
+    - url: https://github.com/jimbrig/PSWinSetup
     - url: https://github.com/jimbrig/Windows-11-Compatibility-Check
     - url: https://github.com/jimbrig/cloud-adoption-framework
     - url: https://github.com/jimbrig/WindowsSetup
-    - url: https://github.com/jimbrig/Scripts-1
-    - url: https://github.com/jimbrig/chocolatey-test-environment
-    - url: https://github.com/jimbrig/chocolatey-packages
+    
 - name: Rust
   logo: rust
   url: 'https://rust.com/'
@@ -68,6 +74,7 @@
   projects:
     - url: https://github.com/jimbrig/git-cliff
     - url: https://github.com/jimbrig/topgrade
+    
 - name: Docker
   logo: docker
   url: 'https://www.docker.com/'
@@ -80,6 +87,7 @@
     - url: https://github.com/jimbrig/Shiny_app_Azure
     - url: https://github.com/powwater/powpolished
     - url: https://github.com/powwater/vendor_dashboard
+    
 - name: PostgreSQL
   logo: postgresql
   url: 'https://postgres.org'
@@ -88,6 +96,7 @@
     - url: https://github.com/powwater/powpolished
     - url: https://github.com/powwater/vendor_dashboard
     - url: https://github.com/jimbrig/postgresql_rest_api
+    
 - name: ReactNative
   logo: react
   url: 'https://reactnative.com/'
@@ -95,6 +104,7 @@
   projects:
     - url: https://github.com/jimbrig/nativeapp
     - url: https://github.com/powwater/flutterwave-react-native
+    
 - name: GoogleCloud
   logo: google%20cloud
   url: 'https://cloud.google.com/'
@@ -103,12 +113,14 @@
     - url: https://github.com/jimbrig/shiny-cloudrun-demo
     - url: https://github.com/jimbrig/shiny-server
     - url: https://github.com/tychobra/polished
+    
 - name: Azure
   logo: microsoft%20azure
   url: 'https://azure.microsoft.com/en-us/'
   color: '0089D6'
   projects:
     - url: https://github.com/jimbrig/Shiny_app_Azure
+    
 - name: JavaScript
   logo: javascript
   url: https://javascript.com
@@ -116,12 +128,14 @@
   projects:
     - url: https://github.com/jimbrig/jimsessentials
     - url: https://github.com/powwater/powdocs
+    
 - name: HTML
   logo: html5
   url: https://www.w3schools.com/html/
   color: 'E34F26'
   projects:
     - url: https://github.com/powwater/landing_page
+    
 - name: Dotfiles
   logo: windows%20terminal
   url: https://docs.microsoft.com/en-us/windows/dev-environment/overview
@@ -134,12 +148,14 @@
     - url: https://github.com/jimbrig/.github
     - url: https://github.com/jimbrig/r-bucket
     - url: https://github.com/jimbrig/dotfiles-new
+    
 - name: Git
   logo: git
   url: https://git-scm.com/
   color: 'F05032'
   projects:
     - url: https://github.com/jimbrig/git-training
+    
 - name: MkDocs
   logo: markdown
   url: https://www.mkdocs.org/
@@ -148,12 +164,14 @@
     - url: https://github.com/jimbrig/jimsdocs
     - url: https://github.com/powwater/powdocs
     - url: https://github.com/jimbrig/git-training
+    
 - name: GatsbyJS
   logo: gatsby
   url: https://www.gatsbyjs.com/
   color: '663399'
   projects:
     - url: https://github.com/jimbrig/gatsby-cloud-test-site
+    
 - name: Excel-VBA
   logo: microsoft%20excel
   url: excel.com
