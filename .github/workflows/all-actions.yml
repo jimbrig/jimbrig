@@ -12,8 +12,18 @@ on:
     
 jobs:
 
+  Profile-Stack:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: Matt-Gleich/profile_stack@master
+          with:
+            path: ./config/stack.yml
+
   Profile-GitHub-Metrics:
     name: Create GitHub Metrics
+    needs:
+      - Profile-Stack
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -56,15 +66,6 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 20
           repositories_forks: yes
-
-          
-  Profile-Stack:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v2
-        - uses: Matt-Gleich/profile_stack@master
-          with:
-            path: ./config/stack.yml
           
   Profile-Todoist:
     needs:
@@ -82,7 +83,10 @@ jobs:
   Profile-README:
     name: Update README
     runs-on: ubuntu-latest
-    
+    needs:
+      - Profile-GitHub-Metrics
+      - Profile-Stack
+      - Profile-Todoist
     steps:
       - uses: actions/checkout@v3
         with:
@@ -109,7 +113,7 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
           git checkout "${GITHUB_REF:11}"
           git commit -am "Automated report"
-          git push
+          git push --force
       # - name: Commit & Push changes
       #   uses: actions-js/push@master
       #   with:
