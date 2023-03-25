@@ -31,7 +31,7 @@
     - url: https://github.com/jimbrig/EDA
     - url: https://github.com/jimbrig/R_dotfiles_sync
     - url: https://github.com/jimbrig/status
-    - url: https://github.com/jimbrig/codemw   
+    - url: https://github.com/jimbrig/codemw
     - url: https://github.com/jimbrig/rpackage-template
     - url: https://github.com/jimbrig/addinslist
     - url: https://github.com/jimbrig/template_shinydashboard
@@ -41,7 +41,6 @@
     - url: https://github.com/jimbrig/phishr
     - url: https://github.com/jimbrig/lossrunAnalyzer
     - url: https://github.com/jimbrig/arsenal
-    
 - name: PowerShell
   logo: powershell
   url: https://docs.microsoft.com/en-us/powershell/
@@ -66,7 +65,6 @@
     - url: https://github.com/jimbrig/Windows-11-Compatibility-Check
     - url: https://github.com/jimbrig/cloud-adoption-framework
     - url: https://github.com/jimbrig/WindowsSetup
-    
 - name: Rust
   logo: rust
   url: 'https://rust.com/'
@@ -74,7 +72,6 @@
   projects:
     - url: https://github.com/jimbrig/git-cliff
     - url: https://github.com/jimbrig/topgrade
-    
 - name: Docker
   logo: docker
   url: 'https://www.docker.com/'
@@ -87,7 +84,6 @@
     - url: https://github.com/jimbrig/Shiny_app_Azure
     - url: https://github.com/powwater/powpolished
     - url: https://github.com/powwater/vendor_dashboard
-    
 - name: PostgreSQL
   logo: postgresql
   url: 'https://postgres.org'
@@ -96,7 +92,6 @@
     - url: https://github.com/powwater/powpolished
     - url: https://github.com/powwater/vendor_dashboard
     - url: https://github.com/jimbrig/postgresql_rest_api
-    
 - name: ReactNative
   logo: react
   url: 'https://reactnative.com/'
@@ -104,7 +99,6 @@
   projects:
     - url: https://github.com/jimbrig/nativeapp
     - url: https://github.com/powwater/flutterwave-react-native
-    
 - name: GoogleCloud
   logo: google%20cloud
   url: 'https://cloud.google.com/'
@@ -113,14 +107,12 @@
     - url: https://github.com/jimbrig/shiny-cloudrun-demo
     - url: https://github.com/jimbrig/shiny-server
     - url: https://github.com/tychobra/polished
-    
 - name: Azure
   logo: microsoft%20azure
   url: 'https://azure.microsoft.com/en-us/'
   color: '0089D6'
   projects:
     - url: https://github.com/jimbrig/Shiny_app_Azure
-    
 - name: JavaScript
   logo: javascript
   url: https://javascript.com
@@ -128,14 +120,12 @@
   projects:
     - url: https://github.com/jimbrig/jimsessentials
     - url: https://github.com/powwater/powdocs
-    
 - name: HTML
   logo: html5
   url: https://www.w3schools.com/html/
   color: 'E34F26'
   projects:
     - url: https://github.com/powwater/landing_page
-    
 - name: Dotfiles
   logo: windows%20terminal
   url: https://docs.microsoft.com/en-us/windows/dev-environment/overview
@@ -148,14 +138,12 @@
     - url: https://github.com/jimbrig/.github
     - url: https://github.com/jimbrig/r-bucket
     - url: https://github.com/jimbrig/dotfiles-new
-    
 - name: Git
   logo: git
   url: https://git-scm.com/
   color: 'F05032'
   projects:
     - url: https://github.com/jimbrig/git-training
-    
 - name: MkDocs
   logo: markdown
   url: https://www.mkdocs.org/
@@ -164,14 +152,12 @@
     - url: https://github.com/jimbrig/jimsdocs
     - url: https://github.com/powwater/powdocs
     - url: https://github.com/jimbrig/git-training
-    
 - name: GatsbyJS
   logo: gatsby
   url: https://www.gatsbyjs.com/
   color: '663399'
   projects:
     - url: https://github.com/jimbrig/gatsby-cloud-test-site
-    
 - name: Excel-VBA
   logo: microsoft%20excel
   url: excel.com
