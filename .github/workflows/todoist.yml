@@ -2,19 +2,14 @@ name: Todoist Readme
 
 on:
   workflow_dispatch:
-  schedule:
-    # Runs every 30 minutes
-    - cron: "30 * * * *"
-  push:
-    branches:
-      - main
-      - master
   workflow_run:
-    workflows: [ Update GitHub Profile ]
+    workflows: [Update GitHub Profile]
+    types:
+      - completed
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Todoist Update
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
