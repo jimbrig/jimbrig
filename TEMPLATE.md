@@ -129,20 +129,27 @@ And Much More!
 
 <h3 align="center">✔ Productivity</h3>
 
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
+<!-- TODOIST:START -->
+
+<!-- TODOIST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
 
 <p align="center">
  <a href="https://github.com/jimbrig/jimsdots">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimbrig&repo=jimsdots">
+   <img src="https://github-readme-stats.jimbrig.com/api/pin/?username=jimbrig&repo=jimsdots&show_owner=true&theme=transparent">
  </a>
 </p>
 
 <p align="center">
- <a href="https://github.com/jimbrig/jimstools">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimbrig&repo=jimstools">
+ <a href="https://github.com/jimbrig/KaaS">
+   <img src="https://github-readme-stats.jimbrig.com/api/pin/?username=jimbrig&repo=kaas&show_owner=true&theme=transparent">
+ </a>
+</p>
+
+<p align="center">
+ <a href="https://github.com/jimbrig/lossrx">
+   <img src="https://github-readme-stats.jimbrig.com/api/pin/?username=jimbrig&repo=lossrx&show_owner=true&theme=transparent">
  </a>
 </p>
 
@@ -150,8 +157,8 @@ And Much More!
 
 <p align="center"><a href="https://stackshare.io/jimbrig/developer-tools"><img src="http://img.shields.io/badge/Tech-Stack-0690fa.svg?style=flat"/></a></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html,javascript,css" alt="jimbrig" /></p>
-<p align="center"><em>Note: Javascript, HTML, and CSS are excluded.</em></p>
+<p align="center"><img src="https://github-readme-stats.jimbrig.com/api/top-langs?username=jimbrig&show_icons=true&locale=en&hide=html,javascript,css,AutoHotKey,Roff,EJS,C%2B%2B,Vim%20Snippet,Stylus&theme=transparent&langs_count=10&layout=compact&card_width=400" alt="jimbrig" /></p>
+<p align="center"><em>Note: Vendored (Javascript, HTML, CSS, C++, Vim Snippet, etc.) and Prose Languages (Roff, EJS, etc.) are excluded.</em></p>
 
 <h2 align="center">Github Metrics</h2>
 
