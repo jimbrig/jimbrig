@@ -76,8 +76,8 @@ Successful history of identifying patterns, making interpretations, and producin
  <h3  align="center">🏅 Ranks</h3>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=jimbrig&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-    <img src="http://github-readme-stats.vercel.app/api?username=jimbrig&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <a href="http://github-readme-stats.jimbrig.com/api?username=jimbrig&count_private=true&show_icons=true&include_all_commits=true&theme=transparent">
+    <img src="http://github-readme-stats.jimbrig.com/api?username=jimbrig&count_private=true&show_icons=true&include_all_commits=true&theme=transparent" />
   </a>
   <br><p align="center"><em>Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone)</em></p>
 </p>
