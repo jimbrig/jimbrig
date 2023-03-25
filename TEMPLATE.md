@@ -1,4 +1,4 @@
-<!---
+<!--- 
 Thanks for viewing the source code. #realdevs
 -->
 
@@ -129,9 +129,8 @@ And Much More!
 
 <h3 align="center">✔ Productivity</h3>
 
-<!-- TODOIST:START -->
-
-<!-- TODOIST:END -->
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
 
