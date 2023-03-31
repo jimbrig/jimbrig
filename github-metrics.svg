@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            15893 Commits
+                            15894 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    19.5m added, 5.84m removed
+                                    11.9m added, 5.54m removed
                                 </div>
                             </section>
                             <section>
@@ -2713,7 +2713,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jimbrig/PSGitFiles</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell Module for generating and managing git files (`.gitignore`, `.gitattributes`, etc.)</div>
@@ -2766,7 +2766,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashhar/vscode-gitattributes</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple extension that lets you pull .gitattribute files from https://github.com/alexkaratarakis/gitattributes and create a combined .gitattribute file.</div>
@@ -2819,7 +2819,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devblackops/psake.module.tasks</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example of hosting psake tasks inside a standalone PowerShell module and invoking those tasks within a psake script</div>
@@ -2866,7 +2866,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>azsk/AzTS-docs</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2920,7 +2920,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>azsk/DevOpsKit</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2974,7 +2974,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gitpitch/the-template</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitPitch - Modern Slide Design Markdown Templates</div>
@@ -3021,7 +3021,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devblackops/POSHOrigin</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell framework for defining and invoking custom DSC resources to provision infrastructure.</div>
@@ -3074,7 +3074,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devblackops/watchmen</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Infrastructure test runner using Pester and OVF modules</div>
@@ -3127,7 +3127,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devblackops/AzSpeedTest</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Azure speed test tool for PowerShell</div>
@@ -3180,7 +3180,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devblackops/advent-of-code</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3234,7 +3234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devblackops/github-action-psscriptanalyzer</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Action to run PSScriptAnalyzer static code analysis</div>
@@ -3287,7 +3287,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JackedProgrammer/CSV-Split</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Splitting CSV files in powershell</div>
@@ -3340,7 +3340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JackedProgrammer/AutomatingAD</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automating Active Directory with PowerShell</div>
@@ -3393,7 +3393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JackedProgrammer/MultipleFormGUI-PowerShell</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3441,7 +3441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EvotecIT/Testimo</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Testimo is a PowerShell module for running health checks for Active Directory against a bunch of different tests</div>
@@ -3494,7 +3494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EvotecIT/PesterInfrastructureTests</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of infrastructure related tests for use with Pester &amp; PowerShell.</div>
@@ -3547,7 +3547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MertSenel/Hcl2PS</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell Module to Wrap Hcl2Json CLI tool for Easy distribution of PowerShell cmdlets to Parse HCL Files</div>
@@ -3600,7 +3600,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rdbartram/PSTerraformParser</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3654,7 +3654,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stknohg/TerraformUtil</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell utility functions for Terraform.</div>
@@ -3707,7 +3707,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>roberthstrand/tftools</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell tools for working with Terraform</div>
@@ -3966,7 +3966,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1115.3799999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1115.4833333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3988,7 +3988,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 11794 times</div>
+                                <div class="text">Repositories have been deployed 11795 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4275,7 +4275,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2023, 04:07:40 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 31 Mar 2023, 06:07:27 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
