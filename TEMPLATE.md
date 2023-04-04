@@ -65,15 +65,7 @@ Successful history of identifying patterns, making interpretations, and producin
   <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}--></b>
 </p>
 
-<h3  align="center">📆 Contribution Streak</h3>
-
-<p class="rich-diff-level-zero" align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" rel="nofollow" class="rech-diff-level-one">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" style="max-width:100%;">
-   </a>
- </p>
- 
- <h3  align="center">🏅 Ranks</h3>
+<h3  align="center">🏅 Ranks</h3>
 
 <p align="center">
   <a href="http://github-readme-stats.jimbrig.com/api?username=jimbrig&count_private=true&show_icons=true&include_all_commits=true&theme=transparent">
@@ -84,7 +76,19 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <br>
 
-<h3 align="center">📊 Contribution Graph</h3>
+<h3 align="center">👍 Contributions</h3>
+
+<h4 align="center">📆 Streak</h4>
+
+<p class="rich-diff-level-zero" align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" rel="nofollow" class="rech-diff-level-one">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=jimbrig&theme=dark" style="max-width:100%;">
+   </a>
+</p>
+
+<br>
+
+<h4 align="center">📊 Graph</h4>
 
 <p class="rich-diff-level-zero" align="center">
   <a href="https://github-readme-activity-graph.cyclic.app/graph?username=jimbrig&theme=react-dark" rel="nofollow" class="rech-diff-level-one">
@@ -96,6 +100,17 @@ Successful history of identifying patterns, making interpretations, and producin
   </a>
 </p>
 
+<br>
+
+<h4 align="center">💹 Isometric</h4>
+<br><p align="center"><em>(Languages pie is based on recent commits)</em></p>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+
+<br>
 <h2 align="center">🏁 Projects</h2>
 <p align="center"><em>Note these are outdated and will be updated in due time.</em></p>
 
