@@ -1,7 +1,7 @@
 name: GitHub Profile Views Counter CI
 on:
   workflow_run:
-    workflows: ["all-actions.yml"]
+    workflows: [Update GitHub Profile]
     types:
       - completed
   schedule:
