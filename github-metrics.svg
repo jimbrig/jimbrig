@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            16167 Commits
+                            16168 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    7.63m added, 4m removed
+                                    8.28m added, 5.76m removed
                                 </div>
                             </section>
                             <section>
@@ -2853,7 +2853,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sponsfreixes/jinja2-fragments</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Render Jinja2 template block as HTML page fragments on Python web frameworks.</div>
@@ -2906,7 +2906,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Martlark/flask-serialize</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Read / Write JSON serialization of models for Flask applications using SQLAlchemy</div>
@@ -2959,7 +2959,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0b01001001/spectree</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">API spec validator and  OpenAPI document generator for Python web frameworks.</div>
@@ -3012,7 +3012,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lorenzodifuccia/http.server</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">(Beautiful) replacement for the `http.server` Python3 module. Allows file upload, preview and much more.</div>
@@ -3065,7 +3065,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jcbianic/flask-jeroboam</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flask-Jeroboam is a Flask extension modelled after FastAPI that uses Pydantic to provide easy-to-configure data validation for request parsing and response serialization.</div>
@@ -3118,7 +3118,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>siddhantgoel/flask-filealchemy</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">YAML-formatted plain-text file based models for Flask backed by Flask-SQLAlchemy</div>
@@ -3171,7 +3171,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mozilla/http-observatory</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mozilla HTTP Observatory</div>
@@ -3224,7 +3224,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sh4nks/flask-plugins</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This extension provides an easy way to create plugins for your flask application.</div>
@@ -3277,7 +3277,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>agdsn/wtforms-widgets</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Decorator driven wtforms extension with Bootstrap 5 support</div>
@@ -3330,7 +3330,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fitiavana07/flasko</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Flask Boilerplate</div>
@@ -3383,7 +3383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marshmallow-code/marshmallow</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight library for converting complex objects to and from simple Python datatypes.</div>
@@ -3436,7 +3436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fatal1ty/mashumaro</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and well tested serialization library on top of dataclasses</div>
@@ -3489,7 +3489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fatal1ty/openapify</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Framework agnostic OpenAPI Specification generation for code lovers</div>
@@ -3542,7 +3542,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marshmallow-code/apispec-webframeworks</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web framework plugins for apispec (formally in apispec.ext).</div>
@@ -3595,7 +3595,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>h-janes/flask-sitemapper</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flask extension for generating XML sitemaps</div>
@@ -3648,7 +3648,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cove1205/Flask-Wow</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple CLI Generator for flask apps.</div>
@@ -3701,7 +3701,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>torrua/loglan_db</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Loglan Dictionary Database Model for SQLAlchemy</div>
@@ -3754,7 +3754,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ehfeng/react-flask-app</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3802,7 +3802,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>level09/enferno</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python framework based on Flask microframework, with preconfigured user accounts, registration,authentication, caching, Redis, Celery, and best practices in mind.</div>
@@ -3855,7 +3855,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jeremylong/DependencyCheck</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.</div>
@@ -4414,7 +4414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2023, 16:07:04 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Apr 2023, 18:07:15 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
