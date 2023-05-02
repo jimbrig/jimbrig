@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            15547 Commits
+                            15988 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2761,7 +2761,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jrybicki-jsc/flasknpm</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple project on enabling npm in Flask applications by using webpack</div>
@@ -2808,7 +2808,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>briancappello/flask-api-bundle</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DEPRECATED: The api bundle is now included with Flask Unchained.</div>
@@ -2861,7 +2861,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Flask-Middleware/flask-security</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quick and simple security for Flask applications</div>
@@ -2914,7 +2914,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LaunchPlatform/wtforms-bootstrap5</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple library for rendering WTForms in HTML as Bootstrap 5 form controls</div>
@@ -2967,7 +2967,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wtforms/wtforms-sqlalchemy</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WTForms integration for SQLAlchemy</div>
@@ -3020,7 +3020,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pylover/sqlalchemy-media</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Another attachment extension for SqlAlchemy to manage assets which are associated with database models but you don't want to store them into the database</div>
@@ -3073,7 +3073,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>briancappello/flask-unchained-react-spa</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A boilerplate built with Python 3, Flask Unchained and ES6 React/Redux</div>
@@ -3126,7 +3126,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cs91chris/sysdev</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">personal environment configuration for development</div>
@@ -3179,7 +3179,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cs91chris/vbcore</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">common components for my personal projects</div>
@@ -3226,7 +3226,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juliotrigo/sqlalchemy-filters</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Filter, sort and paginate SQLAlchemy query objects. Ideal for exposing these actions over a REST API.</div>
@@ -3279,7 +3279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cs91chris/flask_autocrud</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically generate a RESTful API service for CRUD operation on database and advanced search</div>
@@ -3332,7 +3332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cs91chris/flask_template_support</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Template support for flask application</div>
@@ -3385,7 +3385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cs91chris/flask_logify</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Advanced Logging configuration for flask application based on configuration file (json, yaml), disable logging for route with filters and log message as json</div>
@@ -3438,7 +3438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cs91chris/flask_response_builder</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Implementations of flask response in many formats like: json, xml, html...</div>
@@ -3491,7 +3491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aiscenblue/flask-starter-kit</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flask application boilerplate for microservice</div>
@@ -3544,7 +3544,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jimdevops19/FlaskBaseApp</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a basic Flask Application</div>
@@ -3591,7 +3591,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>briancappello/flask-unchained</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The quickest and easiest way to build large web apps and APIs with Flask</div>
@@ -3644,7 +3644,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ericdaat/dotfiles</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My dotfiles, defaults for macos, but there is a linux branch as well.</div>
@@ -3691,7 +3691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ericdaat/flask-template</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Template for a Python Flask web application along with sqlalchemy, docker, circle-ci and sphinx.</div>
@@ -4366,7 +4366,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 May 2023, 10:07:05 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 May 2023, 12:07:35 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
