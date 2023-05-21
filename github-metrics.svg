@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            16267 Commits
+                            16268 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    9.05m added, 6.04m removed
+                                    8.43m added, 6.07m removed
                                 </div>
                             </section>
                             <section>
@@ -2888,7 +2888,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devcontainers/templates</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!</div>
@@ -2909,7 +2909,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        321
+                                        322
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2941,7 +2941,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure-Samples/container-apps-azapi-terraform</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This sample shows how to deploy a Dapr application to Azure Container Apps using Terraform with the AzAPI Provider.</div>
@@ -2994,7 +2994,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ianpaul/Baseball_Scores</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A short Python script that gives you the latest boxscore, linescore, upcoming schedule for a given MLB team, or the current MLB standings.</div>
@@ -3041,7 +3041,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jpontdia/devops-pipelines</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3089,7 +3089,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/terraform-azurerm-database</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terraform Azure RM Module for Database</div>
@@ -3142,7 +3142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ebullient/obsidian-theme-ebullientworks</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Theme for Obsidian.md (https://obsidian.md)</div>
@@ -3195,7 +3195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenLiberty/cloud-hosted-guides</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3249,7 +3249,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aztfmod/terraform-provider-azurecaf</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terraform provider for Cloud Adoption Framework for Azure</div>
@@ -3296,7 +3296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>recognizegroup/terraform</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Public Terraform module repository.</div>
@@ -3349,7 +3349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carpentries/workbench</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repository for Discussions and Materials about The Carpentries Workbench</div>
@@ -3402,7 +3402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dsccommunity/ComputerManagementDsc</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DSC resources for for configuration of a Windows computer. These DSC resources allow you to perform computer management tasks, such as renaming the computer, joining a domain and scheduling tasks as well as configuring items such as virtual memory, event logs, time zones and power settings.</div>
@@ -3455,7 +3455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/terratest-terraform-fluent</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go module for Terraform module testing with fluent assertions</div>
@@ -3508,7 +3508,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pachadotdev/databases.pacha.dev</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3562,7 +3562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Zachatoo/obsidian-css-editor</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Edit CSS files in Obsidian.</div>
@@ -3615,7 +3615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>omnivore-app/obsidian-omnivore</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Obsidian plugin to fetch articles and highlights from Omnivore</div>
@@ -3668,7 +3668,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>notmike101/obsidian-azure-blob-sync</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Allows sync of vault to Azure Blob Storage</div>
@@ -3721,7 +3721,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>numeroflip/obsidian-auto-template-prompt</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4216,7 +4216,7 @@ Links.md</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1126.6433333333332 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1126.7466666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -4238,7 +4238,7 @@ Links.md</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 11903 times</div>
+                                <div class="text">Repositories have been deployed 11904 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4525,7 +4525,7 @@ Links.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 May 2023, 04:07:19 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 21 May 2023, 06:06:45 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
