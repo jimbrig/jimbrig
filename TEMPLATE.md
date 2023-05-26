@@ -4,6 +4,16 @@ Thanks for viewing the source code. #realdevs
 
 <h1 align="center">Jimmy Briggs   <a href="#" target="blank"><img alt="Image of profile-views" src="https://github.com/jimbrig/profile-views/blob/master/graph/427463930/small/week.png" height="30" /></a></h1>
 
+<p align="center"><a href="https//github.com/jimbrig/profile-views" target="blank"><img align="center" src="https://github.com/jimbrig/profile-views/blob/master/svg/profile/badge.svg" alt="views" /></a><br><em>(Past 24 Hours)</em></p>
+
+<p align="center">
+	<a href="https://profile.codersrank.io/user/jimbrig/" target="blank">
+		<img align="center" src="https://img.shields.io/badge/CodersRank-jimbrig-success?style=social&logo=codersrank" alt="codersrank" />
+	</a>
+</p>
+
+***
+
 <p align="center"> | 
   <a href="https://github.com/jimbrig" target="blank">
     <img align="center" src="https://img.shields.io/github/followers/jimbrig?label=Follow&style=social" alt="github" />
@@ -35,8 +45,6 @@ Thanks for viewing the source code. #realdevs
 </p>
 
 <p align="center"><a href="https://github.com/jimbrig.gpg"><img alt="GPG" src="https://img.shields.io/keybase/pgp/jimbrig?label=PGP"></img></a></p>
-
-<p align="center"><a href="https//github.com/jimbrig/profile-views" target="blank"><img align="center" src="https://github.com/jimbrig/profile-views/blob/master/svg/profile/badge.svg" alt="views" /></a><br><em>(Past 24 Hours)</em></p>
 
 <hr>
 
@@ -183,3 +191,15 @@ And Much More!
     <a href="#" target="blank"><img align="center" src="github-metrics.svg" /></a>
   </p>
 </details>
+
+***
+
+JImmy Briggs <jimmy.briggs@jimbrig.com> | 2023
+
+<!--  <p align="center"><a href="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jimbrig&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" target="blank"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jimbrig&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="thing" /></a></p>
+
+<p align="center"><a href="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jimbrig&skills=Python,R,HCL,SQL,Shell,TSQL,TypeScript,CSS,SCSS,Other&width=820" target="blank"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jimbrig&skills=Python,R,HCL,SQL,Shell,TSQL,TypeScript,CSS,SCSS,Other&width=820" alt="thing" /></a></p>
+
+<p align="center"><a href="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=jimbrig&max-items=5&logos=true&style=--item-bg-color:e6e6e6;--item-border-radius:15px" target="blank"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=jimbrig&max-items=5&logos=true&style=--item-bg-color:e6e6e6;--item-border-radius:15px" alt="thing" /></a></p>
+
+-->
