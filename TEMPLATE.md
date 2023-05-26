@@ -93,10 +93,10 @@ Successful history of identifying patterns, making interpretations, and producin
 <h4 align="center">📊 Graph</h4>
 
 <p class="rich-diff-level-zero" align="center">
-  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=jimbrig&theme=react-dark" rel="nofollow" class="rech-diff-level-one">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=jimbrig&theme=react-dark" rel="nofollow" class="rech-diff-level-one">
     <img
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=jimbrig&theme=react-dark"
-      alt="GitHub Streak" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=jimbrig&theme=react-dark"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=jimbrig&theme=react-dark"
+      alt="GitHub Streak" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=jimbrig&theme=react-dark"
       style="max-width:100%;"
     >
   </a>
