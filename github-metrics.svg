@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            16695 Commits
+                            16696 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.96m added, 263k removed
+                                    4.02m added, 2.07m removed
                                 </div>
                             </section>
                             <section>
@@ -779,8 +779,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">21</span>
-                                <div class="bar" style="height: 30.88235294117647px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">22</span>
+                                <div class="bar" style="height: 32.35294117647059px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -789,8 +789,8 @@
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">31</span>
-                                <div class="bar" style="height: 45.588235294117645px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">30</span>
+                                <div class="bar" style="height: 44.11764705882353px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -800,27 +800,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 3.7878629601039018%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.8171161607862105%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">R</span>
-                                <div class="bar" style="width: 0.18833795260405403%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.18979246349361126%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PowerShell</span>
-                                <div class="bar" style="width: 0.15967043692071%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.16090355210557017%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.06667103755256495%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.06718592979174179%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PLpgSQL</span>
-                                <div class="bar" style="width: 0.019156330573449495%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.019304272563036785%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2858,7 +2858,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>renovatebot/renovate</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Universal dependency update tool that fits into your workflows.</div>
@@ -2911,7 +2911,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Yasukazu/YCommander</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A user-friendly fork of Keeper Commander</div>
@@ -2964,7 +2964,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jdhitsolutions/PSTweetChat</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3020,7 +3020,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pcgeek86/terminal</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automate the Microsoft Windows Terminal using PowerShell</div>
@@ -3073,7 +3073,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pcgeek86/azure-powershell-extensions</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Azure PowerShell Extensions project is intended to provide a pleasant user experience on top of the core Azure PowerShell experience.</div>
@@ -3126,7 +3126,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pcgeek86/publish-powershell-module-action</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This GitHub Action helps publish your PowerShell module to the PowerShell Gallery automatically.</div>
@@ -3173,7 +3173,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pcgeek86/elgato-streamdeck-powershell</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A plug-in for Elgato Stream Deck that displays your NVIDIA GPU utilization, written in pure PowerShell</div>
@@ -3226,7 +3226,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>novuhq/novu</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source notification infrastructure with fully functional embedded notification center</div>
@@ -3279,7 +3279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dullage/flatnotes</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.</div>
@@ -3332,7 +3332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Forceu/Gokapi</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.</div>
@@ -3385,7 +3385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudreve/Cloudreve</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)</div>
@@ -3438,7 +3438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>epoupon/fileshelter</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FileShelter is a “one-click” file sharing web application</div>
@@ -3491,7 +3491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mickael-kerjean/filestash</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...</div>
@@ -3544,7 +3544,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pcgeek86/awesome-trevor</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository contains links to things that Trevor thinks are awesome.</div>
@@ -3585,7 +3585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pcgeek86/youtube</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A PowerShell module to manage YouTube content via the official REST API.</div>
@@ -3638,7 +3638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>majkinetor/powershell_profile.d</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell profile directory</div>
@@ -3685,7 +3685,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spmason/powershell-profile</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A public clone of my powershell profile bits &amp; pieces</div>
@@ -3726,7 +3726,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TsekNet/PowerShell-Profile</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Heavily customized PowerShell profile.</div>
@@ -3890,6 +3890,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/profile-views</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#44125c8</div>
+                                        <div class="message">Update views</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -4155,80 +4175,6 @@ Guides/Python Flask Development/Python Flask - Using a Dedicated Blueprints Modu
 Guides/Python Flask Development/_README.md
 Guides/R Development/Setting up R and RStudio on Ubuntu.md
 Guides/_README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jimbrig/JimsObsidianVault</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b29ed93</div>
-                                        <div class="message">auto: Vault Backup (2023-06-14 18:33:06) - DESKTOP-MSI - Changed 52
-
-Affected files:
-.obsidian/plugins/obsidian-dictionary-plugin/cache.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-CHANGELOG.md
-Code/Bash/Bash - Git Auto Commit.md
-Code/Bash/Bash - GitHub Downloads.md
-Code/Bash/Bash - WSL Set Default Browser to Windows Host.md
-Code/Bash/Install Scripts/Bash - Install NVM Node and NPM.md
-Code/Bash/Install Scripts/Bash - Install WSLU.md
-Code/Bash/Install Scripts/Bash - Install Zsh and oh-my-zsh.md
-Code/Bash/_README.md
-Code/CMD/Imaging/Cmd - DISM.md
-Code/CMD/Networking/Cmd - Create Network Performance Report.md
-Code/CMD/Windows Update/Cmd - Reset Windows Update Components.md
-Code/CMD/Windows Update/Cmd - Windows Update Reference.md
-Code/CMD/Windows Update/Cmd - wureset Script.md
-Code/CMD/_README.md
-Code/PowerShell/PowerShell - GitHub Downloads.md
-Code/PowerShell/PowerShell - Reset Windows Update Components.md
-Daily/2023-06-14.md
-Daily/2023/05-May/2023-05-31.md
-Daily/2023/06-June/2023-06-01 1.md
-Daily/2023/06-June/2023-06-04.md
-Daily/2023/06-June/2023-06-07.md
-Daily/2023/06-June/2023-06-08.md
-Daily/2023/06-June/2023-06-09.md
-Daily/2023/06-June/2023-06-10.md
-Daily/2023/06-June/2023-06-12.md
-Daily/2023/06-June/2023-06-13.md
-Inbox/DotNet SDK.md
-Inbox/Excel Spreadsheet Document API.md
-Inbox/Tupac Quotes.md
-Inbox/What is DotNet.md
-People/Tupac Shakir.md
-Templates/Core-Templates/Template-Daily-Note.md
-Templates/Core-Templates/Template-Default.md
-Templates/Core-Templates/Template-Development.md
-Templates/Core-Templates/Template-MOC.md
-Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md
-Templates/Fragment-Templates/Template-Frontmatter.md
-Templates/Tool-Templates/Template-Tool-Application.md
-Templates/Tool-Templates/Template-Tool.md
-Templates/Utility-Templates/Template-Agenda.md
-Templates/Utility-Templates/Template-DailyCheckIn.md
-Templates/Utility-Templates/Template-Definition.md
-Templates/Utility-Templates/Template-Folder-README.md
-Templates/Utility-Templates/Template-List.md
-Templates/Utility-Templates/Template-Meta.md
-Templates/Utility-Templates/Template-Organization.md
-Templates/Utility-Templates/Template-Person.md
-Templates/Utility-Templates/Template-Zotero.md
-Tools/Shells and CLI Tools/Windows Command Line.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -4596,7 +4542,7 @@ Tools/Shells and CLI Tools/Windows Command Line.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jun 2023, 00:11:23 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 15 Jun 2023, 02:07:56 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
