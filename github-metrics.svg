@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            16999 Commits
+                            17000 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.66m added, 2.46m removed
+                                    28.5m added, 21m removed
                                 </div>
                             </section>
                             <section>
@@ -2863,7 +2863,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openai/openai-cookbook</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Examples and guides for using the OpenAI API</div>
@@ -2916,7 +2916,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>makecodes/django-dbml</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This app can generate a DBML output for all installed models.</div>
@@ -2969,7 +2969,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NunaInc/sql_tools</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python libraries for helping developers produce and maintain data analysis projects</div>
@@ -3022,7 +3022,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kludex/dbml</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3078,7 +3078,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>logan-markewich/llama_index_starter_pack</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository provides very basic flask, streamlit, and docker examples for the llama_index (fka gpt_index) package</div>
@@ -3131,7 +3131,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mewmix/llama-index-flask-demo</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Flask Server Demo Application showing off some llama-index LLM prompt magic, including file upload and parsing :)</div>
@@ -3178,7 +3178,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mnemonic-re/parsePEASS</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bash script to parse and convert linpeas\winpeas output files to readable HTML or PDF format</div>
@@ -3225,7 +3225,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jschicht/UsnJrnl2Csv</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Parser for $UsnJrnl on NTFS</div>
@@ -3278,7 +3278,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jschicht/LogFileParser</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Parser for $LogFile on NTFS</div>
@@ -3331,7 +3331,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rix0rrr/WindowsPathEditor</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PATH editor for people who use a lot of "unixy" tools on Windows</div>
@@ -3378,7 +3378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>majk1/shellrc</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Script collection and custom prompt for various shells and architectures</div>
@@ -3431,7 +3431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TypeStrong/typedoc</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Documentation generator for TypeScript projects.</div>
@@ -3484,7 +3484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>statsfm/spotify.js</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Statically typed SDK for the Spotify Web API</div>
@@ -3537,7 +3537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>statsfm/apple-music-node</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node.js Client for Apple Music built with TypeScript</div>
@@ -3590,7 +3590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pelauimagineering/apple-music-token-generator</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3644,7 +3644,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sheminusminus/apple-music-token-node</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JS generator for Apple Music API developer tokens</div>
@@ -3691,7 +3691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>statsfm/web</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[WIP] stats.fm web repository</div>
@@ -3744,7 +3744,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>isontic/statsfm-web</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[WIP] Stats.fm web repository</div>
@@ -3797,7 +3797,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>isontic/Specter-Website</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Specter for Stats.fm Website built on Nuxt.js + Vue</div>
@@ -3844,7 +3844,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>isontic/Specter</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bug Tracker for Specter for Stats.fm Desktop app.</div>
@@ -4440,7 +4440,7 @@ test.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jul 2023, 08:08:34 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Jul 2023, 10:07:11 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
