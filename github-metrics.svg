@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            17041 Commits
+                            17042 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    31.2m added, 22.7m removed
+                                    29.4m added, 21.1m removed
                                 </div>
                             </section>
                             <section>
@@ -2848,7 +2848,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JBGruber/askgpt</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A chat interface build on top of OpenAI's API endpoints</div>
@@ -2901,7 +2901,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MichelNivard/gptstudio</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GPT RStudio addins that enable GPT assisted coding, writing &amp; analysis</div>
@@ -2954,7 +2954,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>machinatoonist/prompt-code</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Calls ChatGPT API to return suggest text</div>
@@ -3007,7 +3007,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>patrickloeber/chatbot-deployment</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deployment of PyTorch chatbot with Flask</div>
@@ -3060,7 +3060,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure-Samples/azure-search-openai-demo</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences.</div>
@@ -3113,7 +3113,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unixfreak0037/officeparser</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extract embedded files and macros from office documents.</div>
@@ -3166,7 +3166,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datadotworld/data.world-r</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">R library for data.world</div>
@@ -3219,7 +3219,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OfficeDev/Excel-Content-Add-in-Humongous-Insurance</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Humongous Insurance content add-in shows how you can use the new JavaScript API for Microsoft Excel 2016 to create a compelling Excel add-in.</div>
@@ -3272,7 +3272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OfficeDev/open-xml-docs-ref-dotnet</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open XML SDK content source for publishing reference docs to docs.microsoft.com</div>
@@ -3325,7 +3325,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamogbz/nvshim</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🍄 Automagically use the correct version of node with nvm</div>
@@ -3378,7 +3378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Revolutionize your spreadsheet game with OpenAI's ChatGPT in Microsoft Excel using my custom VBA code. Automate tedious tasks and add a new level of intelligence to your data analysis. The code is available in the GitHub repository for you to use and integrate into your own spreadsheets.</div>
@@ -3425,7 +3425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OfficeDev/office-js-snippets</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of code snippets built with Script Lab</div>
@@ -4530,7 +4530,7 @@ on 2023-04-28T18:15:31Z</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2023, 02:21:06 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Jul 2023, 04:09:01 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
