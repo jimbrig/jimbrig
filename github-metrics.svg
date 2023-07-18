@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 225 users
+                            Followed by 226 users
                         </div>
                     </section>
                     <section>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            17153 Commits
+                            17154 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    27.8m added, 20.3m removed
+                                    5.45m added, 2.56m removed
                                 </div>
                             </section>
                             <section>
@@ -800,7 +800,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">PowerShell</span>
-                                <div class="bar" style="width: 0.04223732793325391%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.041484359263332236%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2828,7 +2828,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samrocketman/git-identity-manager</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Git identity manager. It allows you to switch between git identities for user, name, and SSH private key used for authoring and publishing git commits.</div>
@@ -2881,7 +2881,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anshumanbh/git-all-secrets</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool to capture all the git secrets by leveraging multiple open source git searching tools</div>
@@ -2934,7 +2934,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>drduh/YubiKey-Guide</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Guide to using YubiKey for GPG and SSH</div>
@@ -2987,7 +2987,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zlaxy/sshch</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ssh connection manager</div>
@@ -3040,7 +3040,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/css-in-readme-like-wat</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Style your readme using CSS with this simple trick</div>
@@ -3081,7 +3081,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/awesome-chatgpt</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI</div>
@@ -3128,7 +3128,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DBremen/PowerShellScripts</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Some PowerShell scipts that can be hopefully also useful to others. Most of them were written by me, if not I tried to reference the author and or source. Since I collected those scripts over several years, I couldn't always remember though.</div>
@@ -3181,7 +3181,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DBremen/Write-TerminalProgress</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell function to indicate progress, using cli-spinner icons, during longer running tasks.</div>
@@ -3234,7 +3234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>extent-framework/extentreports-dotnet-cli</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extent CLI for .NET Test Frameworks</div>
@@ -3287,7 +3287,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DBTrenches/SQLChecks</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Helper functions and tests for SQL Server</div>
@@ -3340,7 +3340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zyborg/pester-tests-report</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Action to run Pester tests and generate report attached to Workflow Run</div>
@@ -3393,7 +3393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jlfwong/speedscope</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔬 A fast, interactive web-based viewer for performance profiles.</div>
@@ -3446,7 +3446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dotnetzero/FunctionApp</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sever that serves up the web / scripts</div>
@@ -3499,7 +3499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dotnetzero/script</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3553,7 +3553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ErikEJ/SqlQueryStress</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SQL query stress simulator created by Adam Machanic http://dataeducation.com/sqlquerystress-the-source-code/</div>
@@ -3606,7 +3606,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davetang/muse</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Updated posts from my blog</div>
@@ -3659,7 +3659,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davetang/learning_r</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">R notes</div>
@@ -3712,7 +3712,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>b-rodrigues/ess_dev_env</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3766,7 +3766,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaweaver-actuary/Triangle</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3814,7 +3814,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaweaver-actuary/rocky</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Property-casualty loss reserving triangle class and reserve estimation methods</div>
@@ -3871,6 +3871,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/profile-views</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a9c061e</div>
+                                        <div class="message">Update views</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -4087,32 +4107,6 @@ New collaborators:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jimbrig/JimsObsidianVault</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#84355d9</div>
-                                        <div class="message">auto: Vault Backup (2023-07-17 18:09:31) - DESKTOP-MSI - Changed 4 Files
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-CHANGELOG.md
-Code/PowerShell/PowerShell - Install 1Password CLI.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -4136,7 +4130,7 @@ Code/PowerShell/PowerShell - Install 1Password CLI.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2023, 00:07:33 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 Jul 2023, 02:07:40 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
