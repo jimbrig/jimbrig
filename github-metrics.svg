@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            17312 Commits
+                            17313 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    26.9m added, 20.5m removed
+                                    3.11m added, 2.52m removed
                                 </div>
                             </section>
                             <section>
@@ -2863,7 +2863,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abathelt/Resources</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Learning resources, blogs, news, SQL, PowerShell, SQL, Linux, Revers Engineering, Malware</div>
@@ -2910,7 +2910,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/ARI</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort</div>
@@ -2963,7 +2963,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danhuss/awesome-sql</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List of tools and techniques for working with relational databases.</div>
@@ -3004,7 +3004,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oobianom/quickcode</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A compilation of some my quick, simple but often used R codes</div>
@@ -3057,7 +3057,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jeroen/badgen</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3111,7 +3111,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scottmckendry/Windots</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of scripts and configuration files for Windows</div>
@@ -3164,7 +3164,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bytefish/ElasticsearchCodeSearch</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Index and Search GitHub Repositories using Elasticsearch</div>
@@ -3217,7 +3217,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Iristallite/WSB-autosetup</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate a config file for Windows Sandbox (also automatically installs the 2010-2022 Visual C++ Redistributables)</div>
@@ -3264,7 +3264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TomasHubelbauer/windows-sandbox-script</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows Sandbox exploration</div>
@@ -3317,7 +3317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flexxxxer/WindowsSandbox-ConfigsAndScripts</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ready-made Windows Sandbox launch profiles and scripts that automate the routine</div>
@@ -3370,7 +3370,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hasan-hasanov/ScoopBox</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ScoopBox is library that helps launch Windows Sandbox with preinstalled applications and/or with predefined scripts.</div>
@@ -3423,7 +3423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lovasoa/SQLpage</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SQL-only webapp builder, empowering data analysts to build websites and applications quickly</div>
@@ -3444,7 +3444,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        243
+                                        244
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3476,7 +3476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Shopify/liquid</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Liquid markup language. Safe, customer facing template language for flexible web apps.</div>
@@ -3529,7 +3529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>edahlseng/terraform-provider-shopify</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3577,7 +3577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Shopify/hydrogen</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hydrogen is Shopify’s stack for headless commerce. It provides a set of tools, utilities, and best-in-class examples for building dynamic and performant commerce applications. Hydrogen is designed to dovetail with Remix, Shopify’s full stack web framework, but it also provides a React library portable to other supporting frameworks. Demo store 👇🏼</div>
@@ -4145,7 +4145,7 @@ Daily/2023-07-28.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2023, 22:16:52 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Jul 2023, 00:07:24 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
