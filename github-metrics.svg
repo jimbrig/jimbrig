@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            15927 Commits
+                            15928 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.82m added, 2.72m removed
+                                    2.43m added, 2.24m removed
                                 </div>
                             </section>
                             <section>
@@ -2848,7 +2848,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jimbrig/PowerShell-Module-Template</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell Core Module Template Module</div>
@@ -2901,7 +2901,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Xainey/PSHitchhiker</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Release Pipeline Example Module</div>
@@ -2954,7 +2954,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jakewalsh90/Terraform-Azure</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Contains Terraform code for Azure deployment - snippets, useful bits, samples, labs and more. All deployable in small instances with ready to go code. Includes GitHub Actions guide to help with deployment/learning.</div>
@@ -3001,7 +3001,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pytorch/pytorch</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tensors and Dynamic neural networks in Python with strong GPU acceleration</div>
@@ -3054,7 +3054,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PipedreamHQ/pipedream</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Connect APIs, remarkably fast.  Free for developers.</div>
@@ -3107,7 +3107,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/Microsoft-Win32-Content-Prep-Tool</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool to wrap Win32 App and then it can be uploaded to Intune</div>
@@ -3148,7 +3148,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PowerShell/JsonAdapter</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3202,7 +3202,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>auberginehill/get-installed-programs</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Retrieves the programs installed on a local machine. Additionally on a Windows 8 or Windows Server 2012 machine and later – depending whether the script is run in an elevated PowerShell window or not – some of or all the installed Windows Store apps (app packages (.appx)) are enumerated (a Windows PowerShell script).</div>
@@ -3255,7 +3255,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TSA-SAUSS/UninstallBloatware</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Allows administrators to easily specify a list of applications to remove, whether they are traditional Win32 applications or modern AppX packages.  Since not every Win32 application can be removed without a little extra work, the module was designed to allow instructions for specific applications to be pulled from a JSON file.</div>
@@ -3308,7 +3308,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>freedbygrace/ADDAP</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3356,7 +3356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>freedbygrace/Remove-UWPs</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This script allows for the removal of Appx applications from a Windows image during operating system deployment or a mounted Windows image.</div>
@@ -3403,7 +3403,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Arko109/DownloadManager10</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A download manager that uses the Background Transfer API.</div>
@@ -3450,7 +3450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaronparker/automata</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Project Automata - a standardised Microsoft Deployment Toolkit environment</div>
@@ -3503,7 +3503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaronparker/Infrastructure</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Various scripts and tools for managing infrastructure roles</div>
@@ -3556,7 +3556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaronparker/build</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows image build scripts</div>
@@ -3609,7 +3609,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaronparker/azure</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build an Azure environment with various tools - ARM templates, Bicep etc.</div>
@@ -3662,7 +3662,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaronparker/packagefactory</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A packaging factory for Microsoft Intune using Evergreen, VcRedist, and IntuneWin32App</div>
@@ -3715,7 +3715,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaronparker/vcredist</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lifecycle management for the Microsoft Visual C++ Redistributables</div>
@@ -3768,7 +3768,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Wapitiii/WSAppBak</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">APPX Backupper and Repacker</div>
@@ -3815,7 +3815,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MarkMessink/Windows_Defender_Update</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This script updates Windows Defender Antivirus</div>
@@ -4069,7 +4069,7 @@ Guides/Terraform Development/Deploying Terraform using GitHub Actions.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2023, 22:21:14 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Aug 2023, 00:07:38 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
