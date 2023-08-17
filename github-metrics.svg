@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            16044 Commits
+                            16045 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.33m added, 3.82m removed
+                                    27.6m added, 20.6m removed
                                 </div>
                             </section>
                             <section>
@@ -2873,7 +2873,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xnuinside/omymodels</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">O!My Models (omymodels) is a library to generate Pydantic, Dataclasses, GinoORM Models, SqlAlchemy ORM, SqlAlchemy Core Table,  Models from SQL DDL. And convert one models to another.</div>
@@ -2926,7 +2926,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>foliant-docs/foliant</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Comprehensive markdown-based documentation toolkit</div>
@@ -2979,7 +2979,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>airsonic-advanced/airsonic-advanced</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3033,7 +3033,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linuxserver/davos</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web-based FTP automation for Linux servers.</div>
@@ -3086,7 +3086,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linuxserver/fleet</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Status and image fleet metadata management application for Docker images</div>
@@ -3139,7 +3139,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alexta69/metube</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">youtube-dl web UI</div>
@@ -3192,7 +3192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HaveAGitGat/Tdarr</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux &amp; Docker)</div>
@@ -3239,7 +3239,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jaimeMF/youtube-dl-api-server</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A youtube-dl REST API server</div>
@@ -3292,7 +3292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GioF71/upmpdcli-docker</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easily run upmpdcli with Docker. Renderer/Library Mode, Streaming with Qobuz, Tidal, SubSonic, Navidrome, HRA, Radio-Browser</div>
@@ -3345,7 +3345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GioF71/mpd-subsonic-scrobbler</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Subsonic Scrobbler for Music Player Daemon, written in Python</div>
@@ -3398,7 +3398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alexanderjulo/wiki</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a flask based wiki, using markdown files as backend. completely file based!</div>
@@ -3451,7 +3451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>django-wiki/django-wiki</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.</div>
@@ -3504,7 +3504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>crustymonkey/gdata2pg</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a web server that takes json data formatted as collectd JSON and puts it into a postgres database</div>
@@ -3557,7 +3557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>crustymonkey/taxman</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An easily expandable host level metrics collector</div>
@@ -3610,7 +3610,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pixelb/ps_mem</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A utility to accurately report the in core memory usage for a program</div>
@@ -3663,7 +3663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GioF71/subsonic-connector</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python Library for easier access to the SubSonic API. Built around py-sonic</div>
@@ -3716,7 +3716,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>michaelb/auto-ytdl</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Yet another youtube-dl wrapper, but auto-ytdl can automate your new music downloads better than ever</div>
@@ -3769,7 +3769,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gui-cs/F7History</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use F7 as "Show Command History" in Powershell</div>
@@ -3822,7 +3822,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devOpifex/windy.penguins</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example of application using {windy}</div>
@@ -3875,10 +3875,13 @@
                                     </svg>
                                     <div class="name">
                                         <span>devOpifex/windy</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Tailwind for Shiny</div>
+                                <div class="field description">
+                                    <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAOCElEQVR4nO1bCWwcVxnelIZWPRBFPaivnfXOG0dEbSlFQm1RKQVVCEElbgFtBQ3YaydpLufYeW/W4zul0BIJIVLUNhShoqBCvJuEHmpNmp1jj9i54yOOYzsRUtOWtFQlhSYP/f/M7M7uzqzXjis5UX7pKc7O7M7+3/vP738bCFySSzJncv26oWvDbM99YSWzTFSy7WGa3kRYeouopH9PlMyTIsu0hZQ9D9Z37L/ljs3ZhYELXe7YnF0osswDIks9J1FznFDtLJGTvHBpRf+3F9XPiEo6GVbSnaH1A7cFLiQJsUxDmBpbCNXf8VJOpAavb9vHha6jvK73BK/beJIHe6d4Xc8kD3Yd5aGOI3idsFQeJJbaW0/3rKxSs1cF5q2o/DJR0b8UlrU1IVl7sIFlHpDWvf4V+Bf+T6jBCNW3iFQbILJ2BsGQdV6v7udC9zEEongFe47z+vZDOTBEarwhxgaj8xuICqSqMXGVyMzvEmY8L9Hke6BcWMmiBXgBAUvoHOWikrFdxJwknQe+EbgYpOGxoWvDUb2VyNoJ3OXYAA/2TJQBYgQAQNcQldTWG9RD1wQuBlmsbv24xMwokbV3CNUxFviBADEDXAcBY8ZInTrwmcDFIkE5ezORtZdBuXr1gC8IeWswOJH1d8Ox7JcDF6KIy3deIanZL9bL5iOEGp2Ems+KsraNRLV3w0qmLABoDd3jdpDU379g4sIiNX0XoeYmkeoDhGofFKRJWeciMzEoCt1j0wJgZYsJfA+JJs+ILHNvYL6atkjNXhJNnnTyOygJZg6mDDsZ3GjVBVgfuFclIPROYnCUqP62oGYXBeaL1KvZOomZfyRUx50WY3t4qHMYv3CBsj1TvLZnktd2+6weKJamygKC7kANsKLRmdQKkpq9fs4Vv6n1pauJYm4iVPsP7DZEbShscl+49wQqhcp1TVir87i9xouW/Trc0w1r0hcMDIxgYSy9pdLvSpRUJMD5gjlTXmKZrxJZG8dI3rY3v9teince5zUd47ym/Zi9xniNWrTgNbjWcYzXdoy7wLCBKAIBS2lZOyeygQcq+b5QvYpU/975a875ApEa3UTWzkJQKqnsQPmc4uOokKXwUV7TBmuUV8dgjRStUbyG96gOGC4giqwBYglkBpGaY5V0lvXM/KnE9NfPv7ylxk4sa2HXnYDmLGfXcztuK+4orAzzagZriFdT12LOGrbuiY1YYMB7222L6DpuWYMLBMcVwkqaTffdsSyXtf+FZPOmWZezkqwn4YGhjsOlAQqUd8wddg93fJRXKyOWYqjsEV4lH+ZVUViHChe8Lh/GexCMHBC2RYBrdJaCAFmGUP2t6QKiqBjfR7Boatmsgp1I9SwEulDnSBnlbT9vO5rfcTpkK32IV204aK31B7wXXENACoEAC/IDAVpuVIyl15QHIPOInZpfnpn2W/nHnLJV8FK+F8zetfOO8mjmR/KKrz/Ab163n9+8dh+vWpPlNat0XrtyNy74G16Da3CPBYZlFQgEWoPtEh4giEqaE8UcK6dGA0uttwF4Y0b6iyz1W8vsPRoXJ+B5KJ/bdVvxqrV7ee2K17nQspMLkbi9+uwV50JzHK/BPXAvvse2CMsaHBDAEsbzgREyQueQVWEq++/01YMaTzmVaIM6UFWR8oSlv02iyXOQ372KEkx1XRNWpFd9lF+7j1evMrjQsoMLkW1nhUjfq8HmxNLQz/pubViXvBZWqClxWzCSWCZEEv1CJH4OgKhZZeatwQEB3AGCY/uYVTt0T+AmYIUIVSdL/a4MAP0OPSfFUt+aVvmwqt1IqPYmmBeYuf/u29EeA95w3uxt5XHXYYebtg2GW7bfNd1zQ0199wiRxH54D7iHBYLLEhQ7MLa7XAHcIDYAFeIxzw/lfAGR9dN4DxZQ5oppAZCY+RwgBqWn/+5DurNNH6J9kfI1K5Jo4sGmbX8TftJ/ZaBCqfrm5qtCzTviAELNSj3vDhATILZAdlDH7PRoWUEIaDWM8una4s+rp6nPO26MFiAbatkvIEa1O6HQCbf79OrFuw95ng1bpr/hIH7h6tUZLjQnuNDU9xpwiYGZisovE5r6dgktCV61JuPhCrYVQH3QM4WcI1alsvlI8UcRWf8FXANS1nIV89flAZD1F4HZRSbXEwDH98ct3/fY/bplL/FQpO9UzaoXPxWYpYQjf71RaIq/FVz2ipU9CqzACohWLLDKZfRxam4q/hyJGsNQL6CrQCtOjad8H9ogm7fC7gNT69eR5cwfI7/l+1XyEdfum7DzvK6xb13gPCXUvIOBK1SvThdZwYidFvNuIAJpQs3t7veLzLwfzb9zGL878ozU+JXvAwk1ngG+DszFF4Bc6nPM3478zu4/2g+7/z748vkCsLil/5pQJH6m9tH+XCyolovdYAItIBwb4CLVDxcAQPUXYdehbMf+oWwMaMwuJHLyrXDboD8x4fZ/dSyf+hzzb93Lg807wAJmWHH5C8QRYenfi9zASYl2NuiZsjtE/aTzvgYlczemcduaoVXHLACtsW/el6HiGy2io47z+o7DVkZwAOhwAWD7P1Z6rYNY1ISa44/PGQCR+BMQUBEAcAM7DmCJjDUBADBps8j66XzqM0xgkJymzSmbCU3f4/mgMNU3o/m7gp9DQzntrwXAhA1AYQBEE12zB/0/2JRYPVcABJvirRAHqloH7DjgCoQOAN2T1oRJ1v6LurDUciv1DeV0wVQZTZ67ZcP+6zwfRKh+EOgs9+6DO0hy8rREta0QQC4AAM42dGYagHEu0QULIX3U8yGC2n9lcfQPdY1aNfa6XUtEpm20cumUhwsMfbQu0BR/siIXaD/IkYGm+gFI4wWBvPeENV+gxjOeDxE3ZG630sVI/g0sxaUNuzW4Ho4mWxEAm6/zDYJrrSAYaux7Zc4AiMT7KwmCOR+XNWsy7eYR7WvAC3g+pF5O/QgDoD3FxQ4rmjxHoq99Aa9T48dwHQLhdGmwdvlrmAZveui5q89XeWyWitOguxrsyKdBhzUuIGZzrrwXXPltGM95Pogwc4Vl4lZRgYGPai8512Es7mSIwkII4sAw5uZ8IZSyeoDGuHy+AAiNibZKCyFfKh0Due5v/iBESTPc4d4pVBL7ZqZ/zU2JQYyASIqB0F0Ku+KAYwXBZS/zUCR+SmpMzJqPF1p2fFpo6vtXnV8pnGuLC2myEgbZDo7S+pT/SRSRmT1oAb1QUQ1yEtXGi3l0oMGxSCogQryboSqnGYrE/zGrZuhe9fJQZHsyhM1QdtpmyH/3p7D+J1QvKJFLRKIpGS2gZ8K3YyKy8QJGVy8yRCm1gpqVGnIB0NrOpCyG2CFEEjv822G7EerIkyK+u2+N2D8U5eznyj5UZOlmd88MPl98T5gZP8c40DNeOSGycrcNQuKA0Bwv+cxiCUZ23idEEodDzQleuzLposaAHxwqJUTK9CzwPe3mx7/7cyQcS//AmesRWXsf+oJAkQCn7q4V8lbgpETLFTAg5vjAfUhv2VzgOaEpvquuKbEiuKTv9rrm7dfBCi7ZCX+vDDUndsM9oaU7ec1qs5QX9KHEPE1/o9UdSkz/52fVwU8GppPwhj13ODlUlLWM330S03dBfeBJirp4wTwIB0tJUSBAI4ULdhxyvUOK5mnyPDNc40OKepo+xDEwfWbeH6hIGrMLc3N8ZjzvC5ScetiqF45Owww77nDYkxavRlo8iQtIU6TFc5S4PR9AWtxjNuAxJXIvhx4jstEVmImIVN9vdUvaY773LN95BXDrBXU2lseFUyF0BxyFQZFkA+GaEZQdjBRMiJwxmf90qED5Dosil2R964ynwQTIECQWjbJMDmEGtaxgzBsEzAx2YMzNBF2jMYc2zy37NSA6vEZjEGR95oOFytsBnGqvesWwaUWKJr9uncoyl057LoBqpxyebdrhaAEQNhheC64rzqQ4PyXGgOeMyr2U7z1hNULW+cLt0NgFZiVq/+XICLHU8uluJTQVKe63C2JC8bkAtAgLDGta7B6RW6/lJsKO4s54HCzL7+RIz6SdufD88dOzKrrcIjHzD1AUBSoQIus68m3uwxE2CDlrcE6FdDhnBTwOSODhCPeZgKIDEn4m3zmC55IlOfke1CiBuZD69fotwKNXcq+kZhcROflvPOrmY5o5IGAX8ZjMcY9jMs7xmLzSvjtuFzi5XZf1NHznwFyKKJsPVnpvWNYfLjc/LAHD76BUj6O0v+JwGsVidbBeeRNn/XN57seRxTM8myvK+m8wHpSZJcx2QX8Pn4tnBK3p7ilRNtpm+h0/WuFwbkj7s+/pkUoW/JagexyZG1AYCAyLjMXdPitRQ4N+5YaW/nmkeEklqScqOf9b2q0V/6oEfnmiTRBZf0FSzEY4gBm4IETllxFqPIvFVGywNDuU9OqTjsInCUtRMao9BF2oqJqfCFzIIlFzA5G1D6BpKvcDCVfTAiCMQ0cauFikQcncLcnJ4+gSscGys0b8pYgd5CSmp8VYZsnsq7l597MZ45dETgJXz+G8ga9b9E5hLZ+P9tppUdaeXhTLfGexqs96xD4vZJGakgjT/wRjK6TbYgNYxXmeP+g9gRYB3CMyufksMExk/S94aIuZHYQajxIlGwlTsxW6V5GaLR/Jgei5lIbOVEhkxhMY9HLH6TPYyMD8HmcSkA4dYHom0Sqs4qf094dQAhNm9InMmJ+/H/AVzhfAYWsAQ6TaHssyPH5cWbo+JFQbgV6/nqZ+CC4WuCikMbtQXJ9cDKe5cUDDTKWBpbqg4gNTx3Kbpu+59fF95z1puiSXJFAg/wdgbqQ527o5WAAAAABJRU5ErkJggg==" height="16" width="16" alt="" />
+                                    Tailwind for Shiny
+                                </div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4215,7 +4218,7 @@ Guides/Windows/Windows Network Diagnostics.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2023, 10:06:42 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Aug 2023, 12:07:24 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
