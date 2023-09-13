@@ -72,7 +72,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, September 13th 2023, 10:06:29</b>
+  <b>Wednesday, September 13th 2023, 12:08:22</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -163,11 +163,11 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, September 13th 2023, 10:06:29</b>
+  <b>Wednesday, September 13th 2023, 12:08:22</b>
 </p>
 
+* 💪 Opened PR #167 in jimbrig/lossrx
 * ⬆️ Pushed 1 commit to jimbrig/profile-views
-* ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/jimbrig
@@ -175,11 +175,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  28,231 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 7 tasks this week           
-✅  Completed 9,110 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
