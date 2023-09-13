@@ -25,15 +25,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Pull
-        run: |
-          git config --global user.name 'jimbrig'
-          git config --global user.email 'jimmy.briggs@jimbrig.com'
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
-          git checkout "${GITHUB_REF:11}"
-          git stash
-          git pull
-          git stash pop
       - uses: abhisheknaiidu/todoist-readme@master
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
