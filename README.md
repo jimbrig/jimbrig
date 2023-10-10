@@ -72,7 +72,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, October 10th 2023, 4:06:53</b>
+  <b>Tuesday, October 10th 2023, 8:06:16</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -163,23 +163,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, October 10th 2023, 4:06:53</b>
+  <b>Tuesday, October 10th 2023, 8:06:16</b>
 </p>
 
+* ⬆️ Pushed 3 commits to lakecountryhuntclub/dnr-map-data-model
+* ⬆️ Pushed 2 commits to lakecountryhuntclub/dnr-map-data-model
+* ⬆️ Pushed 2 commits to lakecountryhuntclub/dnr-map-data-model
+* ⬆️ Pushed 1 commit to jimbrig/profile-views
 * 🎉 Merged PR #191 in jimbrig/lossrx
-* ⬆️ Pushed 3 commits to jimbrig/lossrx
-* ⬆️ Pushed 4 commits to jimbrig/lossrx
-* ⬆️ Pushed 2 commits to jimbrig/lossrx
-* 🎉 Merged PR #192 in jimbrig/lossrx
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  28,453 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 9,230 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
