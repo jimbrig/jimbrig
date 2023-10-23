@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.INSIGHTS_TOKEN }}
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version: 14.17.0
       - uses: gayanvoice/github-profile-views-counter-action@3.0.0
