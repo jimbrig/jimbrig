@@ -7,10 +7,9 @@ Thanks for viewing the source code. #realdevs
 <p align="center"><a href="https//github.com/jimbrig/profile-views" target="blank"><img align="center" src="https://github.com/jimbrig/profile-views/blob/master/svg/profile/badge.svg" alt="views" /></a><br><em>(Past 24 Hours)</em></p>
 
 <p align="center">
-  <a href="https://profile.codersrank.io/user/jimbrig/" target="blank"><img align="center" src="https://img.shields.io/badge/CodersRank-jimbrig-success?style=social&logo=codersrank" alt="codersrank" /></a>
-  <br>
-  <br>
-  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~13,122-blue"/></a>
+	<a href="https://profile.codersrank.io/user/jimbrig/" target="blank">
+		<img align="center" src="https://img.shields.io/badge/CodersRank-jimbrig-success?style=social&logo=codersrank" alt="codersrank" />
+	</a>
 </p>
 
 ***
@@ -73,7 +72,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, November 14th 2023, 2:14:00</b>
+  <b>Tuesday, November 14th 2023, 2:21:32</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -164,23 +163,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, November 14th 2023, 2:14:00</b>
+  <b>Tuesday, November 14th 2023, 2:21:32</b>
 </p>
 
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
+* ⬆️ Pushed 1 commit to jimbrig/jimbrig
 * ⬆️ Pushed 1 commit to jimbrig/JimsObsidianVault
 * ⬆️ Pushed 1 commit to jimbrig/JimsObsidianVault
 * ⬆️ Pushed 1 commit to jimbrig/JimsObsidianVault
-* ❗️ Opened issue #19 in sunxvming/obsidian-vscode-editor
-* ⬆️ Pushed 1 commit to jimbrig/profile-views
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  28,578 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 9,283 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
