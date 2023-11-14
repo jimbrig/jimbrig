@@ -7,9 +7,10 @@ Thanks for viewing the source code. #realdevs
 <p align="center"><a href="https//github.com/jimbrig/profile-views" target="blank"><img align="center" src="https://github.com/jimbrig/profile-views/blob/master/svg/profile/badge.svg" alt="views" /></a><br><em>(Past 24 Hours)</em></p>
 
 <p align="center">
-	<a href="https://profile.codersrank.io/user/jimbrig/" target="blank">
-		<img align="center" src="https://img.shields.io/badge/CodersRank-jimbrig-success?style=social&logo=codersrank" alt="codersrank" />
-	</a>
+  <a href="https://profile.codersrank.io/user/jimbrig/" target="blank"><img align="center" src="https://img.shields.io/badge/CodersRank-jimbrig-success?style=social&logo=codersrank" alt="codersrank" /></a>
+  <br>
+  <br>
+  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~13,122-blue"/></a>
 </p>
 
 ***
