@@ -14,4 +14,4 @@ jobs:
         GH_EMAIL: 'jimmy.briggs@jimbrig.com'
     - name: Get PSGallery Downloads
       shell: pwsh
-      run: ./.github/scripts/Update-ProfilePSGalleryDownloads.ps1
+      run: ./.github/scripts/Update-PSGalleryDownloads.ps1
