@@ -10,7 +10,7 @@ Thanks for viewing the source code. #realdevs
   <a href="https://profile.codersrank.io/user/jimbrig/" target="blank"><img align="center" src="https://img.shields.io/badge/CodersRank-jimbrig-success?style=social&logo=codersrank" alt="codersrank" /></a>
   <br>
   <br>
-  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~2,118-blue"/></a>
+  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~2,120-blue"/></a>
 </p>
 
 ***
@@ -81,7 +81,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, March 2nd 2024, 10:06:14</b>
+  <b>Sunday, March 3rd 2024, 12:24:06</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -156,23 +156,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, March 2nd 2024, 10:06:14</b>
+  <b>Sunday, March 3rd 2024, 12:24:06</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/profile-views
-* ⬆️ Pushed 1 commit to jimbrig/profile-views
-* 💪 Opened PR #316 in jimbrig/lossrx
-* ⬆️ Pushed 1 commit to jimbrig/profile-views
+* ⬆️ Pushed 2 commits to jimbrig/upptime
+* ⬆️ Pushed 1 commit to jimbrig/upptime
+* ⬆️ Pushed 14 commits to jimbrig/upptime
 * ⬆️ Pushed 1 commit to jimbrig/profile-views
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  28,927 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 4 tasks this week           
-✅  Completed 9,390 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
