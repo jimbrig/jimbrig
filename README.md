@@ -81,7 +81,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, March 5th 2024, 12:08:31</b>
+  <b>Tuesday, March 5th 2024, 4:07:08</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -172,23 +172,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, March 5th 2024, 12:08:31</b>
+  <b>Tuesday, March 5th 2024, 4:07:08</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/profile-views
+* 💪 Opened PR #320 in jimbrig/lossrx
+* ⬆️ Pushed 1 commit to jimbrig/profile-views
 * ⬆️ Pushed 2 commits to jimbrig/upptime
 * ⬆️ Pushed 1 commit to jimbrig/upptime
-* ❗️ Closed issue #125 in jimbrig/upptime
-* 🗣 Commented on #125 in jimbrig/upptime
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  28,946 Karma Points           
-🌸  Completed 2 tasks today           
-🗓  Completed 14 tasks this week           
-✅  Completed 9,404 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
