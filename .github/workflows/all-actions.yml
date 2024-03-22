@@ -16,7 +16,7 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - uses: actions/checkout@v4
-        - uses: Matt-Gleich/profile_stack@master
+        - uses: gleich/profile_stack@master
           with:
             path: ./config/stack.yml
           
