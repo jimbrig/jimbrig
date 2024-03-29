@@ -168,10 +168,10 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  29,360 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 8 tasks this week           
-✅  Completed 9,538 tasks so far           
+🏆  29,379 Karma Points           
+🌸  Completed 8 tasks today           
+🗓  Completed 15 tasks this week           
+✅  Completed 9,545 tasks so far           
 ⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
