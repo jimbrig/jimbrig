@@ -10,7 +10,7 @@ Thanks for viewing the source code. #realdevs
   <a href="https://profile.codersrank.io/user/jimbrig/" target="blank"><img align="center" src="https://img.shields.io/badge/CodersRank-jimbrig-success?style=social&logo=codersrank" alt="codersrank" /></a>
   <br>
   <br>
-  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~2,794-blue"/></a>
+  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~2,797-blue"/></a>
 </p>
 
 ***
@@ -81,7 +81,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, June 5th 2024, 12:24:08</b>
+  <b>Wednesday, June 5th 2024, 2:18:17</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -172,23 +172,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, June 5th 2024, 12:24:08</b>
+  <b>Wednesday, June 5th 2024, 2:18:17</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/profile-views
-* ⬆️ Pushed 2 commits to noclocks/template-python-package
-* 🎉 Merged PR #39 in noclocks/template-python-package
-* ⬆️ Pushed 1 commit to jimbrig/profile-views
+* ⬆️ Pushed 2 commits to jimbrig/upptime
+* ⬆️ Pushed 1 commit to jimbrig/upptime
+* ⬆️ Pushed 14 commits to jimbrig/upptime
 * ⬆️ Pushed 1 commit to jimbrig/profile-views
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  29,806 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 9,685 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
