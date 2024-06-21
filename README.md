@@ -81,7 +81,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, June 21st 2024, 8:07:17</b>
+  <b>Friday, June 21st 2024, 10:06:33</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -172,7 +172,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Friday, June 21st 2024, 8:07:17</b>
+  <b>Friday, June 21st 2024, 10:06:33</b>
 </p>
 
 * ⬆️ Pushed 2 commits to noclocks/demo-rshiny-cloudrun
@@ -184,11 +184,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  29,936 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 9,703 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
