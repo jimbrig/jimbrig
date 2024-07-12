@@ -81,7 +81,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, July 12th 2024, 12:25:07</b>
+  <b>Friday, July 12th 2024, 2:19:10</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -172,7 +172,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Friday, July 12th 2024, 12:25:07</b>
+  <b>Friday, July 12th 2024, 2:19:10</b>
 </p>
 
 * 💪 Opened PR #6 in noclocks/noclocksr
@@ -184,11 +184,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  30,041 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 1 tasks this week           
-✅  Completed 9,759 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
