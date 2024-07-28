@@ -81,7 +81,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, July 27th 2024, 10:06:21</b>
+  <b>Sunday, July 28th 2024, 2:21:39</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -172,23 +172,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, July 27th 2024, 10:06:21</b>
+  <b>Sunday, July 28th 2024, 2:21:39</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/profile-views
+* ⬆️ Pushed 2 commits to jimbrig/upptime
+* ⬆️ Pushed 1 commit to jimbrig/upptime
+* ⬆️ Pushed 14 commits to jimbrig/upptime
 * ⬆️ Pushed 1 commit to jimbrig/profile-views
-* ⬆️ Pushed 1 commit to jimbrig/profile-views
-* ⬆️ Pushed 2 commits to noclocks/template-python-package
-* 🎉 Merged PR #44 in noclocks/template-python-package
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  30,131 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 8 tasks this week           
-✅  Completed 9,790 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
