@@ -10,7 +10,7 @@ Thanks for viewing the source code. #realdevs
   <a href="https://profile.codersrank.io/user/jimbrig/" target="blank"><img align="center" src="https://img.shields.io/badge/CodersRank-jimbrig-success?style=social&logo=codersrank" alt="codersrank" /></a>
   <br>
   <br>
-  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~4,104-blue"/></a>
+  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~4,110-blue"/></a>
 </p>
 
 ***
@@ -81,7 +81,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, September 17th 2024, 6:08:17</b>
+  <b>Wednesday, September 18th 2024, 12:27:45</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -172,23 +172,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, September 17th 2024, 6:08:17</b>
+  <b>Wednesday, September 18th 2024, 12:27:45</b>
 </p>
 
-* ❗️ Opened issue #29 in noclocks/gmhleasr
-* ❗️ Opened issue #28 in noclocks/gmhleasr
-* ❗️ Opened issue #27 in noclocks/gmhleasr
-* ⬆️ Pushed 1 commit to jimbrig/profile-views
+* ⬆️ Pushed 14 commits to jimbrig/upptime
+* ❗️ Opened issue #30 in noclocks/gmhleasr
+* ❗️ Closed issue #9 in noclocks/noclocksr
+* ⬆️ Pushed 2 commits to noclocks/noclocksr
 * ⬆️ Pushed 1 commit to jimbrig/profile-views
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  30,537 Karma Points           
-🌸  Completed 17 tasks today           
-🗓  Completed 18 tasks this week           
-✅  Completed 9,893 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
