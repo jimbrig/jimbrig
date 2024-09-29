@@ -81,7 +81,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, September 29th 2024, 12:32:21</b>
+  <b>Sunday, September 29th 2024, 2:31:34</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -172,23 +172,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Sunday, September 29th 2024, 12:32:21</b>
+  <b>Sunday, September 29th 2024, 2:31:34</b>
 </p>
 
+* ⬆️ Pushed 2 commits to noclocks/uptime
+* ⬆️ Pushed 2 commits to noclocks/noclocks-uptime
+* ⬆️ Pushed 1 commit to noclocks/uptime
+* ⬆️ Pushed 1 commit to noclocks/noclocks-uptime
 * ⬆️ Pushed 1 commit to jimbrig/upptime
-* ⬆️ Pushed 10 commits to noclocks/noclocks-uptime
-* ⬆️ Pushed 9 commits to noclocks/uptime
-* 🗣 Commented on #23 in Yakitrak/obsidian-cli
-* ⬆️ Pushed 14 commits to jimbrig/upptime
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  30,587 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 15 tasks this week           
-✅  Completed 9,908 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
