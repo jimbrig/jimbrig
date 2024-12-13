@@ -10,7 +10,7 @@ Thanks for viewing the source code. #realdevs
   <a href="https://profile.codersrank.io/user/jimbrig/" target="blank"><img align="center" src="https://img.shields.io/badge/CodersRank-jimbrig-success?style=social&logo=codersrank" alt="codersrank" /></a>
   <br>
   <br>
-  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~5,477-blue"/></a>
+  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~5,479-blue"/></a>
 </p>
 
 ***
@@ -81,7 +81,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, December 12th 2024, 8:08:13</b>
+  <b>Friday, December 13th 2024, 12:32:40</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -156,23 +156,18 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, December 12th 2024, 8:08:13</b>
+  <b>Friday, December 13th 2024, 12:32:40</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/profile-views
+* ⬆️ Pushed 1 commit to jimbrig/profile-views
 * ⬆️ Pushed 1 commit to jimbrig/upptime
 * ⬆️ Pushed 14 commits to jimbrig/upptime
-* ⬆️ Pushed 1 commit to jimbrig/profile-views
 * ⬆️ Pushed 1 commit to jimbrig/profile-views
 
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  30,999 Karma Points           
-🌸  Completed 18 tasks today           
-🗓  Completed 19 tasks this week           
-✅  Completed 9,983 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
