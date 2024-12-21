@@ -10,7 +10,7 @@ Thanks for viewing the source code. #realdevs
   <a href="https://profile.codersrank.io/user/jimbrig/" target="blank"><img align="center" src="https://img.shields.io/badge/CodersRank-jimbrig-success?style=social&logo=codersrank" alt="codersrank" /></a>
   <br>
   <br>
-  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~6,029-blue"/></a>
+  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~6,045-blue"/></a>
 </p>
 
 ***
@@ -81,7 +81,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Friday, December 20th 2024, 10:06:41</b>
+  <b>Saturday, December 21st 2024, 12:29:11</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -172,7 +172,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Friday, December 20th 2024, 10:06:41</b>
+  <b>Saturday, December 21st 2024, 12:29:11</b>
 </p>
 
 * ⬆️ Pushed 15 commits to noclocks/gmhcommunities
@@ -184,11 +184,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  31,057 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 11 tasks this week           
-✅  Completed 9,994 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
