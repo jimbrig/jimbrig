@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4259" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4448" class="">
     <defs>
         <style/>
     </defs>
@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            26544 Commits
+                            26545 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -527,13 +527,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 370 days
+                            Current streak 371 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 370 days
+                            Best streak 371 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -551,7 +551,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~29.58
+                            Average per day at ~29.54
                         </div>
                     </section>
                 </div>
@@ -2526,6 +2526,11 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.899328859060403 0,3.899328859060403 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.899328859060403 1.7,4.899328859060403 z"/>
                             </g>
+                            <g transform="translate(-10.2, 11.395973154362416)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.604026845637584 0,1.604026845637584 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.604026845637584 1.7,2.604026845637584 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2615,7 +2620,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        5.50k
+                                        5.51k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3040,6 +3045,78 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 14 commits in
+                                        <span class="repo">jimbrig/upptime</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b9b9510</div>
+                                        <div class="message">🟩 R Universe is up (200 in 188 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a295b4d</div>
+                                        <div class="message">🟩 jimstools Docs is up (200 in 17 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fdb0fcc</div>
+                                        <div class="message">🟩 lossrx Docs is up (200 in 25 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c3c4a5</div>
+                                        <div class="message">🟩 The R Dispatch Blogdown is up (200 in 142 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#859477a</div>
+                                        <div class="message">🟩 JimsDocs Distill Blog is up (200 in 179 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a6652e</div>
+                                        <div class="message">🟩 GitHub Stars App is up (200 in 2804 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bd1a21</div>
+                                        <div class="message">🟩 GitHub Issues App is up (200 in 263 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f71954a</div>
+                                        <div class="message">🟩 Clip2Mark is up (200 in 113 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3f0246</div>
+                                        <div class="message">🟩 GitHub Profile is up (200 in 346 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17ad62b</div>
+                                        <div class="message">🟩 Devfolio is up (200 in 20 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2067c6</div>
+                                        <div class="message">🟩 Projects Site is up (200 in 222 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8df35c3</div>
+                                        <div class="message">🟩 KaaS - GitHub Pages is up (200 in 170 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#987b92c</div>
+                                        <div class="message">🟩 KaaS - Obsidian Publish is up (200 in 805 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88caa11</div>
+                                        <div class="message">🟥 Property Allocation WebApp is down (500 in 220 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">jimbrig/profile-views</span>
                                     </div>
@@ -3106,26 +3183,6 @@
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c48acdd</div>
-                                        <div class="message">docs: readme link to live apps</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">noclocks/gmhdatahub</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#c48acdd</div>
                                         <div class="message">docs: readme link to live apps</div>
@@ -3624,7 +3681,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 476k out of 227m repositories</span>
+                                    <span class="gh">ranked 476k out of 237m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 77 stars</div>
                             </div>
@@ -3832,7 +3889,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 7 Feb 2025, 13:42:53
+                            On 6 Feb 2025, 18:27:00
                         </div>
                     </section>
                 </div>
@@ -3842,17 +3899,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            bugs
+                            WIP on feature/survey-admin
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">5e934ff0</span>
-                            <span class="code">R/mod_survey_parking.R</span>
+                            <span class="code">6b8c6c7f</span>
+                            <span class="code">inst/database/schemas/survey/seed/seed.survey.leasing_weeks.sql</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
-                                <span class="snippet deletions">--2</span>
+                                <span class="snippet additions">++4</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -3860,7 +3917,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -155,8 +155,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">tbl_data &lt;- parking_data()<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">reactable::reactable(<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  data,<br /></span><span class="token prefix deleted">-</span><span class="token line">  defaultPageSize = nrow(data),<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  tbl_data,<br /></span><span class="token prefix inserted">+</span><span class="token line">  defaultPageSize = nrow(tbl_data),<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  searchable = TRUE,<br /></span><span class="token prefix unchanged">·</span><span class="token line">  bordered = TRUE,<br /></span><span class="token prefix unchanged">·</span><span class="token line">  striped = TRUE,</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -2,4 +2,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">VALUES<br /></span><span class="token prefix unchanged">·</span><span class="token line">('2024-12-30'),<br /></span><span class="token prefix unchanged">·</span><span class="token line">('2025-01-06'),<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">('2025-01-13');<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">('2025-01-13'),<br /></span><span class="token prefix inserted">+</span><span class="token line">('2025-01-20'),<br /></span><span class="token prefix inserted">+</span><span class="token line">('2025-01-27'),<br /></span><span class="token prefix inserted">+</span><span class="token line">('2025-02-03');</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -3906,7 +3963,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Feb 2025, 18:04:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2025, 19:14:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
