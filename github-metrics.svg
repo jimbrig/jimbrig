@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            26962 Commits
+                            27051 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -549,7 +549,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~28.93
+                            Average per day at ~29.09
                         </div>
                     </section>
                 </div>
@@ -2398,20 +2398,20 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7883211678832116 0,1.7883211678832116 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7883211678832116 1.7,2.7883211678832116 z"/>
                             </g>
-                            <g transform="translate(-5.1, 8.167883211678832)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.832116788321168 0,1.832116788321168 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.832116788321168 1.7,2.832116788321168 z"/>
+                            <g transform="translate(-5.1, 7.072992700729927)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.927007299270073 0,2.927007299270073 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.927007299270073 1.7,3.927007299270073 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.08029197080292)">
+                            <g transform="translate(-6.8, 8.467153284671532)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9197080291970803 0,1.9197080291970803 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9197080291970803 1.7,2.9197080291970803 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5328467153284673 0,2.5328467153284673 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5328467153284673 1.7,3.5328467153284673 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.255474452554745)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7445255474452557 0,1.7445255474452555 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7445255474452555 1.7,2.7445255474452557 z"/>
+                            <g transform="translate(-8.5, 10.124087591240876)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.875912408759124 0,1.875912408759124 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.875912408759124 1.7,2.875912408759124 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.211678832116789)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2425,15 +2425,15 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.656934306569343 0,1.6569343065693432 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6569343065693432 1.7,2.656934306569343 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.255474452554745)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7445255474452557 0,1.7445255474452555 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7445255474452555 1.7,2.7445255474452557 z"/>
+                            <g transform="translate(-1.7, 5.686131386861314)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3138686131386863 0,2.3138686131386863 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3138686131386863 1.7,3.3138686131386863 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.255474452554745)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7445255474452557 0,1.7445255474452555 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7445255474452555 1.7,2.7445255474452557 z"/>
+                            <g transform="translate(-3.4, 7.08029197080292)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9197080291970803 0,1.9197080291970803 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9197080291970803 1.7,2.9197080291970803 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.518248175182482)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2472,10 +2472,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.613138686131387 0,1.613138686131387 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.613138686131387 1.7,2.613138686131387 z"/>
                             </g>
-                            <g transform="translate(-5.1, 7.817518248175182)">
+                            <g transform="translate(-5.1, 7.7299270072992705)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.1824817518248176 0,2.1824817518248176 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.1824817518248176 1.7,3.1824817518248176 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.27007299270073 0,2.27007299270073 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.27007299270073 1.7,3.27007299270073 z"/>
                             </g>
                             <g transform="translate(-6.8, 8.686131386861314)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2520,7 +2520,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>easyselfhost/self-host</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self hosting configuration and scripts</div>
@@ -2573,7 +2573,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steenharsted/AchyBot</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AchyBot is a chatbot designed to simulate interactions with patients experiencing musculoskeletal health issues. It serves as an educational tool for students, providing a realistic and interactive way to practice clinical reasoning, patient communication, and diagnostic skills in a safe learning environment.</div>
@@ -2620,7 +2620,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jcheng5/llm-quickstart</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2668,7 +2668,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>beanumber/chchchanges</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">analyzing changes in a live git repository</div>
@@ -2715,7 +2715,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dylanpieper/hellmer</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Batch Processing for Chat Models</div>
@@ -2768,7 +2768,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>research-flow/rflib</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2822,7 +2822,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dylanpieper/shinysurveyjs</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create and Deploy Survey Applications</div>
@@ -2875,7 +2875,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simonpcouch/syrup</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Measure Memory and CPU Usage of R Code</div>
@@ -3385,7 +3385,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.0369609856263 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.12183436002738 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3611,7 +3611,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 480k out of 229m repositories</span>
+                                    <span class="gh">ranked 480k out of 231m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 77 stars</div>
                             </div>
@@ -3836,7 +3836,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">d332215b</span>
-                            <span class="code">man/hunter_get_email_address.Rd</span>
+                            <span class="code">man/validate_address.Rd</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -3847,7 +3847,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,5 +1,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">% Generated by roxygen2: do not edit by hand<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">% Please edit documentation in R/hunterio.R<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">% Please edit documentation in R/hunter.R<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">\name{hunter_get_email_address}<br /></span><span class="token prefix unchanged">·</span><span class="token line">\alias{hunter_get_email_address}<br /></span><span class="token prefix unchanged">·</span><span class="token line">\title{Get Email Address via Hunter.io}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,5 +1,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">% Generated by roxygen2: do not edit by hand<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">% Please edit documentation in R/utils.R<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">% Please edit documentation in R/validation.R<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">\name{validate_address}<br /></span><span class="token prefix unchanged">·</span><span class="token line">\alias{validate_address}<br /></span><span class="token prefix unchanged">·</span><span class="token line">\title{Validate Address Format}</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -3893,7 +3893,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2025, 14:03:57 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Mar 2025, 15:04:07 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
