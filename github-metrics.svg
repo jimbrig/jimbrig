@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4806" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4413" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}.field.license.details{display:flex;justify-content:space-between}.introduction,.sponsors{white-space:normal;margin:0 13px 2px}.sponsors.goal,code{padding:6px 8px;border-radius:5px;background-color:#7777771f}.sponsors .goal-text{display:flex;justify-content:space-between;font-style:italic;font-size:12px;margin-bottom:4px}.sponsors .avatar{margin:2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.namespace{color:#b44418}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}.field.license.details{display:flex;justify-content:space-between}.introduction,.sponsors{white-space:normal;margin:0 13px 2px}.sponsors.goal,code{padding:6px 8px;border-radius:5px;background-color:#7777771f}.sponsors .goal-text{display:flex;justify-content:space-between;font-style:italic;font-size:12px;margin-bottom:4px}.sponsors .avatar{margin:2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            27801 Commits
+                            27803 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -491,7 +491,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 127 commits)</small>
+                    <small class="h-details">(computed from last 128 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2526,7 +2526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dend/windows-dev-box</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💻 Scripts and relevant configuration to set up my Windows development box.</div>
@@ -2579,7 +2579,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swyxio/bolt.talk</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prompt, run, edit, and deploy full-stack web applications using any LLM you want!</div>
@@ -2632,7 +2632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ql0ud/WinPurge</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated Windows cleanup tool for System Administrators and Power Users. Reclaim disk space, boost performance, and streamline system maintenance with a single PowerShell script.</div>
@@ -2685,7 +2685,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>burgr033/dotfiles</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">these are my dotfiles managed by chezmoi</div>
@@ -2732,7 +2732,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sarafian/MarkdownPS</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powershell module to render markdown files</div>
@@ -2785,7 +2785,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sarafian/XWrite</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powershell module that enhances the output of Write-Host, Write-Debug, Write-Verbose, Write-Information and  Write-Warning</div>
@@ -2838,7 +2838,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-webui/mcpo</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, secure MCP-to-OpenAPI proxy server</div>
@@ -2859,7 +2859,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        183
+                                        185
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2872,7 +2872,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        15
+                                        16
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2891,7 +2891,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>obsidianmd/obsidian-clipper</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.</div>
@@ -2925,7 +2925,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        321
+                                        322
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2944,7 +2944,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mnfst/manifest</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦚 The 1-file backend.</div>
@@ -2997,7 +2997,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mr-fatalyst/fastopenapi</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FastOpenAPI is a library for generating and integrating OpenAPI schemas using Pydantic v2 and various frameworks (Falcon, Flask, Quart, Sanic, Starlette, Tornado).</div>
@@ -3054,6 +3054,42 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">noclocks/gmhdatahub</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#75008a8</div>
+                                        <div class="message">feat(data): enhance data processing and Docker integration
+
+Introduces new function for updating pre-lease tables with error handling
+Enhances Docker script with configurable paths for build files
+Streamlines pre-lease report parsing to improve data consistency
+
+These changes optimize data processing for pre-lease reports and ensure error handling in database updates. The Docker script enhancements provide better configuration control.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddc43c8</div>
+                                        <div class="message">fix(data): correct column handling in data processing
+
+Fixes incorrect function calls for column handling by switching from function calls to variable references.
+
+This resolves potential runtime errors caused by calling nonexistent functions.
+
+No Breaking Changes</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -3270,132 +3306,6 @@ These schemas define the expected data structure and validation rules for each d
                                 <div class="details">
                                     <div> in <span class="repo">noclocks/noclocksai</span></div>
                                     <div>44 files changed <span class="code">++41224 --161</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 22 commits in
-                                        <span class="repo">noclocks/noclocksai</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7e492dc</div>
-                                        <div class="message">chore: update .Rbuildignore to exclude .repomixignore
-
-This change adds the .repomixignore file to the list of ignored files during the build process, ensuring it is not included in the package.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2fa5cb</div>
-                                        <div class="message">[chore]: update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3ef137</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#172d08d</div>
-                                        <div class="message">feat(namespace): add multiple exports for configuration and utility functions
-
-This commit adds a comprehensive list of exported functions to the NAMESPACE file, enhancing the package's functionality. The new exports include various checks, database operations, encoding/decoding utilities, and tools for interacting with APIs.
-
-No Breaking Changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e83d979</div>
-                                        <div class="message">refactor(NAMESPACE): remove unnecessary exports from NAMESPACE
-
-Update the .Rbuildignore to exclude configuration files and improve code clarity by removing unused exports in the NAMESPACE file.
-
-No Breaking Changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d204a15</div>
-                                        <div class="message">[chore]: update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ca21f0</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a98f313</div>
-                                        <div class="message">fix: update .gitattributes to include HTML files as generated
-
-This change updates the .gitattributes file to classify HTML files as generated. This helps in better handling of documentation and code analysis by GitHub Linguist.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#baab4d9</div>
-                                        <div class="message">[chore]: update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e30b30</div>
-                                        <div class="message">refactor(logger): remove unused logging functions and documentation
-
-This commit removes several unused logging functions and their associated documentation from the codebase. The changes include the deletion of `log_function_call`, `logger_hooks_init`, `logger_hooks_reset`, `logger_init`, and `logger_reset` functions, as well as their references in the NAMESPACE file.
-
-No Breaking Changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5583ef3</div>
-                                        <div class="message">feat: add new exports and update configuration
-
-- Added new exports for `eda_agent`, `embed_ollama`, `embed_openai`, `git_agent`, and `mermaid_agent`.
-- Updated application name in the configuration from "cspr" to "noclocksai".
-- Corrected function name from `.onLoan` to `.onLoad` for proper package loading behavior.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a41edc9</div>
-                                        <div class="message">[chore]: update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a323e81</div>
-                                        <div class="message">feat(agents): refactor agent class and add new agent functions
-
-Add new functions for creating specialized agents including EDA, Git, and Mermaid diagram agents. Refactored the existing Agent class to improve structure and maintainability.
-
-New documentation files generated for each agent function to provide usage details.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#217cdac</div>
-                                        <div class="message">[chore]: update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e001dcb</div>
-                                        <div class="message">feat(docs): enhance README with tool registration and Mermaid diagram example
-
-Add examples for registering tools in the chat agent and creating Mermaid diagrams. Include a new image for the Mermaid diagram illustration to improve documentation clarity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cbaeaa</div>
-                                        <div class="message">[chore]: update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#151f968</div>
-                                        <div class="message">docs: update installation instructions in README.md
-
-Change the installation command from `remotes::install_github` to `pak::pak` for better package management.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20c3c14</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#851ecd3</div>
-                                        <div class="message">docs: update README.md badges for test coverage and CI workflows
-
-Updated the badges in the README to reflect the current test coverage and CI workflow statuses. This includes changes to the links for better clarity and added a badge for automated changelog generation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35cbc44</div>
-                                        <div class="message">[chore]: update changelog</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3849,7 +3759,7 @@ Updated the badges in the README to reflect the current test coverage and CI wor
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 481k out of 233m repositories</span>
+                                    <span class="gh">ranked 481k out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 78 stars</div>
                             </div>
@@ -4090,7 +4000,7 @@ Updated the badges in the README to reflect the current test coverage and CI wor
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">noclocks/noclocksai</span>
+                            <span class="blue space">jimbrig/psprof</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -4098,7 +4008,7 @@ Updated the badges in the README to reflect the current test coverage and CI wor
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 1 Apr 2025, 16:53:08
+                            On 1 Apr 2025, 14:34:08
                         </div>
                     </section>
                 </div>
@@ -4108,20 +4018,22 @@ Updated the badges in the README to reflect the current test coverage and CI wor
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            config: update build and ignore configurations
+                            refactor(aliases): restructure PowerShell alias files
 
-Add additional patterns to .Rbuildignore and .repomixignore to enhance configuration and development flow.
+Consolidates alias definitions into separate, categorized files
+for development, navigation, program, and system aliases.
+Replaces Command.Aliases.ps1 with more modular PSD1 files
+and updates import logic in Profile.Aliases.ps1 to ensure
+aliases are loaded correctly.
 
-Extend DESCRIPTION and NAMESPACE to include new imports and exports that align with updated functionality.
-
-Adjust repomix.config.json to refine output style, structure, and directory inclusion for project metadata documentation.
+Addresses file organization and maintainability.
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">a186b385</span>
-                            <span class="code">DESCRIPTION</span>
+                            <span class="code">2ab34ffe</span>
+                            <span class="code">Profile/Aliases/System.Aliases.psd1</span>
                             <span class="code">
                                 <span class="snippet additions">++3</span>
                                 <span class="snippet deletions">--0</span>
@@ -4132,7 +4044,7 @@ Adjust repomix.config.json to refine output style, structure, and directory incl
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -52,7 +52,10 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">stats,<br /></span><span class="token prefix unchanged">·</span><span class="token line">stringr,<br /></span><span class="token prefix unchanged">·</span><span class="token line">tibble,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">tibblify,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">tidyselect,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">tidyxl,<br /></span><span class="token prefix inserted">+</span><span class="token line">tools,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">utils,<br /></span><span class="token prefix unchanged">·</span><span class="token line">uuid,<br /></span><span class="token prefix unchanged">·</span><span class="token line">whisker,</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">﻿@{<br /></span><span class="token prefix inserted">+</span><span class="token line">   'reboot' = 'Restart-Computer'<br /></span><span class="token prefix inserted">+</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4178,7 +4090,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2025, 08:06:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Apr 2025, 09:11:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
