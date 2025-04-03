@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2990" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2937" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            27816 Commits
+                            27817 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2710,7 +2710,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        232
+                                        233
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2723,7 +2723,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        17
+                                        18
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2919,6 +2919,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#7461f3c</div>
+                                        <div class="message">Update views</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/profile-views</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#074e358</div>
                                         <div class="message">Update views</div>
                                     </div>
@@ -3005,57 +3025,6 @@ Add verbose logging at the end of the function to aid debugging.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">jimbrig/psprof</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#973a6c1</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b81c937</div>
-                                        <div class="message">config: update PowerShell execution policies
-
-Adds script execution policy and experimental features to enhance functionality and flexibility of PowerShell settings.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b5f27f</div>
-                                        <div class="message">docs: add WindowsCommands.md with Windows tools documentation
-
-Adds a new Markdown file documenting various useful command-line tools, system shortcuts, Control Panel applets, and utilities available in Windows. This provides a quick reference guide for users to utilize Windows features more effectively.
-
-No related issue references.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4acc4e2</div>
-                                        <div class="message">feat(config): add PowerShell snippet and update recommendations
-
-Integrates a new PowerShell code snippet template for
-streamlined script writing. Updates the recommended VSCode
-extensions list to include an additional Pester testing extension
-and enhances documentation for workspace configuration.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a4c40c</div>
-                                        <div class="message">docs: add links to PowerShell configuration and profiles
-
-Enhances documentation with links to PowerShell configuration
-and profiles, providing users with more resources for setup
-and management insights.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3099,7 +3068,7 @@ and management insights.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 1 Apr 2025, 16:58:50
+                            On 1 Apr 2025, 16:52:56
                         </div>
                     </section>
                 </div>
@@ -3109,22 +3078,18 @@ and management insights.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat(config): add generic API key retrieval function
+                            refactor(NAMESPACE): remove unnecessary exports from NAMESPACE
 
-Introduces a new `get_api_key` function to simplify the retrieval
-of different API keys by name. This enhancement improves API key
-management and streamlines the configuration process by reducing
-redundant function definitions.
+Update the .Rbuildignore to exclude configuration files and improve code clarity by removing unused exports in the NAMESPACE file.
 
-Includes updates to documentation, exported functions, and import
-statements to support this feature.
+No Breaking Changes
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">932cc0ca</span>
-                            <span class="code">R/checks.R</span>
+                            <span class="code">e83d979d</span>
+                            <span class="code">R/langfuse.R</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -3135,7 +3100,7 @@ statements to support this feature.
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -191,7 +191,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#' @rdname checks<br /></span><span class="token prefix unchanged">·</span><span class="token line">#' @export<br /></span><span class="token prefix unchanged">·</span><span class="token line">check_tibble &lt;- function(data, arg = rlang::caller_arg(data), call = rlang::caller_env()) {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">check_inherits(data, "tbl_df", obj_arg = arg, call = call)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">check_inherits(data, "tbl_df", arg = arg, call = call)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">invisible(NULL)<br /></span><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -403,7 +403,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"># Validate score<br /></span><span class="token prefix unchanged">·</span><span class="token line">if (!is.numeric(score) || score &lt; 0 || score &gt; 1) {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  cli::cli_alert_error("Score must be a numeric value between 0 and 1")<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  cli::cli_alert_danger("Score must be a numeric value between 0 and 1")<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  return(invisible(FALSE))<br /></span><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -3181,7 +3146,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2025, 06:04:49 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2025, 07:03:58 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
