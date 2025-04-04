@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2836" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2809" class="">
     <defs>
         <style/>
     </defs>
@@ -2384,7 +2384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukakoning/documentWithPrompt</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RStudio add-in to assist in documenting code using large language models</div>
@@ -2437,7 +2437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gaborcsardi/tab</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pretty tables at the R prompt</div>
@@ -2490,7 +2490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>miracum/misc-dizutils</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mirror of UKER internal git</div>
@@ -2543,7 +2543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AtlasOfLivingAustralia/potions</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">easy options management in R</div>
@@ -2590,7 +2590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>r-quantities/errors</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Uncertainty Propagation for R Vectors</div>
@@ -2643,7 +2643,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidchall/jinjar</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Templating engine for R inspired by Jinja</div>
@@ -2696,7 +2696,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SeanFobbe/c-dbr</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Corpus des Deutschen Bundesrechts (C-DBR)</div>
@@ -2749,7 +2749,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HanjoStudy/dbbasic</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3063,7 +3063,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 1 Apr 2025, 14:34:08
+                            On 1 Apr 2025, 12:51:34
                         </div>
                     </section>
                 </div>
@@ -3073,24 +3073,27 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            refactor(aliases): restructure PowerShell alias files
+                            Adds initial PowerShell profile configuration
 
-Consolidates alias definitions into separate, categorized files
-for development, navigation, program, and system aliases.
-Replaces Command.Aliases.ps1 with more modular PSD1 files
-and updates import logic in Profile.Aliases.ps1 to ensure
-aliases are loaded correctly.
+Adds a comprehensive PowerShell profile configuration, including aliases, functions, and settings.
 
-Addresses file organization and maintainability.
+This commit introduces several new files to customize the PowerShell environment:
+
+- `Profile/Aliases/Command.Aliases.ps1`: Defines aliases for frequently used commands.
+- `Profile/Aliases/Path.Aliases.ps1`: Defines aliases for common paths.
+- `Profile/Config/PSReadLine.Config.psd1`: Configures the PSReadLine module for improved command-line editing.
+- `Profile/functions/Private/Logging-Functions.ps1`: Implements logging functions for profile initialization.
+- `Profile/functions/Public`: Contains various public functions for system information retrieval, application management, and network configuration.
+- `Profile/Profile.Configuration.psd1`: Defines the structure for profile configuration settings.
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">2ab34ffe</span>
-                            <span class="code">Profile/Aliases/Program.Aliases.psd1</span>
+                            <span class="code">bd9f047e</span>
+                            <span class="code">Profile/functions/Public/Reset-NetworkAdapter.ps1</span>
                             <span class="code">
-                                <span class="snippet additions">++11</span>
+                                <span class="snippet additions">++9</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -3099,7 +3102,7 @@ Addresses file organization and maintainability.
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,11 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">﻿@{<br /></span><span class="token prefix inserted">+</span><span class="token line">   'np'      = (Get-Command -Name 'notepad.exe').Source<br /></span><span class="token prefix inserted">+</span><span class="token line">   'expl'    = (Get-Command -Name 'explorer.exe').Source<br /></span><span class="token prefix inserted">+</span><span class="token line">   'calc'    = (Get-Command -Name 'calc.exe').Source<br /></span><span class="token prefix inserted">+</span><span class="token line">   'gkrak'   = (Get-Command -Name 'gitkraken.cmd').Source<br /></span><span class="token prefix inserted">+</span><span class="token line">   'codee'   = (Get-Command -Name 'code-insiders.cmd').Source<br /></span><span class="token prefix inserted">+</span><span class="token line">   'r'       = (Get-Command -Name 'R.bat').Source<br /></span><span class="token prefix inserted">+</span><span class="token line">   'rscript' = (Get-Command -Name 'R.bat').Source<br /></span><span class="token prefix inserted">+</span><span class="token line">   'rstudio' = 'Start-RStudio'<br /></span><span class="token prefix inserted">+</span><span class="token line">   'krak'    = 'Start-GitKraken'<br /></span><span class="token prefix inserted">+</span><span class="token line">}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,9 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">﻿Function Reset-NetworkAdapter() {<br /></span><span class="token prefix inserted">+</span><span class="token line">   [CmdletBinding()]<br /></span><span class="token prefix inserted">+</span><span class="token line">   param (<br /></span><span class="token prefix inserted">+</span><span class="token line">       [Parameter(Mandatory = $true)]$Interface<br /></span><span class="token prefix inserted">+</span><span class="token line">   )<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">   netsh.exe interface set interface $Interface admin=disable<br /></span><span class="token prefix inserted">+</span><span class="token line">   netsh.exe interface set interface $Interface admin=enable<br /></span><span class="token prefix inserted">+</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -3145,7 +3148,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2025, 01:04:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2025, 02:05:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
