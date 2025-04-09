@@ -2374,7 +2374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>s-fleck/lgrExtra</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extra Appenders for the lgr Package</div>
@@ -2427,7 +2427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>markvanderloo/settings</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Option Manager for R</div>
@@ -2474,7 +2474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>epinna/plumber</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scalable pipelines for IT automation tasks.</div>
@@ -2527,7 +2527,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sol-eng/plumberExamples</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Examples of building APIs in R using Plumber</div>
@@ -3110,7 +3110,7 @@ and connection management. This change supports buffered logging and improves ha
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">8716a4c5</span>
-                            <span class="code">DESCRIPTION</span>
+                            <span class="code">NAMESPACE</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -3121,7 +3121,7 @@ and connection management. This change supports buffered logging and improves ha
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -16,6 +16,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Suggests: <br /></span><span class="token prefix unchanged">·</span><span class="token line">covr,<br /></span><span class="token prefix unchanged">·</span><span class="token line">DBI,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">pool,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">elastic,<br /></span><span class="token prefix unchanged">·</span><span class="token line">gmailr,<br /></span><span class="token prefix unchanged">·</span><span class="token line">jsonlite,</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,6 +7,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">export(AppenderDt)<br /></span><span class="token prefix unchanged">·</span><span class="token line">export(AppenderElasticSearch)<br /></span><span class="token prefix unchanged">·</span><span class="token line">export(AppenderGmail)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">export(AppenderPool)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">export(AppenderPushbullet)<br /></span><span class="token prefix unchanged">·</span><span class="token line">export(AppenderSendmail)<br /></span><span class="token prefix unchanged">·</span><span class="token line">export(AppenderSyslog)</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -3167,7 +3167,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Apr 2025, 13:04:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Apr 2025, 14:05:14 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
