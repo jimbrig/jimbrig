@@ -10,7 +10,7 @@ Thanks for viewing the source code. #realdevs
   <a href="https://profile.codersrank.io/user/jimbrig/" target="blank"><img align="center" src="https://img.shields.io/badge/CodersRank-jimbrig-success?style=social&logo=codersrank" alt="codersrank" /></a>
   <br>
   <br>
-  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~14,998-blue"/></a>
+  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~14,999-blue"/></a>
 </p>
 
 ***
@@ -73,7 +73,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, April 22nd 2025, 8:08:25</b>
+  <b>Tuesday, April 22nd 2025, 10:07:22</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -148,7 +148,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, April 22nd 2025, 8:08:25</b>
+  <b>Tuesday, April 22nd 2025, 10:07:22</b>
 </p>
 
 * ⬆️ Pushed 2 commits to jimbrig/upptime
