@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2855" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2828" class="">
     <defs>
         <style/>
     </defs>
@@ -2381,7 +2381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elizabethsiegle/bike_walk_route_map_generator</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate an optimal path on a map a la Traveling Salesman Problem to hit different landmarks in an input city using Cloudflare Workers AI (using LlaMA-3.1), LangChain (for prompt templates and comma separated list output parser), Mapbox to create a map and get information about cities and landmarks in those cities, and Folium to edit the map.</div>
@@ -2428,7 +2428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mapbox/mapbox-gl-leaflet</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">binding from Mapbox GL JS to the Leaflet API</div>
@@ -2481,7 +2481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>walkerke/map-challenge-2024</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code and maps for 2024's 30 Day Map Challenge</div>
@@ -2528,7 +2528,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>walkerke/tidycensus</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R</div>
@@ -2581,7 +2581,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sid-kap/housing-data</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2629,7 +2629,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Devision789/AI_ConstructionSiteMonitoring</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AI_ConstructionSiteMonitoring</div>
@@ -2682,7 +2682,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GresaCalliku/AI_in_AEC</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AI Tools in the AEC</div>
@@ -2723,7 +2723,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jsvine/pdfplumber</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.</div>
@@ -2776,7 +2776,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zackees/transcribe-anything</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯</div>
@@ -2829,7 +2829,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jimbrig/student-housing-market-analysis</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Created with StackBlitz ⚡️</div>
@@ -3010,7 +3010,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 12 May 2025, 15:15:32
+                            On 12 May 2025, 15:18:08
                         </div>
                     </section>
                 </div>
@@ -3020,23 +3020,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            config: update package suggestion and ignore settings
-
-Replaces empty configuration for `extra.suggests` and `pkg_ignore`
-with 'S7'. This ensures consistent handling of the additional
-package suggestion and ignore settings during development.
-
-No breaking changes.
+                            chore(package): update pkg files
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">00ddb107</span>
-                            <span class="code">dev/config_attachment.yaml</span>
+                            <span class="code">92d940de</span>
+                            <span class="code">man/gmaps_places_search.Rd</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
-                                <span class="snippet deletions">--2</span>
+                                <span class="snippet additions">++1</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -3044,7 +3038,7 @@ No breaking changes.
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -3,8 +3,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">dir.r: R<br /></span><span class="token prefix unchanged">·</span><span class="token line">dir.v: vignettes<br /></span><span class="token prefix unchanged">·</span><span class="token line">dir.t: tests<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">extra.suggests: ~<br /></span><span class="token prefix deleted">-</span><span class="token line">pkg_ignore: ~<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">extra.suggests: S7<br /></span><span class="token prefix inserted">+</span><span class="token line">pkg_ignore: S7<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">document: yes<br /></span><span class="token prefix unchanged">·</span><span class="token line">normalize: yes<br /></span><span class="token prefix unchanged">·</span><span class="token line">inside_rmd: no</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -8,7 +8,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">company_name,<br /></span><span class="token prefix unchanged">·</span><span class="token line">company_address,<br /></span><span class="token prefix unchanged">·</span><span class="token line">company_phone = NULL,<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">api_key = "AIzaSyA9iicnOPVX6NmifeCQNYtEhIciwdSgaOc"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">api_key = get_gmaps_api_key()<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">)<br /></span><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line">\arguments{</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -3090,7 +3084,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 May 2025, 07:04:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 May 2025, 08:06:39 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
