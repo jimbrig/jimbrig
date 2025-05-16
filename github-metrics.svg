@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2647" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2734" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            28495 Commits
+                            28496 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -341,12 +341,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 86 commits)</small>
+                    <small class="h-details">(computed from last 100 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 20:00</li>
-                        <li>Mostly active on Wednesday</li>
+                        <li>Mostly pushes code around 15:00</li>
+                        <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
             </section>
@@ -2386,7 +2386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jimbrig/landrise-prototype</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2434,7 +2434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>r-spatialecology/landscapemetrics</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Landscape Metrics for Categorical Map Patterns 🗺️ in R</div>
@@ -2487,7 +2487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simonmoulds/lulcc</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">land use change modelling in R</div>
@@ -2540,7 +2540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jhk0530/shinyCyJS</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">cytoscape.js R binding library for shiny</div>
@@ -2593,7 +2593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jahnen/nhyris</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Framework for Independent R shiny</div>
@@ -2646,7 +2646,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jhk0530/rpm</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2754,7 +2754,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LandRise/landrise.data</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Data package for LandRise</div>
@@ -2801,7 +2801,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>directvt/vtm</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Text-based desktop environment</div>
@@ -2913,59 +2913,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">LandRise/landrise.data</span>
+                                        <span class="repo">jimbrig/landrise-prototype</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cc13db7</div>
-                                        <div class="message">docs: update README</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">master</span>
-                                        in
-                                        <span class="repo">LandRise/landrise.data</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">LandRise/landrise.data</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">LandRise/landrise.data</span>
+                                        <div class="sha">#f86ed47</div>
+                                        <div class="message">Update demo data and enhance map functionality</div>
                                     </div>
                                 </div>
                             </section>
@@ -2978,14 +2933,74 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">LandRise/landrise.data</span>
+                                        <span class="repo">jimbrig/landrise-prototype</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#94da2b5</div>
-                                        <div class="message">feat: initialize package and add datasets</div>
+                                        <div class="sha">#021f14e</div>
+                                        <div class="message">Fix map functionality and display</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/landrise-prototype</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aace980</div>
+                                        <div class="message">Fix map functionality and add data visualization</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/landrise-prototype</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#742519b</div>
+                                        <div class="message">Add required dependencies and fix map implementation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/landrise-prototype</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#548f15a</div>
+                                        <div class="message">Enhance map visualization and insights page</div>
                                     </div>
                                 </div>
                             </section>
@@ -3050,7 +3065,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">a43b458c</span>
-                            <span class="code">build/get-token.js.map</span>
+                            <span class="code">index.ts</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -3061,7 +3076,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"version":3,"file":"get-token.js","sourceRoot":"","sources":["../src/get-token.ts"],"names":[],"mappings":"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"}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">console.log("Hello via Bun!");<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
@@ -3107,7 +3122,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2025, 00:06:19 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 May 2025, 01:04:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
