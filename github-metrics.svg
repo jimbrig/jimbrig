@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2927" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2727" class="">
     <defs>
         <style/>
     </defs>
@@ -2371,7 +2371,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>The-Pocket/PocketFlow-Tutorial-Website-Chatbot</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PocketFlow Tutorial: Website Chatbot</div>
@@ -2553,7 +2553,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        407
+                                        408
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2902,6 +2902,30 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
+                                        <span class="repo">LandRise/landrise.reapi</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#27e9ddf</div>
+                                        <div class="message">config: update NAMESPACE</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c89d48</div>
+                                        <div class="message">feat: update internal package data</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
                                         <span class="repo">LandRise/landrise</span>
                                     </div>
                                 </div>
@@ -2986,78 +3010,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">jimbrig/upptime</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5e2ccfb</div>
-                                        <div class="message">🟩 R Universe is up (200 in 152 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d12f66d</div>
-                                        <div class="message">🟩 jimstools Docs is up (200 in 8 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b374f9</div>
-                                        <div class="message">🟩 lossrx Docs is up (200 in 17 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd4a98b</div>
-                                        <div class="message">🟩 The R Dispatch Blogdown is up (200 in 152 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92a8e47</div>
-                                        <div class="message">🟩 JimsDocs Distill Blog is up (200 in 193 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52aea4f</div>
-                                        <div class="message">🟩 GitHub Stars App is up (200 in 369 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0cb135a</div>
-                                        <div class="message">🟩 GitHub Issues App is up (200 in 323 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb0724f</div>
-                                        <div class="message">🟩 Clip2Mark is up (200 in 200 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2a444c</div>
-                                        <div class="message">🟩 GitHub Profile is up (200 in 315 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04347ee</div>
-                                        <div class="message">🟩 Devfolio is up (200 in 11 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80e33eb</div>
-                                        <div class="message">🟩 Projects Site is up (200 in 96 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8eb57bc</div>
-                                        <div class="message">🟩 KaaS - GitHub Pages is up (200 in 834 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac0726c</div>
-                                        <div class="message">🟩 KaaS - Obsidian Publish is up (200 in 496 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#774dc7c</div>
-                                        <div class="message">🟥 Property Allocation WebApp is down (503 in 217 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3138,7 +3090,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jun 2025, 05:05:26 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jun 2025, 06:04:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
