@@ -2381,7 +2381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RealEstateApi/RealEstateAPI.com-FlipAnalysis-Demo</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flip indicator analysis demo using RealEstateAPI's Property Search</div>
@@ -2428,7 +2428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RealEstateApi/RealEstateAPI.com-AutoComplete-Vue</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RealEstateAPI.com AutoComplete Vue Sample</div>
@@ -2475,7 +2475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LeaVerou/awesomplete</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ultra lightweight, usable, beautiful autocomplete with zero dependencies.</div>
@@ -2528,7 +2528,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tpemartin/materialise</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2582,7 +2582,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>richierocks/yelp</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">R interface to the Yelp Fusion API V3</div>
@@ -2629,7 +2629,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uber/nebula.gl</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A suite of 3D-enabled data editing overlays, suitable for deck.gl</div>
@@ -2682,7 +2682,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timelyportfolio/nebular</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">nebula.gl experiment for R</div>
@@ -2729,7 +2729,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mac-s-g/react-json-view</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JSON viewer for react</div>
@@ -2897,6 +2897,46 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">noclocks/cuttime-mtd-dev-db</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#24904a1</div>
+                                        <div class="message">docs: add README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">noclocks/cuttime-mtd-dev-db</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d6f40a4</div>
+                                        <div class="message">docs: add README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -2939,73 +2979,6 @@
                                     <div class="commit">
                                         <div class="sha">#d28f768</div>
                                         <div class="message">Update publish_config.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">noclocks/cuttime-housekeeping-datafactory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3b63b55</div>
-                                        <div class="message">Create publish_config.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">noclocks/cuttime-housekeeping-datafactory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dd5facc</div>
-                                        <div class="message">Adding dataset: CSVtable
-Adding linkedService: AzureBlobStorage1
-Adding dataset: SQLTable
-Adding linkedService: srvcMTDcore
-Adding dataset: source_mtdCore
-Adding dataset: DEV
-Adding linkedService: DEV
-Adding dataset: AzureSqlTable1
-Adding dataset: AzureSqlTable2
-Adding dataset: DEV_table_metadata_source
-Adding dataset: source_mn_distjobs
-Adding dataset: destination_mn_distjobs
-Adding trigger: refresh Housekeeping Audit Table every 4 hours
-Adding pipeline: Load and Update Housekeeping Table
-Adding trigger: Archive and Delete tables
-Adding pipeline: Archive and Delete tables
-Adding trigger: Refresh DEV from PROD
-Adding pipeline: Refresh Dev Master
-Adding pipeline: Copy Table Detail from DEV to PROD
-Adding pipeline: Load and Update Dev Refresh Housekeeping Table
-Adding pipeline: Refresh DEV
-Adding pipeline: Refresh One Off Tables
-Adding trigger: Truncate big 6 tables in DEV
-Adding pipeline: Truncate the Big 6 in DEV
-Adding trigger: Refresh lkup_Schools_Districts_ForMatch
-Adding pipeline: refresh lkup_Schools_Districts_ForMatch
-Adding dataflow: dataflow1
-Adding factory: housekeeping</div>
                                     </div>
                                 </div>
                             </section>
@@ -3090,7 +3063,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jun 2025, 11:04:19 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jun 2025, 12:05:04 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
