@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2597" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2813" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            29807 Commits
+                            29808 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2383,7 +2383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LandRise/landrise.utils</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LandRise General Purpose Utilities</div>
@@ -2430,7 +2430,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>moturoa/shintofilter</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Data filters for Shinto applications</div>
@@ -2477,7 +2477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>moturoa/shintodb</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shinto's own database layer</div>
@@ -2530,7 +2530,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>moturoa/softui</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2584,7 +2584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coatless-quarto/r-shinylive-demo</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deploying an R Shiny Application in Quarto with Shinylive (No Shiny Server Required)</div>
@@ -2631,7 +2631,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LandRise/landrise.reports</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LandRise Property Parcel Analysis Reporting System</div>
@@ -2898,6 +2898,86 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 16 commits in
+                                        <span class="repo">LandRise/landrise.app</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#629a84b</div>
+                                        <div class="message">feat: add automatic geolocation and proper asset loading</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50c0bb1</div>
+                                        <div class="message">fix: various fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1c11bb</div>
+                                        <div class="message">docs: roxygenize</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d60bf07</div>
+                                        <div class="message">Merge branch 'feature/autocomplete' into develop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f76660</div>
+                                        <div class="message">Merge branch 'feature/autocomplete' into develop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2f0799</div>
+                                        <div class="message">Merge branch 'develop' into feature/autocomplete</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34bd1e9</div>
+                                        <div class="message">feat: finish autocomplete module</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#050a54e</div>
+                                        <div class="message">Merge branch 'develop' into feature/autocomplete</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa9564b</div>
+                                        <div class="message">update assets</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72b1b77</div>
+                                        <div class="message">fix: fix asset mgmt</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a11642</div>
+                                        <div class="message">docs: roxygen</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9b7bee</div>
+                                        <div class="message">refactor: cleanup filters module</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5b2c8a</div>
+                                        <div class="message">feat: add mod_autocomplete module</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e618eb8</div>
+                                        <div class="message">Merge branch 'feature/assets' into feature/autocomplete</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5c2c95</div>
+                                        <div class="message">feat: add asset utils</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#609fe2d</div>
+                                        <div class="message">feat: add updated www structure</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -2957,34 +3037,6 @@
                                         Created new
                       repository
                                         <span class="repo">LandRise/landrise.utils</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">LandRise/landrise.reports</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e2e6a9d</div>
-                                        <div class="message">tests: add testthat</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6865ec8</div>
-                                        <div class="message">tests: add testthat</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a820ef2</div>
-                                        <div class="message">config: add ignores</div>
                                     </div>
                                 </div>
                             </section>
@@ -3069,7 +3121,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2025, 14:05:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jul 2025, 15:03:57 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
