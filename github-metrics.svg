@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3060" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2943" class="">
     <defs>
         <style/>
     </defs>
@@ -341,7 +341,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 69 commits)</small>
+                    <small class="h-details">(computed from last 70 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2376,7 +2376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rspatial/geodata</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">download geographic data</div>
@@ -2429,7 +2429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>geostyler/geostyler</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generic Styler for geodata</div>
@@ -2482,7 +2482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rOpenGov/giscoR</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download geospatial data from GISCO API - Eurostat</div>
@@ -2899,6 +2899,84 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">LandRise/landrise.app</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/revamp</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e59c789</div>
+                                        <div class="message">fix(ui): improve lot size slider validation
+
+Enhances lot size data validation by ensuring only positive and finite values
+are considered. Updates slider input handling to include range verification
+ensuring meaningful minimum and maximum values for display.
+
+No related issues.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ecd3b0</div>
+                                        <div class="message">refactor(ui): update select inputs to not pre-select values
+
+Modifies select inputs to start with no pre-selected options to allow
+users to make choices themselves, enhancing user control and interaction.
+
+Addresses usability enhancement request.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54c0177</div>
+                                        <div class="message">feat(ui): add re-run functionality to search history
+
+Implements dynamic observers for re-run buttons, allowing users to re-apply search parameters from search history. Enhances user interaction by providing notifications on successful application of search parameters or warnings on failure or unavailability.
+
+No Breaking Changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a95e422</div>
+                                        <div class="message">feat(server): add search param application
+
+Introduces a function to apply search parameters for re-run functionality, enhancing the server's capability to manage search state effectively. This addition aims to improve user experience by providing an option to reapply search configurations.
+
+No breaking changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e9bc90</div>
+                                        <div class="message">feat: reset search builder state after search completion
+
+Implements functionality to reset the search builder to its initial state after a successful search, ensuring consistent starting conditions for subsequent searches and enhancing user experience.
+
+No breaking changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e22f0e1</div>
+                                        <div class="message">feat: add method to apply search parameters
+
+Introduces a new method that applies search parameters from a given list to reset and update the search state. This addition streamlines search configuration management by leveraging previously saved search criteria.
+
+Includes updates to several helper functions to improve parameter validation and alignment, enhancing usability and consistency.
+
+No breaking changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ecf2d3</div>
+                                        <div class="message">add: deploy workflow for feature/revamp branch
+
+Introduces a GitHub Actions workflow to automate the deployment process
+for changes pushed to the feature/revamp branch. This workflow includes steps
+to build and push a container image to Azure Container Registry and deploy it
+to an Azure Container App, supporting manual triggers for flexibility.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">LandRise/landrise.app</span>
                                     </div>
@@ -3108,78 +3186,6 @@ No longer required as part of the project workflow or data management.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">jimbrig/upptime</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#16c74e7</div>
-                                        <div class="message">🟩 R Universe is up (200 in 150 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8799c34</div>
-                                        <div class="message">🟩 jimstools Docs is up (200 in 37 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#522e2d5</div>
-                                        <div class="message">🟩 lossrx Docs is up (200 in 147 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d580c79</div>
-                                        <div class="message">🟩 The R Dispatch Blogdown is up (200 in 246 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43618ee</div>
-                                        <div class="message">🟩 JimsDocs Distill Blog is up (200 in 243 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20dbed5</div>
-                                        <div class="message">🟩 GitHub Stars App is up (200 in 2733 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3542a81</div>
-                                        <div class="message">🟩 GitHub Issues App is up (200 in 203 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a549ead</div>
-                                        <div class="message">🟩 Clip2Mark is up (200 in 205 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d5dfc9</div>
-                                        <div class="message">🟩 GitHub Profile is up (200 in 439 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81127e7</div>
-                                        <div class="message">🟩 Devfolio is up (200 in 52 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb93e10</div>
-                                        <div class="message">🟩 Projects Site is up (200 in 189 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe0724d</div>
-                                        <div class="message">🟩 KaaS - GitHub Pages is up (200 in 206 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bdb47c0</div>
-                                        <div class="message">🟩 KaaS - Obsidian Publish is up (200 in 414 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94627dd</div>
-                                        <div class="message">🟥 Property Allocation WebApp is down (500 in 217 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3260,7 +3266,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jul 2025, 17:04:19 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jul 2025, 18:04:19 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
