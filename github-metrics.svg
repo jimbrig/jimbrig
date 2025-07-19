@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            30396 Commits
+                            30397 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2391,7 +2391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/container-apps-deploy-action</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Action for building and deploying Azure Container Apps</div>
@@ -3038,7 +3038,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 18 Jul 2025, 21:24:02
+                            On 18 Jul 2025, 21:24:26
                         </div>
                     </section>
                 </div>
@@ -3048,13 +3048,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fix: change to Microsoft.PowerShell.ThreadJob
+                            Update WingetTools.psd1
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">5c75c732</span>
+                            <span class="code">6ad1c110</span>
                             <span class="code">WingetTools.psd1</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
@@ -3066,7 +3066,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -16,7 +16,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"># Type files (.ps1xml) to be loaded when importing this module<br /></span><span class="token prefix unchanged">·</span><span class="token line">TypesToProcess       = @("types\wginstalled.types.ps1xml")<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">RequiredModules      = @("ThreadJob", "psyml")<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">RequiredModules      = @("Microsoft.PowerShell.ThreadJob", "psyml")<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">FormatsToProcess     = @(<br /></span><span class="token prefix unchanged">·</span><span class="token line">    'formats\wgpackage.format.ps1xml',</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,7 +5,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">@{<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">RootModule           = 'WingetTools.psm1'<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">ModuleVersion        = '1.7.0'<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">ModuleVersion        = '1.7.1'<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">CompatiblePSEditions = @('Desktop', 'Core')<br /></span><span class="token prefix unchanged">·</span><span class="token line">GUID                 = '1130bb85-58d1-487d-9763-c38011f9613d'<br /></span><span class="token prefix unchanged">·</span><span class="token line">Author               = 'Jeff Hicks'</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -3112,7 +3112,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2025, 12:04:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jul 2025, 13:04:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
