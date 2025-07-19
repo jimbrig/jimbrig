@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2610" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2827" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            30389 Commits
+                            30390 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -341,7 +341,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 98 commits)</small>
+                    <small class="h-details">(computed from last 106 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2391,7 +2391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/container-apps-deploy-action</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Action for building and deploying Azure Container Apps</div>
@@ -2444,7 +2444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tutuchan/fodr</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An R package to access French Open Data portals</div>
@@ -2497,7 +2497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lchiffon/leafletCN</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An R gallery for China and other geojson choropleth map in leaflet</div>
@@ -2903,6 +2903,174 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 14 commits in
+                                        <span class="repo">jimbrig/upptime</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6273ed0</div>
+                                        <div class="message">🟩 R Universe is up (200 in 279 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#092ea68</div>
+                                        <div class="message">🟩 jimstools Docs is up (200 in 102 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c82f0af</div>
+                                        <div class="message">🟩 lossrx Docs is up (200 in 102 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3464bf</div>
+                                        <div class="message">🟩 The R Dispatch Blogdown is up (200 in 177 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a364de2</div>
+                                        <div class="message">🟩 JimsDocs Distill Blog is up (200 in 251 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efbc00e</div>
+                                        <div class="message">🟩 GitHub Stars App is up (200 in 3001 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b62886</div>
+                                        <div class="message">🟩 GitHub Issues App is up (200 in 253 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#61eb65a</div>
+                                        <div class="message">🟩 Clip2Mark is up (200 in 271 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6618950</div>
+                                        <div class="message">🟩 GitHub Profile is up (200 in 517 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96b4ecf</div>
+                                        <div class="message">🟩 Devfolio is up (200 in 109 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b4341e</div>
+                                        <div class="message">🟩 Projects Site is up (200 in 264 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c021161</div>
+                                        <div class="message">🟩 KaaS - GitHub Pages is up (200 in 315 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f0d146</div>
+                                        <div class="message">🟩 KaaS - Obsidian Publish is up (200 in 1132 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b4162e</div>
+                                        <div class="message">🟥 Property Allocation WebApp is down (500 in 251 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">LandRise/landrise.app</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c0f61a3</div>
+                                        <div class="message">Merge pull request #30 from LandRise/dependabot/github_actions/docker/build-push-action-6
+
+build(deps): bump docker/build-push-action from 5 to 6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2109a2</div>
+                                        <div class="message">build(deps): bump docker/build-push-action from 5 to 6
+
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 5 to 6.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v5...v6)
+
+---
+updated-dependencies:
+- dependency-name: docker/build-push-action
+  dependency-version: '6'
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/github_actions/docker/build-push-action-6</span>
+                                        in
+                                        <span class="repo">LandRise/landrise.app</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">LandRise/landrise.app</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c0f61a3</div>
+                                        <div class="message">Merge pull request #30 from LandRise/dependabot/github_actions/docker/build-push-action-6
+
+build(deps): bump docker/build-push-action from 5 to 6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2109a2</div>
+                                        <div class="message">build(deps): bump docker/build-push-action from 5 to 6
+
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 5 to 6.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v5...v6)
+
+---
+updated-dependencies:
+- dependency-name: docker/build-push-action
+  dependency-version: '6'
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">LandRise/landrise.app</span>
                                     </div>
@@ -2910,92 +3078,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b6cd41</div>
-                                        <div class="message">fix(deploy): ensure correct image tag retrieval
-
-Adjust the logic to correctly set the IMAGE_TAG based on
-whether the event is a workflow_run or a manual trigger,
-ensuring the appropriate SHA is used for different trigger types.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">LandRise/landrise.app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ffe73ed</div>
-                                        <div class="message">Update deploy.yml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">LandRise/landrise.app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f110b3c</div>
+                                        <div class="sha">#2811ed6</div>
                                         <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">LandRise/landrise.app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3f21cb5</div>
-                                        <div class="message">Delete .github/workflows/R-CMD-check.yml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">LandRise/landrise.app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4cabf44</div>
-                                        <div class="message">Add files via upload</div>
                                     </div>
                                 </div>
                             </section>
@@ -3080,7 +3164,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2025, 23:29:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jul 2025, 00:11:16 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
