@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2777" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2793" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            30427 Commits
+                            30431 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -341,7 +341,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 120 commits)</small>
+                    <small class="h-details">(computed from last 123 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2396,7 +2396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fkeck/rleafmap</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Interactive maps with R and Leaflet</div>
@@ -2449,7 +2449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chgrl/leafletR</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An R package to create interactive web-maps based on the Leaflet JavaScript library</div>
@@ -2502,7 +2502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>walkerke/umich-workshop-2025</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code and materials for the 2025 Census Data workshops given at the University of Michigan's SSDAN</div>
@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jrwinget/bidux</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tools for Shiny developers to apply behavioral science in UI/UX design using the Behavior Insight Design (BID) framework</div>
@@ -2602,7 +2602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lindsayjorgenson/astho.viz</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ASTHO Data Visualization in Highcharts</div>
@@ -2649,7 +2649,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lindsayjorgenson/stories-mre</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Data Stories in R Shiny</div>
@@ -2916,14 +2916,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e85a37b</div>
-                                        <div class="message">refactor(api): replace max_results with limit in search functions
-
-Replaces the usage of `max_results` with a more descriptive `limit` parameter
-in search functions, streamlining parameter naming and improving code clarity.
-
-Consolidates pagination logic by using `limit` to determine the maximum total
-results to retrieve, ensuring a consistent approach across functions.</div>
+                                        <div class="sha">#d9a9af6</div>
+                                        <div class="message">feat: simplify MSA searching via `or` parameter</div>
                                     </div>
                                 </div>
                             </section>
@@ -2942,30 +2936,8 @@ results to retrieve, ensuring a consistent approach across functions.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e85a37b</div>
-                                        <div class="message">refactor(api): replace max_results with limit in search functions
-
-Replaces the usage of `max_results` with a more descriptive `limit` parameter
-in search functions, streamlining parameter naming and improving code clarity.
-
-Consolidates pagination logic by using `limit` to determine the maximum total
-results to retrieve, ensuring a consistent approach across functions.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">feature/refactor</span>
-                                        in
-                                        <span class="repo">LandRise/landrise.reapi</span>
+                                        <div class="sha">#d9a9af6</div>
+                                        <div class="message">feat: simplify MSA searching via `or` parameter</div>
                                     </div>
                                 </div>
                             </section>
@@ -2977,45 +2949,77 @@ results to retrieve, ensuring a consistent approach across functions.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
+                                        <span class="repo">LandRise/landrise.data</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fdc6d53</div>
+                                        <div class="message">feat(database): restructure geo schema and add seeding functions
+
+Introduces a new directory structure for geo schema, including tables for states, boundaries, and a county MSA lookup.
+Enhances database initialization by integrating comprehensive seeding functions for geo-related tables using transformed datasets.
+Streamlines connection handling in the DB functions and updates documentation files for new capabilities.
+
+This update improves architecture for future expansions and optimizes data management workflows.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">LandRise/landrise.data</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8416303</div>
+                                        <div class="message">feat(data): add full FIPS code option to county retrieval
+
+Introduces a parameter to return full FIPS codes (state + county)
+or just county FIPS in the get_counties_by_msa function. Defaults
+to returning full FIPS, enhancing data precision and usability
+for specific use cases.
+
+Additionally, updates FIPS code retrieval to reference updated
+dataset package, ensuring data consistency.
+
+No breaking changes introduced.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">LandRise/landrise.reapi</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#56dc068</div>
-                                        <div class="message">release: upgrade version to 0.0.4
+                                        <div class="sha">#e85a37b</div>
+                                        <div class="message">refactor(api): replace max_results with limit in search functions
 
-Bumps version from 0.0.3 to 0.0.4 to prepare for the upcoming release.
-No breaking changes introduced.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e9dbc1</div>
-                                        <div class="message">Merge branch 'develop'</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">LandRise/landrise.reapi</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#56dc068</div>
-                                        <div class="message">release: upgrade version to 0.0.4
+Replaces the usage of `max_results` with a more descriptive `limit` parameter
+in search functions, streamlining parameter naming and improving code clarity.
 
-Bumps version from 0.0.3 to 0.0.4 to prepare for the upcoming release.
-No breaking changes introduced.</div>
+Consolidates pagination logic by using `limit` to determine the maximum total
+results to retrieve, ensuring a consistent approach across functions.</div>
                                     </div>
                                 </div>
                             </section>
@@ -3137,7 +3141,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2025, 18:04:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jul 2025, 19:04:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
