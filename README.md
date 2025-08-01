@@ -10,7 +10,7 @@ Thanks for viewing the source code. #realdevs
   <a href="https://profile.codersrank.io/user/jimbrig/" target="blank"><img align="center" src="https://img.shields.io/badge/CodersRank-jimbrig-success?style=social&logo=codersrank" alt="codersrank" /></a>
   <br>
   <br>
-  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~15,770-blue"/></a>
+  <a href="https://www.powershellgallery.com/profiles/jimbrig"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~15,776-blue"/></a>
 </p>
 
 ***
@@ -73,7 +73,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, July 31st 2025, 8:09:16</b>
+  <b>Friday, August 1st 2025, 12:43:10</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -148,7 +148,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Thursday, July 31st 2025, 8:09:16</b>
+  <b>Friday, August 1st 2025, 12:43:10</b>
 </p>
 
 * ⬆️ Pushed 2 commits to jimbrig/upptime
@@ -160,11 +160,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  31,280 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 2 tasks this week           
-✅  Completed 10,033 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
