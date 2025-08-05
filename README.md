@@ -73,7 +73,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, August 5th 2025, 4:27:01</b>
+  <b>Tuesday, August 5th 2025, 6:13:44</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -164,7 +164,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Tuesday, August 5th 2025, 4:27:01</b>
+  <b>Tuesday, August 5th 2025, 6:13:44</b>
 </p>
 
 * 🗣 Commented on #2114 in r-lib/usethis
@@ -176,11 +176,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  31,299 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 10,038 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
