@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            31100 Commits
+                            31101 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2366,7 +2366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NeonityDev/XtremeShell</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free Windows optimizer software.</div>
@@ -2419,7 +2419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Adam974479/MLH-Hackfest-Declutter-AI</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2467,7 +2467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheSethRose/AI-File-Organizer-Agent</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Uses an AI agent (powered by Google Gemini via the Agno framework) to intelligently propose and execute a plan for organizing files within a specified directory on your computer.</div>
@@ -2514,7 +2514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hyperfield/ai-file-sorter</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful cross-platform desktop application that automates file organization with AI. Works with Local LLMs.</div>
@@ -3091,7 +3091,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">fb23bb39</span>
-                            <span class="code">tests/README.md</span>
+                            <span class="code">docs/README.md</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -3102,7 +3102,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># Tests</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># Documentation</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -3148,7 +3148,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Sept 2025, 08:06:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Sept 2025, 09:12:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
