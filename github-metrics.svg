@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2867" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2584" class="">
     <defs>
         <style/>
     </defs>
@@ -341,7 +341,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 46 commits)</small>
+                    <small class="h-details">(computed from last 47 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2371,7 +2371,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kimmobrunfeldt/git-hours</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Estimate time spent on a git repository</div>
@@ -2424,7 +2424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>instrumenta/openapi2jsonschema</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convert OpenAPI definitions into JSON schemas for all types in the API</div>
@@ -2477,7 +2477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dolmen-go/openapi-preprocessor</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An authoring tool for OpenAPI specifications</div>
@@ -2530,7 +2530,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apisyouwonthate/api-glossary</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2572,7 +2572,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saasquatch/json-schema-inferrer</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Java library for inferring JSON schema from sample JSONs</div>
@@ -2625,7 +2625,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apigee-127/sway</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library that simplifies OpenAPI (fka Swagger) integrations/tooling.</div>
@@ -2678,7 +2678,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stripe/stripe-mock</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.</div>
@@ -2731,7 +2731,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apiture/openapi-down-convert</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convert an OpenAPI 3.1.x document to OpenAPI 3.0.x format</div>
@@ -2784,7 +2784,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ajv-validator/ajv-cli</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command-line interface for Ajv JSON Validator</div>
@@ -2837,7 +2837,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bump-sh/cli</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bump.sh CLI - Deploy your OpenAPI &amp; AsyncAPI documentations from your CI</div>
@@ -2901,67 +2901,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">jimbrig/upptime</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jimbrig/api.realestateapi.com</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e6c23c8</div>
-                                        <div class="message">🟩 R Universe is up (200 in 266 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6da2272</div>
-                                        <div class="message">🟩 jimstools Docs is up (200 in 24 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8591a8</div>
-                                        <div class="message">🟩 lossrx Docs is up (200 in 10 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a7f85b</div>
-                                        <div class="message">🟩 The R Dispatch Blogdown is up (200 in 142 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e7289e</div>
-                                        <div class="message">🟩 JimsDocs Distill Blog is up (200 in 243 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb46183</div>
-                                        <div class="message">🟩 GitHub Stars App is up (200 in 2971 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffe9b3f</div>
-                                        <div class="message">🟩 GitHub Issues App is up (200 in 167 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a456652</div>
-                                        <div class="message">🟩 Clip2Mark is up (200 in 184 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43f59a8</div>
-                                        <div class="message">🟩 GitHub Profile is up (200 in 516 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#164b83a</div>
-                                        <div class="message">🟩 Devfolio is up (200 in 92 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ddfb214</div>
-                                        <div class="message">🟩 Projects Site is up (200 in 210 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4ca0bc</div>
-                                        <div class="message">🟩 KaaS - GitHub Pages is up (200 in 360 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f1b7ca</div>
-                                        <div class="message">🟩 KaaS - Obsidian Publish is up (200 in 268 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c65a985</div>
-                                        <div class="message">🟥 Property Allocation WebApp is down (503 in 282 ms) [skip ci] [upptime]</div>
+                                        <div class="sha">#d1fa606</div>
+                                        <div class="message">update</div>
                                     </div>
                                 </div>
                             </section>
@@ -2974,7 +2922,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">genotrance/px</span>
+                                        <span class="repo">instrumenta/openapi2jsonschema</span>
                                     </div>
                                 </div>
                             </section>
@@ -2987,7 +2935,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">pewdiepie-archdaemon/dionysus</span>
+                                        <span class="repo">dolmen-go/openapi-preprocessor</span>
                                     </div>
                                 </div>
                             </section>
@@ -3000,7 +2948,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">4regab/TaskSync</span>
+                                        <span class="repo">apisyouwonthate/api-glossary</span>
                                     </div>
                                 </div>
                             </section>
@@ -3013,7 +2961,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">sdi2200262/agentic-project-management</span>
+                                        <span class="repo">saasquatch/json-schema-inferrer</span>
                                     </div>
                                 </div>
                             </section>
@@ -3071,16 +3019,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat: add git (global config, attributes, and ignore + signers)
+                            docs: add README files for configuration, documentation, source code, Git, and tests
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">22f6eaf7</span>
-                            <span class="code">src/git/.config/git/signers</span>
+                            <span class="code">fb23bb39</span>
+                            <span class="code">docs/README.md</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
+                                <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -3089,7 +3037,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,2 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">jimmy.briggs@noclocks.dev ssh-ed25519 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB0ZZADG1gYhyRoT9XU1SQIIi5paq0g5EB8FF7PNqrgM jimmy.briggs@noclocks.dev<br /></span><span class="token prefix inserted">+</span><span class="token line">jimmy.briggs@jimbrig.com ssh-ed25519 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOW6cG+zdbq6JTPNqBF6ZPICsZCXFhIQk+44oLb9J7In jimmy.briggs@jimbrig.com</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># Documentation</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -3135,7 +3083,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2025, 15:04:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Sept 2025, 16:04:26 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
