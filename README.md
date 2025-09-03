@@ -73,7 +73,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, September 3rd 2025, 2:07:45</b>
+  <b>Wednesday, September 3rd 2025, 4:08:46</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -164,7 +164,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Wednesday, September 3rd 2025, 2:07:45</b>
+  <b>Wednesday, September 3rd 2025, 4:08:46</b>
 </p>
 
 * ⬆️ Pushed 1 commit to jimbrig/api.realestateapi.com
@@ -176,11 +176,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  31,427 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 24 tasks this week           
-✅  Completed 10,084 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
