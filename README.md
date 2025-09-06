@@ -73,7 +73,7 @@ Successful history of identifying patterns, making interpretations, and producin
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, September 6th 2025, 4:08:22</b>
+  <b>Saturday, September 6th 2025, 6:09:24</b>
 </p>
 
 <h3  align="center">🏅 Ranks</h3>
@@ -164,7 +164,7 @@ And Much More!
 
 <p align="center">
   Last refresh: 
-  <b>Saturday, September 6th 2025, 4:08:22</b>
+  <b>Saturday, September 6th 2025, 6:09:24</b>
 </p>
 
 * ⬆️ Pushed 2 commits to jimbrig/upptime
@@ -176,11 +176,6 @@ And Much More!
 <h3 align="center">✔ Productivity</h3>
 
 <!-- TODO-IST:START -->
-🏆  31,453 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 30 tasks this week           
-✅  Completed 10,090 tasks so far           
-⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 <h2 align="center">📌 Pinned Repos</h2>
