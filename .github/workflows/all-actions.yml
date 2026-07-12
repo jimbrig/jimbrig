@@ -20,22 +20,11 @@ jobs:
           with:
             path: ./config/stack.yml
           
-  Profile-Todoist:
-    name: Update Todoist Stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: abhisheknaiidu/todoist-readme@master
-        with:
-          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
-          PREMIUM: true
-          
   Profile-README:
     name: Update README
     runs-on: ubuntu-latest
     needs:
       - Profile-Stack
-      - Profile-Todoist
     steps:
       - uses: actions/checkout@v4
         with:
