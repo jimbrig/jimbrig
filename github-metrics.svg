@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            32981 Commits
+                            32982 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 22241 repositories
+                            Starred 22239 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2385,7 +2385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rot1024/duckdb-wasm-mvt</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Render features in a DuckDB-WASM table on MapLibre GL JS as MVT</div>
@@ -2438,7 +2438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tarlaun/hifive</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2486,7 +2486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leoneljdias/maplibre-label-callout</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Labels with connector lines for MapLibre GL JS</div>
@@ -2539,7 +2539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antvis/L7</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine.</div>
@@ -2592,7 +2592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AbelVM/maplibre-contourmap</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Contour maps plugin for MapLibreGL JS</div>
@@ -2645,7 +2645,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>corb555/maplibre-glass-css</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Provides a glass UI theme for MapLibre GL JS controls</div>
@@ -2698,7 +2698,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>willcohen/backproj</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2752,7 +2752,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>indus/maplibre-merge-protocol</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A custom protocol for merging geometry with attributes from multiple tile sets.</div>
@@ -2805,7 +2805,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rowanwins/mapbox-gl-flatgeobuf</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A little library for mapbox-gl that provides a tiled approach to consuming flatgeobuf files.</div>
@@ -2858,7 +2858,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mkeller3/mapbox-gl-ogc-feature-collection</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A small package for requesting geojson from an OGC Feature API endpoint to serve tiles in MapBox/MapLibre.</div>
@@ -3060,7 +3060,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2026, 13:05:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2026, 15:16:58 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
