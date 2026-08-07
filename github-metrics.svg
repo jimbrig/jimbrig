@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2381,7 +2381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cambridgegis/cambridgegis_data</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">City of Cambridge GIS Data</div>
@@ -2428,7 +2428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mvt-proj/any2maplibre</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust workspace with map style converters (SLD, QGIS QML) to the MapLibre Style Spec</div>
@@ -2481,7 +2481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>haydenbleasel/blume</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">World-class docs for everything you ship. Fast, AI-ready, and zero-config.</div>
@@ -2534,7 +2534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>geolonia/mbgl-export-control</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Mapbox GL JS plugin that allows you to download the map as `.png` file.</div>
@@ -2587,7 +2587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ahuarte47/duckdb-stac</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DuckDB extension for reading data from SpatioTemporal Asset Catalogs (STAC) using SQL</div>
@@ -2640,7 +2640,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yuiseki/TRIDENT</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖🛠🗺 TRIDENT - AI Assistant for Interactive Smart Maps</div>
@@ -2693,7 +2693,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unvt/vt-optimizer-rs</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast CLI to inspect and optimize MBTiles/PMTiles vector tiles</div>
@@ -2746,7 +2746,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yuiseki/charites-like-opfs</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open the future of editing map styles only in the browser with MapLibre GL JS and OPFS</div>
@@ -2793,7 +2793,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coin-mirror/maplibre-gl-renderer</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rendering MapLibre maps on server-side into pictures with full maplibre style spec support.</div>
@@ -2846,7 +2846,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MapRVA/styles</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MapLibre styles curated by MapRVA</div>
@@ -2983,7 +2983,7 @@ Successful history of identifying patterns, making interpretations, and producin
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2026, 18:14:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Aug 2026, 19:14:54 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
